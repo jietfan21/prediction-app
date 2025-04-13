@@ -93,20 +93,15 @@
     </p>
 
     <p><strong>Confidence Level:</strong></p>
-   <p>
-  <span class="pill {% if confidence_level == 'High' %}green{% elif confidence_level == 'Medium' %}yellow{% else %}red{% endif %}">
-    {{ confidence_level }}
-  </span>
-</p>
+    <p>
+      <span class="pill {% if confidence_level == 'High' %}green{% elif confidence_level == 'Medium' %}yellow{% else %}red{% endif %}">
+        {{ confidence_level }} ({{ confidence_percent }}% confidence)
+      </span>
+    </p>
 
-    <meter 
-      value="{{ confidence_percent }}" 
-      min="0" 
-      max="100" 
-      low="40" 
-      high="70" 
-      optimum="100">
-    </meter>
+    <p style="font-size: 0.95rem; color: #777;">
+      Z-score: {{ z_score }}
+    </p>
   </div>
 
   <!-- Breakdown -->
@@ -114,6 +109,7 @@
      <strong>Losses:</strong> 🟥 {{ losses }} &nbsp;&nbsp;&nbsp;
      <strong>Pushes:</strong> 🟨 {{ pushes }}</p>
 
+  <!-- Other Stats -->
   <p>
     <strong>Total Profit:</strong>
     <span class="pill {% if profit > 0 %}green{% elif profit < 0 %}red{% else %}yellow{% endif %}">
