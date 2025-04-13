@@ -1,0 +1,1465 @@
+﻿Number,Date,Sport,Type,Platform,Lead,Odd,Wide Odd Range,Narrow Odd Range,Stake,Result,Bet return,Return,Profit/Loss
+1,45652,NBA,Single,Sportsbet,Shai Gilgeous O 32.5 pts,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+2,45652,NBA,Single,PointsBet,Duncan Robinson U 11.5 pts,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+3,45652,NBA,Single,Bet365,Alexandre Sarr O 6.5 rb ,1.78,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+4,45652,NBA,Single,Dabble,Larry Nance O 7.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+5,45652,NBA,Single,Bet365,Gradey Dick U 16.5 pts ,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+6,45652,NBA,Multiple,Dabble,Larry Nance 8+ rb; Jalen Duren 12+ rb; Pascal Siakam 10+rbs,27.34,2.80+,2.5 and above,0.15,L,,0,-0.15
+7,45652,NBA,Single,PointsBet,Bam Adebayo O 16.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+8,45652,NBA,Single,Bet365,Ben Simmons O 7.5 a,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+9,45652,NBA,Single,Others,Simmons Ben double2 incl OT,7.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+10,45652,NBA,Multiple,Dabble,Thunder ML; Charlotte ML; Hawks ML,3.22,2.80+,2.5 and above,1,L,,0,-1
+11,45652,NBA,Single,Bet365,Amen Thompdon O 14.5 pts,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+12,45652,NBA,Multiple,Ladbrokes,"Lauri Markkanen 4+ rb, 15+ pts; Scoot Henderson 4+ a;",1.95,1.90–2.80,1.9–2.0,2,W,yes,3.9,1.9
+13,45653,Soccer,Multiple,Bet365,Brighton O 1 goal; Brighton ML/draw; Mitomo O 0.5 shots OT; Pedro O 0.5 shots OT,1.7,1.78 and below,1.7 and below,3,L,,0,-3
+14,45654,NBA,Single,Dabble,Kyrie Irving O 27.5 pts,1.82,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+15,45654,NBA,Single,Ladbrokes,Royce O Neale U 11.5 pts,1.87,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+16,45654,NBA,Single,ANY,Jalen Suggs U 21.5 pts,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+17,45654,NBA,Single,Dabble,Julius Randle U 4.5 a,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+18,45654,NBA,Multiple,Sportsbet,da silva O 2.5 rb; Knicks ML; Karl Anthony 8+ rb,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+19,45654,NBA,Single,Bet365,Cam whitmore U 12.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+20,45654,NBA,Single,Ladbrokes,Jake Laravia O 3.5 rb,1.75,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+21,45654,NBA,Double,Bet365,Jayson tatum triple double yes; Quentin Grmes 7+ rb,80.5,2.80+,2.5 and above,0.1,L,,0,-0.1
+22,45654,NBA,Single,Bet365,Ben Sheppard U 7.5 pts,1.95,1.90–2.80,1.9–2.0,2.25,W,,4.3875,2.1375
+23,45654,Horse,Single,Sportsbet,Moonee Valley R1: Lavish Thinker fixed win,7,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+24,45654,Horse,Single,ANY,Moonee Valley R1: Lavish Thinker fixed place,2.6,1.90–2.80,2.5 and above,1.25,L,,0,-1.25
+25,45654,Horse,Single,Sportsbet,Moonee Valley R2: Neverenoughlego fixed win,3.1,2.80+,2.5 and above,1,L,yes,0,-1
+26,45654,NBA,Single,Bet365,James Harden U 23.5 pts,1.8,1.78–1.83,1.7–1.8,2.25,W,,4.05,1.8
+27,45654,Horse,Single,Sportsbet,Moonee Valley R4: PRincess Que fixed win,1.95,1.90–2.80,1.9–2.0,2,P,yes,0,0
+28,45654,Horse,Single,Sportsbet,Randwick R3: Magnatear fixed win,6.5,2.80+,2.5 and above,0.3,P,yes,0,0
+29,45654,Horse,Single,Sportsbet,Moonee valley R5: Thailess fw,4.2,2.80+,2.5 and above,0.75,P,yes,0,0
+30,45654,Horse,Single,Sportsbet,Randwick R4: Unconquerable fw,6.5,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+31,45654,Horse,Single,Sportsbet,Moonee valley R6: Fickle fw,1.8,1.78–1.83,1.7–1.8,2.5,W,yes,4.5,2
+32,45654,Horse,Single,Sportsbet,Moonee valley R7: Prince Eric fw,4,2.80+,2.5 and above,0.75,P,yes,0,0
+33,45654,Horse,Single,Sportsbet,Randwick R6: eye of the fire fw,2.9,2.80+,2.5 and above,1,L,yes,0,-1
+34,45654,Horse,Single,Sportsbet,Randwick R9: Inquiring minds fw,5.5,2.80+,2.5 and above,0.5,W,yes,2.75,2.25
+35,45654,Horse,Single,Sportsbet,Randwick R8: saltcoats fw,3,2.80+,2.5 and above,1,W,yes,3,2
+36,45655,NFL,Single,Sportsbet,Trey Mcbride anytime touchdown scorer,2.85,2.80+,2.5 and above,1,W,,2.85,1.85
+37,45655,NBA,Single,Bet365,Kenrich williams O 6.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+38,45655,Soccer,Double,Bet365,Inter milan ML; Atalanta TT O 0.5,1.83,1.78–1.83,1.8–1.9,2.5,W,,4.575,2.075
+39,45655,NBA,Single,Ladbrokes,Malcolm brogdon U 5.5 a,1.7,1.78 and below,1.7 and below,2.5,L,,0,-2.5
+40,45655,NBA,Single,Ladbrokes,Jonathan Kumiga U 17.5 pts ,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+41,45655,NBA,Single,Bet365,Jordan Clarkson O 7.5 a&rb,1.74,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+42,45655,Horse,Single,Sportsbet,Seymour R2: Crime of passion fw,2.3,1.90–2.80,2.2–2.3,1.25,P,yes,0,0
+43,45655,NBA,Multiple,Sportsbet,Daniel Gafford 10+ pts; Deandre Ayton 6+ rb; deni avdja O 4.5 rb,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+44,45655,NBA,Single,Dabble,Kevin Huerter O 6.5 pts,1.78,1.78 and below,1.7–1.8,2.5,W,,4.45,1.95
+45,45655,Horse,Single,PointsBet,Sapphire Coast R2: Beer Baron fw,1.7,1.78 and below,1.7 and below,2.5,W,yes,4.25,1.75
+46,45655,Horse,Single,Sportsbet,Nhill R3: Scandoval,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+47,45655,Horse,Single,Sportsbet,Seymour R4: Halleck fw,3,2.80+,2.5 and above,1,L,,0,-1
+48,45655,Horse,Single,PointsBet,Seymour R5: Lunar module fw,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+49,45655,Horse,Single,Sportsbet,Seymour R6: Sea poem fw,2.2,1.90–2.80,2.1–2.2,1.2,L,,0,-1.2
+50,45655,Soccer,Double,Bet365,Liverpool ML; Napoli ML,1.75,1.78 and below,1.7–1.8,3,W,,5.25,2.25
+51,45655,Soccer,Multiple,Dabble,MC -1.5; Everton TT U 1.5 goal; Wolve TT O 0.5,2.97,2.80+,2.5 and above,1,W,,2.97,1.97
+52,45655,NFL,Multiple,Sportsbet,Josh JAcobs anytime TD; James cook anytime TD; Jonathan Taylor anytime TD,5.63,2.80+,2.5 and above,0.5,W,,2.815,2.315
+53,45655,NFL,Single,ANY,Jerome Ford anytime TD,2.7,1.90–2.80,2.5 and above,1,L,,0,-1
+54,45656,NBA,Single,Ladbrokes,Fred Vanvleet O 5.5 a,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+55,45656,NBA,Single,Ladbrokes,Scottie Barnes O 7.5 a,1.95,1.90–2.80,1.9–2.0,1.75,L,,0,-1.75
+56,45656,NBA,Double,Sportsbet,Tyrese haliburton O 7.5 a; Pascal siakam 4+ rb,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+57,45656,NBA,Single,Bet365,Jaren jackson U 23.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+58,45656,NFL,Multiple,Ladbrokes,Jayden daniels 25+ pass att; Olamide Zacch 15+ rec yrd; Terry mclaurin 30+ rec yrd,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+59,45656,NBA,Multiple,Sportsbet,Julius Ran 10+ pts; Anthony Ed 15+ pts; Victor Wembanyama U 28.5 pts; Chris P O 4.5 a,1.79,1.78–1.83,1.7–1.8,2,L,,0,-2
+60,45656,Soccer,Double,Bet365,Chelsea ML; Newcastle O 0.5,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+61,45657,NBA,Single,Others,V Micic O 2.5 rb ,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+62,45657,NBA,Single,Dabble,V Micic 6+ rb,9,2.80+,2.5 and above,0.25,W,,2.25,2
+63,45657,NBA,Multiple,Dabble,Cavaliers ML; Kings ML; Nuggest ML,2.84,2.80+,2.5 and above,1,W,,2.84,1.84
+64,45657,NBA,Single,Dabble,Trayce Jackson U 18.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+65,45657,NBA,Single,PointsBet,Precious Ach U 6.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+66,45657,NBA,Single,Dabble,Jalen smith O 7.5 pts,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+67,45657,NBA,Single,Dabble,Christian braun O 11.5 pts,1.68,1.78 and below,1.7 and below,2.5,W,,4.2,1.7
+68,45657,NBA,Single,Ladbrokes,Yves Missi U 10.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+69,45657,NBA,Single,Dabble,Ivica Zubac O 15.5 pts,1.95,1.90–2.80,1.9–2.0,2,W,,3.9,1.9
+70,45657,NFL,Multiple,Ladbrokes,Ricky pear 15+ rec yrd; Jameson W 15+ rec yrd; Deebo S 15+ rec yrd,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+71,45657,NFL,Single,Bet365,Ricky P 4+ receptions,4.75,2.80+,2.5 and above,0.5,W,,2.375,1.875
+72,45657,NFL,Single,Bet365,Ricky P 5+ receptions,10,2.80+,2.5 and above,0.2,W,,2,1.8
+73,45657,NBA,Double,ANY,Spencewr D 8+ asst; Walker K 25+ pts rb,9.61,2.80+,2.5 and above,0.25,L,,0,-0.25
+74,45657,NBA,Single,Dabble,Guerschon Y O 7.5 pts,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+75,45657,NBA,Single,Dabble,Jaden Hardy O 17.5 pts,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+76,45657,Horse,Single,PointsBet,Rockhampton R4 Track Tale fw,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+77,45658,NBA,Single,Dabble,Donte DiVincenzo O 2.5 Threes,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+78,45658,NBA,Double,Dabble,Donovan M 30+ pts; Donte D 5+ threes,21.25,2.80+,2.5 and above,0.15,L,,0,-0.15
+79,45658,NBA,Multiple,Sportsbet,Rudy G 8+ rb; Julius R 10+ pts; Shai G 25+ pts; Jalen W 10+ pts,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+80,45658,NBA,Multiple,Sportsbet,Rui H 4+ rb; Evan M 4+ rb; Evan R O 12.5 pts; Anthony D 8+ rb; Darius G 4+ asst,2.25,1.90–2.80,2.2–2.3,1,W,,2.25,1.25
+81,45658,NBA,Double,Bet365,PHX Suns ML; Devin B U 32.5 pts,1.76,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+82,45658,Horse,Single,Sportsbet,Flemington R2 Enxuto fw,3.7,2.80+,2.5 and above,0.75,P,yes,0,0
+83,45658,Horse,Single,Sportsbet,Cantebury R1 Sound unusual fw,1.75,1.78 and below,1.7–1.8,2.5,W,yes,4.375,1.875
+84,45658,Horse,Single,Sportsbet,Flemington R4 Miraval rose fw,4.6,2.80+,2.5 and above,0.75,W,yes,3.45,2.7
+85,45658,Horse,Single,Sportsbet,Canterbuiry R2 Goodlucktome fw,2.3,1.90–2.80,2.2–2.3,1.5,W,yes,3.45,1.95
+86,45658,Horse,Single,Sportsbet,Canterbury R4 Lady extreme fw,1.9,1.83–1.90,1.8–1.9,2,P,yes,0,0
+87,45658,Tennis,Single,ANY,Alex Michelson ML,2.1,1.90–2.80,2.0–2.1,1.75,L,,0,-1.75
+88,45658,Soccer,Multiple,Sportsbet,"Arsenal ML, U 5.5 goals, No team score in both half, No team score 2 or more goals;;",1.7,1.78 and below,1.7 and below,2.75,W,,4.675,1.925
+89,45659,NBA,Single,Dabble,DayRon S O 11.5 pts rb,1.95,1.90–2.80,1.9–2.0,1.75,W,,3.4125,1.6625
+90,45659,NBA,Single,Dabble,Paul George O 4.5 asst,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+91,45659,NBA,Single,Dabble,Jalen Smith O 7.5 pts,1.77,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+92,45659,NBA,Single,Dabble,Jalen Duren U 9.5 rb,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+93,45659,NBA,Double,Bet365,Paul G 7+ asst; Scottie B 10+ rb,10.38,2.80+,2.5 and above,0.2,L,,0,-0.2
+94,45659,NBA,Single,Dabble,Jazz +13.5,1.82,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+95,45659,NBA,Multiple,Ladbrokes,Bam A 4+ asst; Bam A 6+ rb; Yves Missi 6+ rb; Dejounte M 4+ rb,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+96,45659,NBA,Single,Others,K Irving U 27.5 ,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+97,45659,NBA,Single,Sportsbet,DeAaron Fox U 25.5 pts,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+98,45659,Horse,Single,Sportsbet,Yara Valley R8 Zadar sunset fw,2,1.90–2.80,1.9–2.0,2,W,Yes,4,2
+99,45659,Horse,Single,PointsBet,Pinjarra R3 Kamazaki fw,1.8,1.78–1.83,1.7–1.8,2,W,Yes,3.6,1.6
+100,45659,Cricket,Single,PointsBet,Jake Fraser U 20.5 total runs,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+101,45660,NBA,Single,Bet365,Tyler Herro U 5.5 rb,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+102,45660,NBA,Single,Bet365,Jayson Tatum U 32.5 pts,1.73,1.78 and below,1.7–1.8,2,L,,0,-2
+103,45660,NBA,Single,Dabble,Jayson Tatum U 10.5 rb,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+104,45660,NBA,Single,Dabble,Bobby Portis U 8.5 rb,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+105,45660,NBA,Double,Bet365,Timberwolves ML; 76ers ML,5.16,2.80+,2.5 and above,0.4,L,,0,-0.4
+106,45660,NBA,Single,Ladbrokes,Norman Powell U 24.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+107,45660,NBA,Single,Sportsbet,Deandre A U 10.5 rb,1.96,1.90–2.80,1.9–2.0,1.75,W,,3.43,1.68
+108,45660,Horse,Single,Sportsbet,Stawell R3 Big berta fw,6.5,2.80+,2.5 and above,0.4,P,Yes,0,0
+109,45660,Horse,Single,PointsBet,Wagga R5 Bide your time,1.85,1.83–1.90,1.8–1.9,2,W,Yes,3.7,1.7
+110,45660,Cricket,Single,PointsBet,James V U 23.5 total runs,1.8,1.78–1.83,1.7–1.8,2,P,,0,0
+111,45660,Cricket,Single,PointsBet,1st Innings: D Warner U 23.5 Total runs,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+112,45661,NBA,Single,ANY,Au Thompson U 11.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+113,45661,NBA,Multiple,Sportsbet,Jalen Brunson 4+ asst; Isaiah H O 9.5 pts; Jalen B U 33.5 pts,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+114,45661,NBA,Single,Bet365,Dillon Brooks U 15.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+115,45661,NBA,Single,ANY,Trey M U 22.5 pts,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+116,45661,NBA,Multiple,Sportsbet,Dean W U 8.5 pts; Cavaliers ML; Evan M 4+ rb,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+117,45661,Horse,Single,Sportsbet,Geelong R1 Actaeon fw,3.4,2.80+,2.5 and above,0.8,L,Yes,0,-0.8
+118,45661,NBA,Multiple,Ladbrokes,Christian B 10+ pts; V Wembayama 8+ rb; Devin V 10+ pts,1.81,1.78–1.83,1.8–1.9,2,W,Yes,3.62,1.62
+119,45661,Horse,Single,Ladbrokes,Geelong R3 Call him iggy fw,6,2.80+,2.5 and above,0.4,L,Yes,0,-0.4
+120,45661,NBA,Single,ANY,Brandon C U 8.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+121,45661,Horse,Single,Ladbrokes,Randwick R4 Accredited,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+122,45661,Horse,Single,Sportsbet,Geelong R8 Mollynickers fw,7.5,2.80+,2.5 and above,0.35,W,Yes,2.625,2.275
+123,45661,Horse,Single,Ladbrokes,Geelong R6 Umgawa,6.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+124,45661,Horse,Single,PointsBet,Geelong R7 Cat noir fw,5.5,2.80+,2.5 and above,0.4,L,Yes,0,-0.4
+125,45661,Horse,Single,Sportsbet,Geelong R7 Down low fw,4.8,2.80+,2.5 and above,0.5,P,Yes,0,0
+126,45661,Horse,Single,Sportsbet,Randwick R7 In fight fw,2.8,1.90–2.80,2.5 and above,1,L,Yes,0,-1
+127,45661,Horse,Single,Sportsbet,Randwick R7 Mcuh much better fw,14,2.80+,2.5 and above,0.2,L,,0,-0.2
+128,45661,Horse,Single,Sportsbet,Sunshine coast R3 hell to pay fw,2.25,1.90–2.80,2.2–2.3,1.5,W,Yes,3.375,1.875
+129,45661,Horse,Single,Sportsbet,Randwick R8 Jelous fw run 2nd win,7,2.80+,2.5 and above,0.4,L,,0,-0.4
+130,45661,Horse,Single,Sportsbet,Geelong R9 shebullet proof,2.7,1.90–2.80,2.5 and above,1,L,,0,-1
+131,45661,Horse,Single,Sportsbet,Sunshine coast R5 Moravia fw,1.9,1.83–1.90,1.8–1.9,2,P,Yes,0,0
+132,45661,Soccer,Multiple,Bet365,Lyon ML; Everton TT U 1.5; Aston V TT O 0.5,1.77,1.78 and below,1.7–1.8,2.75,W,,4.8675,2.1175
+133,45661,Soccer,Multiple,Bet365,Newcastle ML; Chelsea ML; Brentford ML,8.16,2.80+,2.5 and above,0.25,L,,0,-0.25
+134,45661,Soccer,Single,Bet365,Newcastle ML,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+135,45662,NBA,Single,PointsBet,Tyrese Maxey U 25.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+136,45662,NBA,Double,Bet365,Julius R 7+ rb; Cade C 15+ pts,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+137,45662,NBA,Double,Sportsbet,Jalen S U 8.5 pts; Nikola V O 11.5 pts,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+138,45662,NBA,Single,PointsBet,Nikola J O 29.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+139,45662,NBA,Single,Dabble,Giannis A rb U 12.5,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+140,45662,NBA,Single,Dabble,Jake Laravia O 13.5 PRA,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+141,45662,NBA,Single,Dabble,Kristaps P 15+ pts,1.75,1.78 and below,1.7–1.8,3,W,,5.25,2.25
+142,45662,Soccer,Double,PointsBet,Fulham ML; Iwobui 1+ shots,1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+143,45663,NBA,Single,Bet365,Jonathan Isaac U 4.5 rb,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+144,45663,NBA,Single,Bet365,Amen Thompdon O 25.5 pts,1.86,1.83–1.90,1.8–1.9,2,w,,3.72,1.72
+145,45663,NBA,Single,Ladbrokes,Domantas S U 20.5 pts,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+146,45663,Horse,Single,PointsBet,Moruya R4 Stallone fw,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+147,45663,Horse,Single,Sportsbet,Moruya R5 Century Song fw,2.9,2.80+,2.5 and above,1,P,Yes,0,0
+148,45663,NBA,Single,Bet365,Nottingham Forest ML,2.3,1.90–2.80,2.2–2.3,2.25,W,,5.175,2.925
+149,45663,NBA,Single,Ladbrokes,Joel Embiid O 28.5 pts,1.85,1.83–1.90,1.8–1.9,2.75,P,,0,0
+150,45664,Tennis,Double,Dabble,Adrian M ML; August H ML,1.73,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+151,45664,NBA,Single,Dabble,Tyrese MAxey U 6.5 asst,2.05,1.90–2.80,2.0–2.1,2.25,L,,0,-2.25
+152,45664,NBA,Single,Bet365,Malik Beasley O 16.5 pts,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+153,45664,NBA,Single,Bet365,Guerschon Y O 6.5 rb,1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+154,45664,NBA,Double,Dabble,Tristan da S 6+ rb; Keon J 6+ rb,7.2,2.80+,2.5 and above,0.3,L,,0,-0.3
+155,45664,NBA,Single,Ladbrokes,Scottie B U 20.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+156,45664,NBA,Single,ANY,Jeremy S O 12.5 pts,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+157,45664,NBA,Single,Dabble,Norman P U 21.5 pts,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+158,45664,NBA,Single,Bet365,Keegan Murray U 12.5 pts,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+159,45664,Tennis,Single,ANY,Constant Lestienne ML,1.72,1.78 and below,1.7–1.8,2.5,P,,0,0
+160,45665,NBA,Single,Dabble,Lamelo Ball 25+ pts,1.75,1.78 and below,1.7–1.8,2.75,W,,4.8125,2.0625
+161,45665,Tennis,Single,Dabble,Duje Ajdukovic ML,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+162,45665,NBA,Single,Dabble,Cam Whitmore O 15.5 PRA,1.95,1.90–2.80,1.9–2.0,2.5,W,,4.875,2.375
+163,45665,NBA,Single,Sportsbet,Mark William U 13.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+164,45665,NBA,Single,ANY,Lebron J U 7.5 rb,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+165,45665,NBA,Single,Dabble,Trae Young 12+ asst,1.8,1.78–1.83,1.7–1.8,2.25,W,,4.05,1.8
+166,45665,NBA,Single,Dabble,Trae Young 16+ asst,4.75,2.80+,2.5 and above,0.5,W,,2.375,1.875
+167,45665,NBA,Single,Ladbrokes,Dyson Daniels O 3.5 asst,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+168,45665,NBA,Double,Sportsbet,Isaiah C 6+ asst; Onyeka 4+ rb,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+169,45665,NBA,Multiple,Sportsbet,Christian B U 15.5 pts; Kristaps P O 13.5 pts; Jayson Tatum 15+ pts; Jayson T 4+ rb,2.05,1.90–2.80,2.0–2.1,2,W,,4.1,2.1
+170,45665,NBA,Single,ANY,Tyler Herro U 22.5 pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+171,45666,Soccer,Double,Sportsbet,Liverpool ML; Mo salah 1 or more shots on target,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+172,45666,NBA,Double,Sportsbet,Jarrett A 10+ rb; Shai G 20+ pts,1.79,1.78–1.83,1.7–1.8,2.5,W,,4.475,1.975
+173,45666,NBA,Double,PointsBet,Jalen D 6+ rb; Malik B 15+ pts,1.73,1.78 and below,1.7–1.8,2.25,W,,3.8925,1.6425
+174,45666,NBA,Single,ANY,Malik Beasley 25+ pts,6,2.80+,2.5 and above,0.35,L,,0,-0.35
+175,45666,NBA,Single,ANY,Tyrese Haliburton U 21.5 pts,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+176,45666,NBA,Single,Bet365,Julian Cham O 13.5 PRA,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+177,45666,NBA,Single,Ladbrokes,Jalen Smith O 7.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+178,45666,NBA,Single,Others,Cade Cunningham U 26.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+179,45666,NBA,Multiple,Sportsbet,Darius G 4+ asst; Isaiah H U13.5 pts; Even Mob O 11.5 pts,2.05,1.90–2.80,2.0–2.1,2,P,Yes,0,0
+180,45666,NBA,Single,ANY,Dejounte M O 7.5 asst,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+181,45666,Tennis,Single,ANY,Benjamin B ML,2.35,1.90–2.80,2.3–2.4,1.5,L,,0,-1.5
+182,45666,NBA,Single,Bet365,Cade Cunningham U 25.5 pts,1.83,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+183,45666,Horse,Single,Sportsbet,Rockhampton R6 Discovered gold fw,2,1.90–2.80,1.9–2.0,2,P,Yes,0,0
+184,45666,NBA,Single,Bet365,Paolo B U 18.5 pts,1.86,1.83–1.90,1.8–1.9,2.25,P,,0,0
+185,45666,NBA,Single,Bet365,Trae Young U 25.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+186,45667,NBA,Single,Ladbrokes,Wendell C O 5.5 rb,1.8,1.78–1.83,1.7–1.8,2.5,W,,4.5,2
+187,45667,NBA,Multiple,Ladbrokes,Deni Av 6+ rb; Deandre A 6+ rb; Deni Av 4+ rb,1.81,1.78–1.83,1.8–1.9,2,W,,3.62,1.62
+188,45667,NBA,Multiple,ANY,Timberwolves ML; Pistons ML; Blazer ML; Suns ML,15.4,2.80+,2.5 and above,0.2,L,,0,-0.2
+189,45667,Tennis,Single,ANY,Nishesh B ML,2.2,1.90–2.80,2.1–2.2,1.75,L,,0,-1.75
+190,45667,NBA,Single,PointsBet,Sam Merill O 1.5 3pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+191,45667,NBA,Multiple,PointsBet,Sam Merill 3+ 4+ 3pts;;,6.32,2.80+,2.5 and above,0.35,L,,0,-0.35
+192,45667,NBA,Single,Dabble,Jake LaR U 13.5 PRA,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+193,45667,Tennis,Single,Sportsbet,Nishesh B ML,3.6,2.80+,2.5 and above,1,L,,0,-1
+194,45667,NBA,Multiple,Sportsbet,Walker K 10+ rb; Bam Ad 10+ pts; Bam Ade O 6rb,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+195,45667,Horse,Single,Sportsbet,Townsville R1 Fallguy fw,1.85,1.83–1.90,1.8–1.9,2,P,Yes,0,0
+196,45667,Horse,Single,PointsBet,Orange R2 Money Wheel fw,1.82,1.78–1.83,1.8–1.9,2,P,Yes,0,0
+197,45668,NBA,Single,Dabble,Guerschon Y 20+ PRA,1.7,1.78 and below,1.7 and below,3,L,,0,-3
+198,45668,NBA,Single,Bet365,Nikola J U 30.5 pts,1.83,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+199,45668,NBA,Single,Bet365,Shai Gilgeous U 33.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+200,45668,NBA,Single,Bet365,Kevon Looney U 17.5 pts rb,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+201,45668,NBA,Double,Bet365,Bobby P 10+ pts; Giannis A 15+ pts,1.74,1.78 and below,1.7–1.8,2.5,W,,4.35,1.85
+202,45668,NBA,Single,ANY,Payton P U 11.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+203,45668,NBA,Single,ANY,Derrick W U 15.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+204,45668,Horse,Single,Sportsbet,Flemington R1 Xarpo fw,2.2,1.90–2.80,2.1–2.2,2,P,Yes,0,0
+205,45668,Horse,Single,Sportsbet,Wyong R1 Barbarossa fw,3.3,2.80+,2.5 and above,1,L,Yes,0,-1
+206,45668,Horse,Single,Sportsbet,Flemington R2 Makamae fw,7.5,2.80+,2.5 and above,0.3,L,Yes,0,-0.3
+207,45668,Horse,Single,Sportsbet,Wyong R2 Edmong fw,7.5,2.80+,2.5 and above,0.3,L,Yes,0,-0.3
+208,45668,Horse,Single,Sportsbet,Flemington R3 Keepurrcool fw,3.2,2.80+,2.5 and above,0.75,L,Yes,0,-0.75
+209,45668,Horse,Single,Sportsbet,Wyong R3 Ritzsun fw,3.1,2.80+,2.5 and above,1,L,Yes,0,-1
+210,45668,Horse,Single,PointsBet,Flemington R5 New york lusture,1.7,1.78 and below,1.7 and below,3,W,Yes,5.1,2.1
+211,45668,Horse,Single,Sportsbet,Flemington R6 Enxuto fw,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+212,45668,Horse,Double,Sportsbet,Goldcoast R4 belvedere boys fw; Wyong R6 Invader zim fw,10.88,2.80+,2.5 and above,0.2,L,,0,-0.2
+213,45668,Horse,Single,Sportsbet,Wyong R7 bullet highfqw,3.1,2.80+,2.5 and above,1,W,Yes,3.1,2.1
+214,45668,Horse,Single,Sportsbet,Flemington R9 Farhh flung run 2nd you win promo,6.5,2.80+,2.5 and above,0.5,W,Yes,3.25,2.75
+215,45668,Horse,Single,Ladbrokes,Wyong R10 Yorkshire fw,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+216,45669,Soccer,Double,Bet365,AC Milan ML; Bayern M ML,1.84,1.83–1.90,1.8–1.9,2,L,,0,-2
+217,45669,NBA,Single,PointsBet,Lauri Mark O 23.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+218,45669,NBA,Single,ANY,Jalen D O 2.5 asst,2.4,1.90–2.80,2.3–2.4,2,L,,0,-2
+219,45669,Tennis,Single,Sportsbet,Jannik Siner Aus Open Winner 2025,2.25,1.90–2.80,2.2–2.3,2.75,W,,6.1875,3.4375
+220,45669,Tennis,Single,Ladbrokes,Alexander Z Aus Open Single Outright,11,2.80+,2.5 and above,0.5,L,,0,-0.5
+221,45669,Tennis,Multiple,Bet365,"Alexander Z, Carlos A, Taylor F Win Quarter;;",15.37,2.80+,2.5 and above,0.2,L,,0,-0.2
+222,45669,Tennis,Multiple,Dabble,Hady Habib/Bu Yun O 3.5 sets; Jiri Lehe ML; Alexander ML,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+223,45669,Tennis,Single,Dabble,Kei Ni/Thiago M O 3.5 sets,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+224,45669,NFL,Multiple,Sportsbet,Ravens ML; George P 25+ recyrd; Derrick H 50+ recyrd; Pat F & Mark A 2+ rvpt; Calvin A 1+ rcpt,2,1.90–2.80,1.9–2.0,2,W,Yes,4,2
+225,45669,NBA,Single,Ladbrokes,Ja Morant U 22.5 pts,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+226,45669,NBA,Single,Bet365,Haywood H O 6.5 pts & asst,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+227,45669,Tennis,Single,Ladbrokes,Jaume Munar to win a set,1.75,1.78 and below,1.7–1.8,2.5,W,,4.375,1.875
+228,45669,Tennis,Single,Bet365,Adam Walton ML,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+229,45670,NBA,Single,Dabble,Magic ML,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+230,45670,NBA,Single,Dabble,Cole anthony PRA U 27.5,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+231,45670,NBA,Single,PointsBet,Caris Levert O 9.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+232,45670,NFL,Single,Bet365,TB Buc rushing yrds O 132.5,1.86,1.83–1.90,1.8–1.9,2.5,L,,0,-2.5
+233,45670,Tennis,Single,Ladbrokes,Nuno Borges ML,1.73,1.78 and below,1.7–1.8,2.5,W,,4.325,1.825
+234,45670,Tennis,Double,Dabble,Stefanos T ML; Yoshito Nishioka ML,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+235,45670,Tennis,Single,Ladbrokes,Nikoloz Basil/Jakub Men Total game O 34.5,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+236,45670,Tennis,Single,Dabble,"Thiago, Domonuic, James, Jan-len ML",65.09,2.80+,2.5 and above,0.1,L,,0,-0.1
+237,45670,NBA,Single,Bet365,Kyle Filip O 9.5 pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+238,45670,NBA,Single,Dabble,Ben Simmons O 7.5 asst,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+239,45670,Tennis,Single,Bet365,Nikoploz Basil to win 2 sets,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+240,45670,Tennis,Single,Dabble,Dominic Stricker ML,2.15,1.90–2.80,2.1–2.2,1.75,L,,0,-1.75
+241,45670,Tennis,Double,Dabble,Jan-lennrd to win a set; Jordan T ML,1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+242,45670,Tennis,Single,Bet365,Jacob Fearnley ML,2,1.90–2.80,1.9–2.0,2,W,,4,2
+243,45670,Tennis,Single,Bet365,Arthur Rin ML,4,2.80+,2.5 and above,1,L,,0,-1
+244,45670,Tennis,Multiple,Dabble,Jaime F win a set;Alegandro win a set; Tommy Paul ML;,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+245,45670,Tennis,Single,PointsBet,Nishesh B +8.5,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+246,45670,Tennis,Single,ANY,Nishesh B ML,12.5,2.80+,2.5 and above,0.2,L,,0,-0.2
+247,45671,NBA,Single,Dabble,Bilal Coul U 20.5 PRA,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+248,45671,Tennis,Single,ANY,Dusan Lajovic +6.5,1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+249,45671,NBA,Double,Ladbrokes,Trayce J 10+ pts; Stephen C 4+ asst,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+250,45671,NBA,Single,Ladbrokes,Josh Hart U 13.4 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+251,45671,NBA,Single,Bet365,Stephan C U 25.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+252,45671,Tennis,Multiple,Dabble,Hubert/Tallon O 3.5 sets; Tomas/Etch O 3.5sets; Giovanmni P ML; Facundop D ML; Francisco C ML; Andrey R ML,34.27,2.80+,2.5 and above,0.15,L,,0,-0.15
+253,45671,Tennis,Single,Dabble,Borna Coric ML,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+254,45671,NBA,Single,Dabble,Rui Hachimura PRA U 16.5,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+255,45671,NBA,Double,PointsBet,Kelel ware 4+ rb; 5+ pts,1.75,1.78 and below,1.7–1.8,2.5,W,,4.375,1.875
+256,45671,Tennis,Single,Bet365,Gabriel Diallo ML,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+257,45671,Horse,Single,PointsBet,Kilmore R4 Vizie fw,1.72,1.78 and below,1.7–1.8,2.5,P,Yes,0,0
+258,45671,Tennis,Single,Dabble,Facundo D +4.5 games,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+259,45671,Tennis,Single,Bet365,Brandon Nakashima ML,2.75,1.90–2.80,2.5 and above,1,L,,0,-1
+260,45671,Tennis,Single,Bet365,Giovanni Mpet ML,4,2.80+,2.5 and above,0.75,L,,0,-0.75
+261,45671,Tennis,Single,ANY,Pablo Carr ML,1.7,1.78 and below,1.7 and below,2.5,W,,4.25,1.75
+262,45671,Tennis,Single,Sportsbet,Andrey R -2.5,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+263,45672,NBA,Single,Dabble,Dereck Lively O 8.5 pts,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+264,45672,Tennis,Multiple,Sportsbet,Tomas Mac ML; Benjamin Bonzi ML; Arthur Fils ML,2.05,1.90–2.80,2.0–2.1,2.25,W,Yes,4.6125,2.3625
+265,45672,NBA,Double,Bet365,Thunder ML; Eric Gordon U 2.5 asst,1.71,1.78 and below,1.7–1.8,2.5,W,,4.275,1.775
+266,45672,NBA,Single,ANY,Suns ML,1.76,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+267,45672,Tennis,Single,ANY,Roberto Carballes -2.5,1.88,1.83–1.90,1.8–1.9,2.25,W,,4.23,1.98
+268,45672,NBA,Single,ANY,Pelicans ML,2.09,1.90–2.80,2.0–2.1,2,W,,4.18,2.18
+269,45672,Tennis,Single,Ladbrokes,Alejandro da/Felix Auger Total games O 36.5,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+270,45672,NBA,Multiple,Ladbrokes,Aaron Gordon O 2.5 asst; PJ Washington 4+ rb; Jamal Murray 10+ pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+271,45672,NBA,Double,Sportsbet,Nuggets ML; Aaron Gordonm U 13.5 pts,2,1.90–2.80,1.9–2.0,2,W,Yes,4,2
+272,45672,Tennis,Single,ANY,Aleksandar V +5.5,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+273,45672,Soccer,Multiple,Bet365,Bayern M ML; Crystal Palace draw/win; Werder Bermen draw/win,1.7,1.78 and below,1.7 and below,2.5,W,,4.25,1.75
+274,45673,NBA,Multiple,Sportsbet,Guerschon Yab O 6.5 pts; Paul George 4+ rb; Tyrese Maxey 25+ pts,2.05,1.90–2.80,2.0–2.1,2,P,Yes,0,0
+275,45673,NBA,Single,Dabble,Precious Achi O 13.5 PRA,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+276,45673,NBA,Single,ANY,Jaylen Brown U 22.5 pts,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+277,45673,NBA,Double,PointsBet,Spencer Din asst O 5.5; 4+ asst,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+278,45673,NBA,Single,Ladbrokes,Zach LaV U 27.5 pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+279,45673,NBA,Single,Dabble,Stephon Castle U 14.5 pts,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+280,45673,NBA,Single,Bet365,Isaiah CU 10.5 pts,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+281,45673,Tennis,Single,Dabble,Daniel Alt/Gael Mon O 3.5 sets,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+282,45673,Tennis,Multiple,Dabble,Ben Shel/Pablo Carr O 3.5 sets; Matteo B/Holger Rune O 3.5 sets; Daniil Medve ML,2.7,1.90–2.80,2.5 and above,1,L,,0,-1
+283,45673,Tennis,Single,Dabble,Denis Shap ML,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+284,45673,NBA,Single,Ladbrokes,Alperen Sengun  U 22.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+285,45673,NBA,Single,Bet365,Ivica Zubac O 13.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+286,45673,Tennis,Double,Dabble,Fabian M/Frances T O 3.5 sets; Joao F ML,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+287,45673,Tennis,Single,ANY,Jannik Sinner/TraistanSchioolkate U 27.5,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+288,45674,NBA,Single,Dabble,Jordan Poola U 22.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+289,45674,NBA,Multiple,Ladbrokes,Jalen D 10+ pts; Cade Cunning 15+ pts; Pascal Siakam 4+ rb,1.89,1.83–1.90,1.8–1.9,2,W,Yes,3.78,1.78
+290,45674,NBA,Multiple,Sportsbet,Donovan Mitchell 4+ asst; Shai G 20+ pts; Jalen Williams 10+,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+291,45674,NBA,Single,Dabble,Max Strus U 8.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+292,45674,NBA,Single,Dabble,Cam Whitmore O 11.5 pts,1.8,1.78–1.83,1.7–1.8,2.5,L,,0,-2.5
+293,45674,Tennis,Single,Ladbrokes,Roberto Carballes +7.5,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+294,45674,Tennis,Single,ANY,Alejandro David ML,2.75,1.90–2.80,2.5 and above,1,W,,2.75,1.75
+295,45674,Tennis,Single,Sportsbet,Novak Djo/Tomas Mach Game O 37.5,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+296,45674,Tennis,Single,Sportsbet,Tomas Mach ML,5.68,2.80+,2.5 and above,0.5,L,,0,-0.5
+297,45674,Tennis,Double,Dabble,Jack Draper -1.5; Jiri Lehecka ML,1.87,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+298,45674,Horse,Single,Sportsbet,Sunshine Coast R7 Klina fw,2.9,2.80+,2.5 and above,1,W,,2.9,1.9
+299,45675,Horse,Single,PointsBet,Pakenham R7 Glenfinnan fw,4.6,2.80+,2.5 and above,0.75,P,Yes,0,0
+300,45675,Soccer,Double,Bet365,Monaco ML/draw; Roma ML,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+301,45675,Horse,Single,Sportsbet,goldcoast R6 Miss roumbini fw,2.8,1.90–2.80,2.5 and above,1,W,Yes,2.8,1.8
+302,45675,NBA,Single,ANY,Paolo Banche U23.5 pts,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+303,45675,NBA,Double,Dabble,Jimmy Butler 20+ pts; Kris Middle 15+ pts,10.4,2.80+,2.5 and above,0.25,L,,0,-0.25
+304,45675,NBA,Single,Others,J Randle U 21.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+305,45675,NBA,Single,Dabble,Jalen Brunson U 7.5 asst,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+306,45675,NBA,Multiple,Sportsbet,Mark William 15+ pts; Nikola Vuc 6+ rb; Miles Bridges 4+ rd,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+307,45675,NBA,Multiple,Ladbrokes,Drew Euba 6+ rb; 8+ rb; Dejonte Murray 10+ pts,1.84,1.83–1.90,1.8–1.9,2,P,Yes,0,0
+308,45675,Horse,Single,Sportsbet,Flemington R1 Marble Arch fw,2.7,1.90–2.80,2.5 and above,1,W,Yes,2.7,1.7
+309,45675,Tennis,Single,Sportsbet,Alex Mich ML,2.2,1.90–2.80,2.1–2.2,2,W,,4.4,2.4
+310,45675,NBA,Single,Others,Isaiah Joe U 13.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+311,45675,Tennis,Single,Ladbrokes,Taylor Fritz -5.5,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+312,45675,Horse,Single,Sportsbet,Flemington R3 Seindeel fw,6,2.80+,2.5 and above,0.4,L,Yes,0,-0.4
+313,45675,Horse,Single,Sportsbet,Rosehill R3 Polyglot fw,1.75,1.78 and below,1.7–1.8,2,W,Yes,3.5,1.5
+314,45675,Horse,Single,Sportsbet,Flemington R4 Samagu fw,1.8,1.78–1.83,1.7–1.8,2,P,Yes,0,0
+315,45675,NBA,Single,Dabble,D'Angelo Russel O 4.5 asst,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+316,45675,Horse,Single,Sportsbet,Rosehill R5 Gilded water fw,1.85,1.83–1.90,1.8–1.9,2,P,Yes,0,0
+317,45675,Horse,Single,Sportsbet,Flemington R6 Wiggum fw,4.6,2.80+,2.5 and above,0.75,P,Yes,0,0
+318,45675,Horse,Single,Sportsbet,Rosehhill R5 Defining fw,31,2.80+,2.5 and above,0.2,L,Yes,0,-0.2
+319,45675,Horse,Single,Sportsbet,Rosehill R6 Decandent tale fw,51,2.80+,2.5 and above,0.1,L,,0,-0.1
+320,45675,Tennis,Double,Dabble,Learner T ML; Lorenzo So/Fabian M O 3.5 sets,2.85,2.80+,2.5 and above,1,W,,2.85,1.85
+321,45675,Horse,Single,PointsBet,Rosehill R7 Saltrcoats fw,2.45,1.90–2.80,2.4–2.5,1.5,P,Yes,0,0
+322,45675,Horse,Single,Sportsbet,Flemington R8 Deakin fw,2,1.90–2.80,1.9–2.0,2,L,,0,-2
+323,45675,Horse,Single,Ladbrokes,Flemington R10 dream all day fw,2.2,1.90–2.80,2.1–2.2,2.5,L,,0,-2.5
+324,45675,Tennis,Single,ANY,Holger Rune -3.5 games,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+325,45675,Soccer,Multiple,Bet365,Newscastle ML; Antoine Semenyo O 0.5 shots;Isak O 0.5 shots,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+326,45675,Soccer,Multiple,Others,Isak O 0.5 shoston target; Gakpo C O 0.5 shots OT; Eze Ebeerechi O 0.5 shots OT,2.87,2.80+,2.5 and above,1,L,,0,-1
+327,45676,NBA,Single,Bet365,Neemias Queta | Over 5.5 | Points OlU,1.74,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+328,45676,NBA,Double,PointsBet,Jayson Iatum To Get 4+ Assusts; Andre Drummond To Get 10+ Rebounds,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+329,45676,NFL,Multiple,Sportsbet,Jayden Daniels 25+ Yards; Jahmyr Gibbs 60+ Yards;Amon-Ra St. Brown 40+ Yards; Detrolt Llons ML,2.05,1.90–2.80,2.0–2.1,2,P,Yes,0,0
+330,45676,NFL,Single,Bet365,David Montgomery | Anytime Touchdown Scorer,1.72,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+331,45676,NBA,Single,Dabble,"Kyshawn George Over 1,5 Assists",1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+332,45676,NBA,Single,Bet365,Stephen Curry | Under 33.5 | Points & Assists OJU,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+333,45676,NBA,Single,ANY,Donovan Mitchell | Under 24.5 | Points OJU,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+334,45676,NBA,Single,Ladbrokes,Player Points & Rebounds Alperen Sengun Under 33.5,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+335,45676,NBA,Single,PointsBet,Cam Whitmore Over 16.5 | Player Points & Rebounds,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+336,45676,Tennis,Multiple,Dabble,Carlos Alcaraz Garfia -1.5; Tommy Paul ML; Alexander Zverev ML,1.42,1.78 and below,1.7 and below,3,W,,4.26,1.26
+337,45676,Horse,Single,Sportsbet,Mdiningion R4 | 10. Fratineeze,4.2,2.80+,2.5 and above,0.75,L,Yes,0,-0.75
+338,45677,NBA,Single,Ladbrokes,Player Points O/U | Peyton Watson (7.5) Under 7.5,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+339,45677,NFL,Double,PointsBet,Derrick Henry[ | Anytime Toucndow; Scorer Derrick | 65+ Rushing Yards,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+340,45677,NBA,Single,Ladbrokes,Points O/U. | Eric Gordon (11.5)  Under 11.5,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+341,45677,NBA,Single,Ladbrokes,"Player Points OIU | Zach LaVine (26.5) Under 26,5",1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+342,45677,NBA,Single,Dabble,Assists O/U (1.5)  Kyshawn George Over 1.5 Assists,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+343,45677,Tennis,Double,Dabble,Ben Shelton | Match Winner ; Jannik Sinner | Winner - Jannik Sinner | Holger Rune |,1.75,1.78 and below,1.7–1.8,2.5,P,,0,0
+344,45677,Tennis,Single,Sportsbet,Alex Michelsen | Alex De Minaur | Markets | Total Match Games 36.5 | Ovor 36.5 | Top,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+345,45677,NBA,Single,Bet365,Kristaps Porzingis | Over 17.5 | Points OIU,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+346,45677,NBA,Single,Bet365,Mark Williams | Over 15.5 | Polnts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+347,45677,NBA,Double,Bet365,Jalen Johnson: 13+ | Rebounds | Rebouinds; Mark Williams: 20+ | Points | Points,15.67,2.80+,2.5 and above,0.2,L,,0,-0.2
+348,45678,NBA,Single,Dabble,Mosus Moody Over 7.5 Points | 1.80,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+349,45678,NBA,Single,Bet365,Trey Murphy III | Under 24.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+350,45678,Tennis,Single,Ladbrokes,Yes | Tommy Paul To Win a Set | Yes | Novak Djokovic To Win a Set - | Novak Djokovic | Carlos Alcaraz,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+351,45678,NBA,Single,Ladbrokes,Player Rebounds OJU | Jalen Smith (5.5) Under 5.5,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+352,45678,Tennis,Single,Bet365,Tommy Paul | Match Winner,6,2.80+,2.5 and above,0.5,L,,0,-0.5
+353,45678,Tennis,Single,Sportsbet,Novak Djokovic | Carlos Alcaraz Total Match Gamcs 39.5 | Over 395,1.84,1.83–1.90,1.8–1.9,3,L,,0,-3
+354,45679,NBA,Single,Ladbrokes,Player Points O/U | Anfernee Simons (18.5) | Under 18.5,1.83,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+355,45679,NBA,Single,Dabble,"OG Anunoby Over 13,5 Points",1.82,1.78–1.83,1.8–1.9,2.25,W,,4.095,1.845
+356,45679,NBA,Single,Ladbrokes,Player Points OJU | Kentavious Caldwell-Pope Under 12.5,1.98,1.90–2.80,1.9–2.0,2,L,,0,-2
+357,45679,NBA,Single,ANY,Player Rebounds OJU | Jonas Valanciunas (7.5) | Over 7.5,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+358,45679,Tennis,Single,ANY,Ben Shelton -3.5 Games,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+359,45680,NBA,Single,Dabble,Tyus Jones Over 5.5 Assist,1.7,1.78 and below,1.7 and below,2.5,W,,4.25,1.75
+360,45680,NBA,Double,ANY,Minnesota Timberwolves ML | Phoenix Suns ML;,1.83,1.78–1.83,1.8–1.9,2.5,W,,4.575,2.075
+361,45680,NBA,Single,Ladbrokes,Jullvs | Randle | Have | Aseists | Julius Randle 4+ rb| Rudy Gobcrt 6+ Rebound | Mike Conley 2+ Assiste,1.85,1.83–1.90,1.8–1.9,2,P,yes,0,0
+362,45680,NBA,Single,Dabble,Collin Sexton Undar 4.5 Assistt,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+363,45680,NBA,Multiple,Sportsbet,Nick Smith Jr: | Scorc 10+ Pts; | Mark Williams 8+ rb;,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+364,45680,NBA,Double,Ladbrokes,Under 7.5 | Player Assists OJU :Darius Garland | Jarrett Allen| To Have 6+ Rcbounds;,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+365,45680,NBA,Single,Ladbrokes,Boston Celtics (-11),1.83,1.78–1.83,1.8–1.9,2.5,L,,0,-2.5
+366,45680,NBA,Single,Bet365,Domantas Sabonis | Under 15.5 | Rebounds OIU,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+367,45680,NBA,Single,Ladbrokes,Player Rebounds OJu | Trey Lyles O 4.50 ,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+368,45680,Horse,Single,Sportsbet,Pinjara R6 Infuriated (9),1.85,1.83–1.90,1.8–1.9,2,P,yes,0,0
+369,45680,Horse,Single,PointsBet,Tamworth | Race 4 Dale (8),1.7,1.78 and below,1.7 and below,2.5,W,yes,4.25,1.75
+370,45680,Horse,Single,PointsBet,Tamworth | Race 6 Rematch (6),1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+371,45680,Horse,Single,Sportsbet,PakenhaIm R1 | Baffleck (2),8,2.80+,2.5 and above,0.3,L,,0,-0.3
+372,45680,NBA,Single,Bet365,Deni Avdija | Under 15.5 | Points OIU,1.86,1.83–1.90,1.8–1.9,2.25,W,,4.185,1.935
+373,45680,Horse,Single,Sportsbet,pazennam R2 Gibraltar Tycoon (9),1.8,1.78–1.83,1.7–1.8,2,W,yes,3.6,1.6
+374,45680,NBA,Single,Bet365,RJ Barrett | Over 21.5 | Points OjU,1.86,1.83–1.90,1.8–1.9,3,L,,0,-3
+375,45680,NBA,Single,Others,Sakam | Pascam | Under 21.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+376,45681,NBA,Multiple,Dabble,Scottie B 8+ asst; Kyrie I 4+ threes; Nikola J triple double,15.16,2.80+,2.5 and above,0.2,L,,0,-0.2
+377,45681,NBA,Single,Dabble,Kel'el Ware Under 15.5 Points,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+378,45681,NBA,Single,Dabble,Christian Braun Under 12.5 Points,1.78,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+379,45681,NBA,Single,ANY,Ayo Dosunmu O 4.5 asst,1.84,1.83–1.90,1.8–1.9,2,L,,0,-2
+380,45681,NBA,Single,ANY,Ayo Dosunmu | To Record 8 + Assists,7,2.80+,2.5 and above,0.3,L,,0,-0.3
+381,45681,NBA,Single,Bet365,Rui Hachimura | Under 15.5 | Points & Rebounds OJU,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+382,45681,Tennis,Single,Dabble,Alexander Zverov +1.5,1.72,1.78 and below,1.7–1.8,2.5,P,,0,0
+383,45681,Horse,Single,Sportsbet,Kilmore R4 | Sound Of Jura (2) fw,5.5,2.80+,2.5 and above,0.5,W,yes,2.75,2.25
+384,45681,Horse,Single,Sportsbet,Moone V R1 La Vie en fw,2.25,1.90–2.80,2.2–2.3,1.75,P,yes,0,0
+385,45681,Horse,Single,Sportsbet,Moonee V R2 Appointed fw,3.5,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+386,45681,Horse,Single,Sportsbet,Moonee V R3Galilaeus fw,1.95,1.90–2.80,1.9–2.0,1.75,P,yes,0,0
+387,45681,Horse,Single,Sportsbet,Moonee V R4 Zambezi fw,3.3,2.80+,2.5 and above,1,L,yes,0,-1
+388,45682,NBA,Single,Bet365,Jaylen Wells O 12.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+389,45682,NBA,Single,Bet365,Tyrese M U 6.5 asst,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+390,45682,NBA,Multiple,Ladbrokes,Donovan C 8+ rbl Mark william 8+ rb; 10+ pts;,1.8,1.78–1.83,1.7–1.8,2.25,W,yes,4.05,1.8
+391,45682,NBA,Single,Dabble,Scoot Henderson 15+ a+p,1.7,1.78 and below,1.7 and below,2.5,L,,0,-2.5
+392,45682,NBA,Single,Bet365,daniel Theis U 7.5 assit+rb,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+393,45682,NBA,Single,Bet365,Zach Edey O 14.5 pts+rb,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+394,45682,Horse,Single,Sportsbet,Sandown R1 Mislead 10,26,2.80+,2.5 and above,0.2,L,yes,0,-0.2
+395,45682,Horse,Single,Sportsbet,Sandown R2 Revelare ,1.9,1.83–1.90,1.8–1.9,2,W,yes,3.8,1.8
+396,45682,Horse,Single,Sportsbet,Randwick R1 Yolo,5.5,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+397,45682,Horse,Single,PointsBet,Sunshine C R1 Shaggy,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+398,45682,Horse,Single,Sportsbet,Randwick R2 Magnatera,5.5,2.80+,2.5 and above,0.4,W,yes,2.2,1.8
+399,45682,Horse,Single,Sportsbet,Sandwon R4 Wilthsire S 4,5,2.80+,2.5 and above,0.4,P,yes,0,0
+400,45682,Horse,Single,Sportsbet,Randwick R3 Highway Strip ,2.8,1.90–2.80,2.5 and above,1,P,yes,0,0
+401,45682,Horse,Single,Sportsbet,Sandwon R5 Pondalowie 4,2.7,1.90–2.80,2.5 and above,1,L,yes,0,-1
+402,45682,Horse,Single,Sportsbet,Randwick R4 Claim the crown 6,5,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+403,45682,Horse,Single,Sportsbet,Sandown R6 Miss tarzy 3,4.6,2.80+,2.5 and above,0.75,P,yes,0,0
+404,45682,Horse,Single,Sportsbet,Randwick R5 Vega magnifico 4,4,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+405,45682,Horse,Single,Sportsbet,Sandown R7 Le zebra 5,3.4,2.80+,2.5 and above,1,P,yes,0,0
+406,45682,Horse,Single,Sportsbet,Randwick R6 Imposant 8,2.8,1.90–2.80,2.5 and above,1,L,yes,0,-1
+407,45682,Horse,Single,Sportsbet,"Sandown R8 Coastwatch 3, run 2nd u win",4,2.80+,2.5 and above,1,W,,4,3
+408,45682,Horse,Single,Sportsbet,Randwick R7 Husk 12,4.4,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+409,45682,Horse,Single,PointsBet,Warwick R6 Hollywood E 4,1.8,1.78–1.83,1.7–1.8,2,L,yes,0,-2
+410,45682,Horse,Single,Sportsbet,Randwick R8 Sandpaper 1,4.6,2.80+,2.5 and above,0.75,P,yes,0,0
+411,45682,Horse,Single,Sportsbet,Randwick R9 Flying Den 1,10,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+412,45682,Soccer,Multiple,Bet365,Liverpool ML; Newcastle ML; Brigton win draw,1.77,1.78 and below,1.7–1.8,2.75,L,,0,-2.75
+413,45682,Soccer,Single,Bet365,"Wolve, Nottingham, chealsea win or draw",7.22,2.80+,2.5 and above,0.3,L,,0,-0.3
+414,45683,NBA,Single,Bet365,Stephon castle U 14.5 pts and rb,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+415,45683,NBA,Single,Ladbrokes,Rudy Go O 9.5rb,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+416,45683,NBA,Single,Dabble,Duncan Rob O 11.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+417,45683,NBA,Single,Ladbrokes,Yves Missi U 17.5 pts n rb,1.83,1.78–1.83,1.8–1.9,2.5,L,,0,-2.5
+418,45683,NBA,Single,Ladbrokes,cade cunningham U 26.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+419,45683,NBA,Single,Sportsbet,Franz Wagner U 18.5 pts,1.76,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+420,45683,NBA,Single,Ladbrokes,Domantas S U 19.5 pts,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+421,45683,NBA,Single,Dabble,Evan Monbley U 17.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+422,45683,NBA,Single,Bet365,Trae Young U 27.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+423,45683,NBA,Single,Dabble,Svi Mykh O 8.5 pts,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+424,45683,NBA,Single,Ladbrokes,Paul George O 32.5 PRA,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+425,45683,NBA,Single,Dabble,Jaxson Hayes U 4.5 pts,1.95,1.90–2.80,1.9–2.0,1.75,W,,3.4125,1.6625
+426,45683,NBA,Single,ANY,J Poole U 22.5 pts,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+427,45683,NBA,Single,Bet365,Nick Richards O 9.5 pts,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+428,45683,NBA,Double,Ladbrokes,Damian Lilard 4+ rb; James H 10+ pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+429,45683,Tennis,Single,ANY,Jannik/Zverev O 39.5 ,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+430,45684,NFL,Multiple,Sportsbet,Josh Allen ATTD; Dalton K 1+ receptionsl Khalil S 2+ recep; Xavier W 2+ recep,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+431,45684,NBA,Single,Bet365,Donovan Clingan O 16.5 PRA,1.83,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+432,45684,Horse,Single,Sportsbet,Warwick farm R3 Autome Tree 1,3.1,2.80+,2.5 and above,1,P,yes,0,0
+433,45684,Horse,Single,Sportsbet,Warwick Fram R4 Darling downs 1,2.4,1.90–2.80,2.3–2.4,1.25,P,yes,0,0
+434,45684,NBA,Multiple,Sportsbet,Scottie barnes 6+ asst; Davion Mit 2+ asst; Yves Missi 4+ rb,1.77,1.78 and below,1.7–1.8,2.75,W,,4.8675,2.1175
+435,45684,NBA,Single,ANY,Lamelo ball O 7.5 asst,1.78,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+436,45684,NBA,Single,ANY,lamelo ball 10+ asstl kyle Kuzma 20+ pts,7.75,2.80+,2.5 and above,0.3,L,,0,-0.3
+437,45684,NBA,Multiple,Ladbrokes,Ivica zubac 10+ pts; bradley Beal 10+ pts; Norman powell 15+ pts,1.81,1.78–1.83,1.8–1.9,2,L,,0,-2
+438,45685,NBA,Single,ANY,Evan Mobley U 17.5 pts,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+439,45685,NBA,Double,Dabble,Keegan Murray 10+ pts; Deaaron fox 4+ asst,1.7,1.78 and below,1.7 and below,2.25,L,,0,-2.25
+440,45685,NBA,Single,Ladbrokes,Goga Bitadze U 8.5 pts,1.91,1.90–2.80,1.9–2.0,2,L,,0,-2
+441,45685,NBA,Double,Dabble,Karl-anthony 3+ threes; Jalen Green 4+ threes,7.75,2.80+,2.5 and above,0.3,L,,0,-0.3
+442,45685,NBA,Single,ANY,Orlando Magic ML,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+443,45685,NBA,Single,Dabble,Anthony Edwards U 6.6 rb,2.08,1.90–2.80,2.0–2.1,2,W,,4.16,2.16
+444,45685,NBA,Single,Dabble,Nikola Vuc O 33.5 PRA,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+445,45685,NBA,Double,Bet365,Daniel Gafford 15+ pts; 7+ rb,1.74,1.78 and below,1.7–1.8,2.5,W,,4.35,1.85
+446,45685,NBA,Multiple,Sportsbet,"Giannis Ante 25+ pts; Damian Lil 4+ asst; Collin Sexton 15+ pts, 2+ asst",1.74,1.78 and below,1.7–1.8,2,W,,3.48,1.48
+447,45685,NBA,Single,Bet365,Max Christie U 10.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+448,45685,NBA,Single,Ladbrokes,Donovan Clingan U 6.5 pts,1.88,1.83–1.90,1.8–1.9,2,P,,0,0
+449,45686,NBA,Double,Dabble,Lauri Markk U 22.5 pts; Warriors +10.5,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+450,45686,NBA,Single,Bet365,Trayce Jackson O 7.5 pts,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+451,45686,NBA,Double,Sportsbet,Austin R 6+ asst; Anthony D 8 +rb,1.7,1.78 and below,1.7 and below,2.25,L,,0,-2.25
+452,45686,NBA,Single,Bet365,Garrison Mathews U 1.5 asstl Cam Whitmore O 7.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+453,45686,NBA,Single,Bet365,Larry Nance U 13.5 PRA,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+454,45686,Horse,Single,PointsBet,Ipwich R4 Ser Joh 6,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+455,45686,Soccer,Double,Bet365,Man C ML; Atletico M ML,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+456,45686,NBA,Single,Dabble,Daniel Gafford 15+ pts,1.95,1.90–2.80,1.9–2.0,2.5,W,,4.875,2.375
+457,45686,Soccer,Multiple,Sportsbet,PSV  ML/draw; Dortment ML/draw; Sporting libson ML/draw,2.86,2.80+,2.5 and above,1,W,yes,2.86,1.86
+458,45686,NBA,Double,Sportsbet,Kings ML; Domantas Sabonis 14+ rb,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+459,45687,NBA,Multiple,Bet365,Jonas Valan 10 rb & 10+ pts; Jalen Duren 10+ rb & 10+ pts; Isaiah Hart 10+ rb & 10+ pts,8.21,2.80+,2.5 and above,0.3,L,,0,-0.3
+460,45687,NBA,Single,Dabble,Day Ron Sharpe O 7.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+461,45687,NBA,Single,Sportsbet,Nick Smith O 13.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+462,45687,NBA,Double,Sportsbet,Tyler Herro 4+ asst; Max Strus O 8.5 pts,1.79,1.78–1.83,1.7–1.8,2,L,,0,-2
+463,45687,NBA,Single,Bet365,James Harden U 10.5 asst,1.71,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+464,45687,NBA,Single,Dabble,Kawhi Leonard O 21.5 pts rb,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+465,45687,NBA,Single,Dabble,Yves Missi U 7.5 rb,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+466,45687,Horse,Single,Sportsbet,Scone R2 PRide to follow 6,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+467,45687,NBA,Single,Dabble,Isaiah Hart O 22.t pts rb,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+468,45687,Horse,Single,PointsBet,Rockhampton R5 Alloutatime 4,1.82,1.78–1.83,1.8–1.9,2,W,yes,3.64,1.64
+469,45687,Horse,Single,Sportsbet,Pakenham R8 Hurrican 8,2.45,1.90–2.80,2.4–2.5,1.25,L,yes,0,-1.25
+470,45688,NBA,Single,Bet365,Jalen Green O 22.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+471,45688,NBA,Single,Bet365,Jalen Suggs O 2.5 rb,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+472,45688,NBA,Single,Bet365,Jaxson hayes O 15.5 pts rb,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+473,45688,NBA,Double,Bet365,Rui Hachi 5+ rb; Jonas Valan 10+ pts,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+474,45688,NBA,Double,PointsBet,Mouhamed Gueye O 4.5 rb; 4+ rb,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+475,45688,NBA,Multiple,Bet365,Jordan Clarkson 3+ threes; Paolo Banchero O 12.5 asst rb; Tari Eason 15+ pts,42.06,2.80+,2.5 and above,0.15,L,,0,-0.15
+476,45688,NBA,Multiple,Ladbrokes,Jordan Clarkson 10+ pts; Julius randle  4+ rb; John Collin 4+ rb,1.93,1.90–2.80,1.9–2.0,2,P,yes,0,0
+477,45688,NBA,Double,Sportsbet,Anthony edwards U 28.5 pts; Jaden Mcdaniels O 17.5 pts rb,3.1,2.80+,2.5 and above,1,L,,0,-1
+478,45688,NBA,Single,Others,Magic  -4.5 ,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+479,45688,Horse,Single,Sportsbet,Bathurst R2 Benamera 3,1.8,1.78–1.83,1.7–1.8,2,W,yes,3.6,1.6
+480,45689,NBA,Single,Dabble,Michael Porter O 20.5 pts rb,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+481,45689,NBA,Double,Sportsbet,Daniel Gafford U 19.5 pts; Cade cunninham U 32.5 pts,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+482,45689,NBA,Multiple,Ladbrokes,Jakob Poelti 2+ asst; RJ barrett 4+ rb 10+ pts; Nikola Vuc 10+ pts,1.75,1.78 and below,1.7–1.8,2,W,yes,3.5,1.5
+483,45689,NBA,Single,Bet365,Dejounte Murray U 7.5 asst,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+484,45689,Horse,Single,Sportsbet,Sandown R1 NEw york lustre 7,1.8,1.78–1.83,1.7–1.8,2,W,yes,3.6,1.6
+485,45689,Horse,Single,Sportsbet,Sandown R2 Night end 5,3.2,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+486,45689,Horse,Single,Sportsbet,Rosehill R2 Pocketing 9,2.1,1.90–2.80,2.0–2.1,1.75,L,yes,0,-1.75
+487,45689,Horse,Single,Sportsbet,Rosehilll R2 Prettytavi 11,12,2.80+,2.5 and above,0.25,L,,0,-0.25
+488,45689,Horse,Single,Sportsbet,Sandown R3 Matron Bull 7,4.4,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+489,45689,Horse,Single,Sportsbet,Rosehill  R3 Burma star 3,2.5,1.90–2.80,2.4–2.5,1.2,L,yes,0,-1.2
+490,45689,NBA,Single,Bet365,Tyus Jones O 13.5 pts asst,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+491,45689,Horse,Single,Sportsbet,Rosehill R4 Tempted 3,3.2,2.80+,2.5 and above,1,P,yes,0,0
+492,45689,Horse,Single,Sportsbet,Rosehill R5 Lilac 3,3.2,2.80+,2.5 and above,1,L,yes,0,-1
+493,45689,Horse,Single,Sportsbet,Sandown R6 Winnasedge 5,4.6,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+494,45689,Horse,Single,Sportsbet,Sapphire coast R4 Speedy one 4,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+495,45689,Horse,Single,PointsBet,Tamworth R4 chandon str 2,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+496,45689,Horse,Single,Sportsbet,Sandown R8 Revelare 6 2nd u win,2.2,1.90–2.80,2.1–2.2,2,W,,4.4,2.4
+497,45689,Horse,Single,Sportsbet,Sapphire coast R6 Wal angels 5 ,1.9,1.83–1.90,1.8–1.9,2,L,yes,0,-2
+498,45689,Soccer,Single,Bet365,Liverpool ML,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+499,45689,Soccer,Double,Bet365,Dominic Stricker ML; Nottingham/Brighton both score,2.87,2.80+,2.5 and above,1,L,,0,-1
+500,45690,NBA,Single,Dabble,Trae Young 10+ asst,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+501,45690,NBA,Single,Bet365,Franz Wagner O 8.5 asst rb,1.71,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+502,45690,NBA,Single,Bet365,Nick smith O9.5 pts,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+503,45690,NBA,Single,Bet365,Jaylin William s U6.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+504,45690,NBA,Single,Ladbrokes,Isaiah Hart O 4.5 asst,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+505,45690,NBA,Multiple,Bet365,Demar derozan 15+ pts; Domantas Sabonis 10+ rb; Naz Reid 15+ pts,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+506,45690,NBA,Double,PointsBet,Tyler Herro 6+ asst; Kelel ware 10+pts,1.84,1.83–1.90,1.8–1.9,2,L,,0,-2
+507,45690,NBA,Single,Ladbrokes,Precious Achi U 6.5 pts,1.73,1.78 and below,1.7–1.8,2,L,,0,-2
+508,45690,NBA,Single,ANY,Jaxson Hayes U8.5pts,1.91,1.90–2.80,1.9–2.0,2,W,,3.82,1.82
+509,45690,Horse,Single,PointsBet,Benalla R2 Gin baba 10,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+510,45690,NBA,Single,Ladbrokes,toumani camara U 10.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+511,45690,Soccer,Double,Bet365,Bayern LEver ML; Brenford O 1.5 goals,1.83,1.78–1.83,1.8–1.9,3,L,,0,-3
+512,45690,NBA,Double,Sportsbet,Jalen Duren double2; Ivica Zubac double 2,2.76,1.90–2.80,2.5 and above,1,L,,0,-1
+513,45691,NBA,Single,ANY,Boston Celtics -12.5,1.96,1.90–2.80,1.9–2.0,2,L,,0,-2
+514,45691,NBA,Multiple,Sportsbet,Santi Aldama 4+ rb; Santi Aldama O 6.5 pts; Zach Edaey O 4.5rb; Giannis Ant 25+ pts,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+515,45692,NBA,Single,Bet365,Josh HArd  5.5 asst,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+516,45692,NBA,Double,Dabble,isaiah Collier O 6.5 asst; john collins 10+ pts,1.91,1.90–2.80,1.9–2.0,2,W,,3.82,1.82
+517,45692,NBA,Multiple,Ladbrokes,Zion williamson 15+ pts; Yves missi 4+ rb; Aason gordon 10+ pts,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+518,45692,NBA,Double,Dabble,Giannis Ant O 4.5 asst; Isaiah Hart 8+ rb,1.88,1.83–1.90,1.8–1.9,2,P,,0,0
+519,45692,NBA,Double,Dabble,Trae Young 8+ assst; Amen Thompson 4+ asst,1.92,1.90–2.80,1.9–2.0,2.25,W,,4.32,2.07
+520,45692,NBA,Multiple,Sportsbet,Ja morant  O 6.5 asst; Chris paul 4+ asst; Victorwemba 6+ rb,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+521,45692,NBA,Multiple,Sportsbet,Mailk monk 20+ pts 4+ asst; domantas sabonis 8+ rb; Miike conley 2+ assst,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+522,45692,NBA,Single,Ladbrokes,Taurean prince U 21.5 pra,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+523,45692,NBA,Single,Ladbrokes,Jordan hawkins O 11.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+524,45692,NBA,Double,PointsBet,Tyrese haliburton 12+ asst; jordan hawkin 4+ threes',15.6,2.80+,2.5 and above,0.2,L,,0,-0.2
+525,45693,NBA,Double,Dabble,Tyler Herro 6 +assst; Donovan mit 20+ pts,1.79,1.78–1.83,1.7–1.8,2.25,W,,4.0275,1.7775
+526,45693,NBA,Single,Dabble,Kawhi Leonard 25+ pra,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+527,45693,NBA,Multiple,Ladbrokes,Amen thompsion 8+ rb; Alperen sen 10+ pts; Nicolas claxton 4+ rb,1.81,1.78–1.83,1.8–1.9,2,L,,0,-2
+528,45693,NBA,Double,Dabble,Miles Mc Bride 15+pra; Jakob Poelti 6+ rb,1.93,1.90–2.80,1.9–2.0,2,L,,0,-2
+529,45693,NBA,Multiple,Ladbrokes,Joel Emiid 20+ pts 2+ asst; Daniel Gafford 10+ pts; ,1.73,1.78 and below,1.7–1.8,2.25,W,,3.8925,1.6425
+530,45693,NBA,Single,Others,Sem Merril U 10.5 PRA,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+531,45694,NBA,Single,Dabble,Kyshawn George O 8.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+532,45694,NBA,Double,PointsBet,Dangelo russel 6+ asst; Ben simmpns 4+ asst,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+533,45694,NBA,Single,Dabble,Brook lopez U 18.5 pra,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+534,45694,NBA,Single,Dabble,Devin booker U 26.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+535,45694,NBA,Single,Dabble,Tim haraway U 10.5 pts,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+536,45694,NBA,Single,Dabble,Onyeka Okongwu U 10.5 rb,1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+537,45694,NBA,Single,Dabble,Victor Wem O 3.5 asst,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+538,45694,NBA,Double,Dabble,Cameron johnson 20+ pra; draymond green 4+ asst,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+539,45694,NBA,Single,Dabble,Isaiah Collier U 22.5 pra,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+540,45694,NBA,Single,Dabble,Shai Gilgeous O41.5 pra,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+541,45694,NBA,Single,Dabble,Domantas Sabonis U 39.5 pra,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+542,45694,NBA,Single,Dabble,Keyonte george U 19.5 pts,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+543,45695,NBA,Single,Dabble,Anthony Edwards U 29.5 pts,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+544,45695,NBA,Single,Dabble,Payton Pritchard O 11.5 pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+545,45695,NBA,Multiple,Sportsbet,austin Reaves 6+ asst; L JAmes 6+ asst; Draymend Green O 1.5 asst,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+546,45695,NBA,Multiple,Sportsbet,Malik monk U 6.5 asst; Domantas S 8 + rb; Demar DeR O 13.5 pts,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+547,45695,NBA,Multiple,Ladbrokes,Kristaps Por 10+ pts; Jayson Tat 25+ pts; Kyrie Irv 15+ pts,1.81,1.78–1.83,1.8–1.9,2,P,yes,0,0
+548,45695,NBA,Single,Ladbrokes,Nikola Jokic U 51.5 pra,1.91,1.90–2.80,1.9–2.0,2,W,,3.82,1.82
+549,45695,NBA,Single,Dabble,Mses Moody U 12.5 pts,1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+550,45695,NBA,Double,PointsBet,Franz Wag 20+; 25+ pts,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+551,45695,NBA,Multiple,Ladbrokes,Kawhi Leo 15+ pts;Norman powell 15+ pts; Pascal siakam 4+ rb,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+552,45695,NBA,Single,Dabble,Warriors/Lakers O224.5 pts,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+553,45695,NBA,Single,Dabble,Gabe Vincent O 1.5 threes,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+554,45695,NBA,Single,Dabble,Gabe vincent 4+ threes,6.5,2.80+,2.5 and above,0.3,W,,1.95,1.65
+555,45696,NBA,Single,Dabble,Zaccharie Ris 15+ asst pts,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+556,45696,NBA,Double,Dabble,Cameron John 15+ pts; Joel embiid 25+ asst pts,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+557,45695,Horse,Single,Ladbrokes,Hobart R7 In her stride 4 fw,16,2.80+,2.5 and above,0.2,L,,0,-0.2
+558,45695,Horse,Single,Ladbrokes,Hobart R7 In her stride 4 fixed place top 3,4.2,2.80+,2.5 and above,0.5,W,,2.1,1.6
+559,45695,Horse,Single,Ladbrokes,Moonee valley R5 Speir 1,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+560,45695,Horse,Single,PointsBet,Moonee Valley R3 Takeko 4,1.82,1.78–1.83,1.8–1.9,2,W,yes,3.64,1.64
+561,45696,NBA,Single,Dabble,Scottie barnes U 19.5pts,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+562,45696,NBA,Multiple,PointsBet,Cavs; 76ers; Thunders ML,1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+563,45696,NBA,Double,Dabble,Moussa diabate Double 2; Onyeka okong Double 2,6.93,2.80+,2.5 and above,0.3,W,,2.079,1.779
+564,45696,NBA,Single,Ladbrokes,Lamelo ball U 7.5 asst,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+565,45696,NBA,Multiple,Ladbrokes,Jordan poole 4+ asst; Darius Garland 4+ asst; Richaun hol 4+ rb,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+566,45696,NBA,Single,Dabble,Chet holmgren O 1.5 asst,2.3,1.90–2.80,2.2–2.3,1.4,L,,0,-1.4
+567,45696,NBA,Single,Dabble,Chet holmgren 4+ asst,11,2.80+,2.5 and above,0.2,L,,0,-0.2
+568,45696,NBA,Single,Dabble,Marcus sasser O 6.5 pts,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+569,45696,Horse,Single,Sportsbet,Randwick R1 Piraeus 4 fw,5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+570,45696,Horse,Single,Sportsbet,Caulfield R4 Aleppo pine 2 ,2.45,1.90–2.80,2.4–2.5,1.25,L,yes,0,-1.25
+571,45696,Horse,Single,Sportsbet,randwick R4 Point and shoot 9 fw,2.5,1.90–2.80,2.4–2.5,1.25,W,yes,3.125,1.875
+572,45696,Horse,Single,Sportsbet,Caulfield R5 my gladiola 1 fw,1.9,1.83–1.90,1.8–1.9,2,P,yes,0,0
+573,45696,Horse,Single,Sportsbet,Caulfield R6 insurrenction 3 fw,3.6,2.80+,2.5 and above,1,P,yes,0,0
+574,45696,Horse,Single,Sportsbet,randwick R6 The black cloud 7 fw,3.7,2.80+,2.5 and above,0.75,P,yes,0,0
+575,45696,Horse,Single,Sportsbet,Caulfield R7 Angel capital 2 fw,2.8,1.90–2.80,2.5 and above,1,W,yes,2.8,1.8
+576,45696,Horse,Single,Sportsbet,Caulfield R8 Munhamek 3 fw,7,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+577,45696,Horse,Single,PointsBet,Caulfield R9 another will 5 fw,3.4,2.80+,2.5 and above,1,W,yes,3.4,2.4
+578,45696,Horse,Single,Sportsbet,Caulfield R9 southport tycoon 2 fw,13,2.80+,2.5 and above,0.2,L,,0,-0.2
+579,45697,NBA,Single,Ladbrokes,Josh Hart U 6.5 asst,1.71,1.78 and below,1.7–1.8,3,W,,5.13,2.13
+580,45697,NBA,Single,Dabble,Trae young U 28.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+581,45697,NBA,Single,ANY,Jordan poole U 5.5 asst,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+582,45697,NBA,Single,ANY,Bub carrington O 15.5 pts asst,1.98,1.90–2.80,1.9–2.0,2,W,,3.96,1.96
+583,45697,NBA,Multiple,Sportsbet,Jayson tatum 25+ pts; Jalen Brunson 20+; Kristaps Por 10+ pts,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+584,45697,NBA,Single,Dabble,Blazers + 4.5,1.85,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+585,45697,NBA,Single,Dabble,Devin Booker O 6.5 asst,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+586,45697,NBA,Single,Dabble,Ayo dosunmu U 14.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+587,45697,Horse,Single,Sportsbet,Hobart R2 Wannabe Z 11,1.75,1.78 and below,1.7–1.8,2.25,L,yes,0,-2.25
+588,45698,Soccer,Double,Dabble,Lazio ML; Napoli ML,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+589,45698,NBA,Single,PointsBet,Scottie barnes U 5.5 asst,2.05,1.90–2.80,2.0–2.1,2,L,,0,-2
+590,45698,NBA,Single,PointsBet,Miles Bridges U 35.5 PRA,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+591,45698,NFL,Single,PointsBet,Patrick Mahomes O 5.5 rushing attempts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+592,45698,NFL,Single,Sportsbet,Total successful 4th down conversions U 2.5 Chiefs/eagles,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+593,45698,NBA,Double,PointsBet,Lamelo ball 5+ threes; Damian Lillard 35+ pts,4.75,2.80+,2.5 and above,0.25,W,,1.1875,0.9375
+594,45698,NFL,Single,Others,D Goedert U 55.5 rec yrds,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+595,45698,NBA,Multiple,Dabble,Devonte smith 70+ rec yrd; Hollywood brown  longest recep 15+ yrd;Xavier ATTD; Noah Gary 2+ recep,19.25,2.80+,2.5 and above,0.15,L,,0,-0.15
+596,45698,NFL,Multiple,PointsBet,Travis Kelce 4+ recep; Xavier W 4+ recep; Saquon Bark 65+ rush yrd,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+597,45698,Horse,Single,Sportsbet,Caulfield Health R1 Belle Detelle 7,1.75,1.78 and below,1.7–1.8,2.5,P,yes,0,0
+598,45699,NBA,Single,Dabble,Victor Wembanyama O 24.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+599,45699,NBA,Single,Dabble,Jonas Valan U 15.5 PRA,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+600,45699,NBA,Single,Dabble,onyeka Okong U 9.5 rb,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+601,45699,NBA,Multiple,Dabble,Nic Claxton U 2.5 asst; Miles Bridges U 27.5 pts asst; Lamelo ball O 34.5+ pts asst,6.5,2.80+,2.5 and above,0.35,L,,0,-0.35
+602,45699,NBA,Single,PointsBet,"AJ Green 1+, 2+ threes",1.71,1.78 and below,1.7–1.8,2.25,P,,0,0
+603,45699,NBA,Single,Others,B coulibaly U 16.5 pts,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+604,45699,NBA,Single,Ladbrokes,Jimmy Butler O 4.5 asst,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+605,45699,NBA,Single,Dabble,Anthony Ed U 42.5 PRA,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+606,45699,NBA,Single,ANY,Nikola Jiovic U 4.5 asst,1.7,1.78 and below,1.7 and below,2.5,W,,4.25,1.75
+607,45699,NBA,Single,Dabble,Carlton carrington O 11.5 pts,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+608,45699,NBA,Single,Ladbrokes,Stephone Castle O 13.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+609,45699,NBA,Single,Ladbrokes,Zion Williamson O 4.5 asst,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+610,45699,NBA,Single,Dabble,Trendon watford O 10.5 pts rb,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+611,45699,NBA,Single,ANY,deni Avdija O 21.5 pra,1.8,1.78–1.83,1.7–1.8,2.25,W,,4.05,1.8
+612,45699,NBA,Multiple,Sportsbet,John collins 15+ pts; Walker kesselr U 11.5 rb; Austin r 3.5+ rb; Luka dibc U 7.5 asst; Gabe V 2+ three,15,2.80+,2.5 and above,0.2,L,,0,-0.2
+613,45699,NBA,Single,Others,J Vanderbill U 6.5 pts,1.72,1.78 and below,1.7–1.8,2.25,W,,3.87,1.62
+614,45699,Soccer,Multiple,Dabble,Sporting lisbon ML; PSV draw/win; ManC O 1.5 goals,6.72,2.80+,2.5 and above,0.3,L,,0,-0.3
+615,45700,NBA,Single,Dabble,Joel Embiid 6+ 1stQ pts,1.77,1.78 and below,1.7–1.8,2.5,W,,4.425,1.925
+616,45700,NBA,Multiple,Sportsbet,Jalen D 10+ pts; rb; Nikola Vuc O 11.5 pts,2,1.90–2.80,1.9–2.0,2,L,yes,0,-2
+617,45700,NBA,Single,PointsBet,Ja Morant U 22.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+618,45700,NBA,Multiple,Dabble,Tyrese MU 26.5 pts; Scottie B O 7.5 rb; Paul G O23.5 pra,6.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+619,45700,NBA,Single,ANY,Jalen Brunson U 28.5 pts,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+620,45700,Horse,Multiple,Sportsbet,Seymour R2 14; Hawkesbury R1 2; Ascot R2 7,5.07,2.80+,2.5 and above,0.5,P,yes,0,0
+621,45700,Horse,Single,PointsBet,Hawkesbury R1 Bremel 2,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+622,45700,Horse,Single,Sportsbet,Seymour R4 Transaction 8,1.8,1.78–1.83,1.7–1.8,2,L,yes,0,-2
+623,45700,Soccer,Double,Sportsbet,Liverpool ML; Salah 1+ Shots OT,1.74,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+624,45701,NBA,Single,Dabble,Tyrese Maxey 6+ asst,1.88,1.83–1.90,1.8–1.9,2,P,,0,0
+625,45701,NBA,Single,Dabble,DAngelo Russel 20+ asst pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+626,45701,NBA,Multiple,Ladbrokes,DeAaron F U 6.5 asst; Jayson T 15+ pts; Kristaps P 10+ pts,1.88,1.83–1.90,1.8–1.9,2,W,yes,3.76,1.76
+627,45701,NBA,Single,Dabble,Isaiah Hart 25+ PRA,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+628,45701,NBA,Double,Dabble,Chris P U 7.5 asst; DeAaron F O 21.5 pts,3,2.80+,2.5 and above,1,L,,0,-1
+629,45701,NBA,Single,Bet365,Bobby Portis O17.5 pts asst ,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+630,45701,NBA,Single,Bet365,Kawhi Leonard O 7.5 asst rb,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+631,45700,Horse,Single,PointsBet,Ascot R9 Infuriated 5,2.05,1.90–2.80,2.0–2.1,2,L,yes,0,-2
+632,45701,NBA,Single,PointsBet,Jonathan Mogbo O 15.5 PRA,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+633,45701,NBA,Single,Dabble,Anfernee Simons U 27.5 pts asst,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+634,45701,NBA,Multiple,Sportsbet,Walker K 10+ rb; Luka Doncic 6+ rb; John Collins 10+ pts,2.05,1.90–2.80,2.0–2.1,2,L,yes,0,-2
+635,45701,NBA,Single,Ladbrokes,Josh Green O 9.5 pts rb,1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+636,45701,NBA,Single,ANY,J Brown U 23.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+637,45701,NBA,Single,Dabble,Dyson Daniels U 15.5 pts,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+638,45701,NBA,Single,Others,Bam Adebayo U 18.5pts,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+639,45701,NBA,Single,Dabble,Buddy Hield U 15.5 pts,1.82,1.78–1.83,1.8–1.9,2.25,W,,4.095,1.845
+640,45701,NBA,Double,Dabble,Tobias Harris 4+ 1st Q pts; Josh Giddey 10+ pts,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+641,45701,NBA,Single,ANY,"8 leg ML (nets, cavs. thunder, timberwolves, rockets, lakers, nuggets, GSW",7.57,2.80+,2.5 and above,0.3,L,,0,-0.3
+642,45701,NBA,Single,Ladbrokes,Jalen Williams U 31.5 PRA,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+643,45701,NBA,Single,Ladbrokes,Jalen Duren U 28.5 PRA,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+644,45701,NBA,Single,Dabble,Kevin Durant O 36.5 pra,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+645,45701,NBA,Single,Ladbrokes,Jamal Murray U 33.5 PRA,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+646,45701,NBA,Single,Ladbrokes,Jalen Pickett O 14.5,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+647,45701,NBA,Single,Dabble,Naji Marshall O 20.5 PRA,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+648,45701,NBA,Single,Sportsbet,Pakenham R1 Sweltering 11,2.1,1.90–2.80,2.0–2.1,1.75,P,yes,0,0
+649,45701,NBA,Single,Sportsbet,Pakenham R2 Knock me out 6,3.2,2.80+,2.5 and above,1,P,yes,0,0
+650,45702,NBA,Single,Dabble,Isaiah Hart U 3.5 asst,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+651,45702,NBA,Single,Dabble,Max Christie U 5.5 rb,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+652,45702,NBA,Single,Dabble,Oliver Maxen O 11.5 pts,1.85,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+653,45702,NBA,Multiple,Ladbrokes,Nikola Jov 2+ asst; Dante Exum 2+ asst; Nikola Jov 4+ asst,1.8,1.78–1.83,1.7–1.8,2,L,yes,0,-2
+654,45702,NBA,Single,Others,A Edwards U 29.5 pts,1.87,1.83–1.90,1.8–1.9,2.25,W,,4.2075,1.9575
+655,45702,NBA,Multiple,Sportsbet,Ivica Zub 8+ rb; 15+ pts; John collins 10+ pts; Ben Sim 4+ asst; Norman Powell 15+ pts,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+656,45702,Horse,Multiple,Sportsbet,Moone vallye R2 Ripnrip 4; Moonvallley R5 Dreamzei 1; Canterbury R2 Automnetree 1,4.73,2.80+,2.5 and above,0.5,P,yes,0,0
+657,45702,Horse,Single,Sportsbet,Moonvalley R1 Wagon 5,6.5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+658,45702,Tennis,Single,ANY,Daniel Rincon ML/ nicolas alva,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+659,45703,Horse,Single,PointsBet,Randwick race 10 perfumeist 7,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+660,45703,Horse,Single,Sportsbet,Randwick R5 Joliestar 5,2.35,1.90–2.80,2.3–2.4,2,P,yes,0,0
+661,45703,Horse,Single,Sportsbet,Flemington R2 Blethyn 4,3.9,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+662,45703,NBA,Single,Sportsbet,UCLA/Indiana Oumar Ballo O 12.5 pts,1.81,1.78–1.83,1.8–1.9,2,L,,0,-2
+663,45703,Horse,Single,Sportsbet,Flemington R1 Kigs valley 6,4.8,2.80+,2.5 and above,0.75,P,yes,0,0
+664,45703,Horse,Single,Sportsbet,Randwick R1 Shall be 4,5,2.80+,2.5 and above,0.5,P,yes,0,0
+665,45703,Horse,Single,Sportsbet,flemington R3Fancify 3,2.45,1.90–2.80,2.4–2.5,1.75,L,yes,0,-1.75
+666,45703,Horse,Single,Sportsbet,randwick r3 skyhook 10,6,2.80+,2.5 and above,0.4,P,yes,0,0
+667,45703,Horse,Single,Sportsbet,Eagle farm R2 Barazin 1,1.9,1.83–1.90,1.8–1.9,2,W,yes,3.8,1.8
+668,45703,Horse,Single,Sportsbet,Randwick R4 Yorkshire 1,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+669,45703,Horse,Single,PointsBet,Eagle farm R4 Caspernova 10,1.72,1.78 and below,1.7–1.8,2.25,W,yes,3.87,1.62
+670,45703,Horse,Single,Sportsbet,Randwick r6 Commenmorative 2,5,2.80+,2.5 and above,0.5,P,yes,0,0
+671,45703,Horse,Single,Sportsbet,Flemington R7 Feroce 6,4.6,2.80+,2.5 and above,0.75,P,yes,0,0
+672,45703,Horse,Single,Sportsbet,Randwick R7 Kady She 3,3,2.80+,2.5 and above,1.25,W,yes,3.75,2.5
+673,45703,Horse,Single,Ladbrokes,Flemington R8 Switzland 11,2.8,1.90–2.80,2.5 and above,1,L,,0,-1
+674,45703,Horse,Single,Sportsbet,Newcastle R6 Our Uptown Girl 5,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+675,45703,Horse,Single,Sportsbet,Randwick R8 Via Sistina 5,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+676,45704,Soccer,Double,Dabble,Marseille ML; Bournemouth ML,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+677,45704,Soccer,Multiple,Dabble,Newscastle W/Draw; Nottingham D/W; Aston villa ML; Athelico M ML,6.7,2.80+,2.5 and above,0.3,L,,0,-0.3
+678,45704,Rugby,Single,ANY,Gold coast titan ML,1.7,1.78 and below,1.7 and below,2,L,,0,-2
+679,45704,Soccer,Double,Dabble,Liverpool ML; Lyon ML,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+680,45705,Horse,Single,PointsBet,Thangool R3 Cobbo,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+681,45705,Horse,Single,Sportsbet,Scone R5 Call me Magnifique,2.8,1.90–2.80,2.5 and above,1,W,yes,2.8,1.8
+682,45706,Tennis,Single,Sportsbet,Jiri Lehecka ML,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+683,45706,Tennis,Multiple,Sportsbet,Fabian M ML; Clement Chid ML; Johannus Mony win atlest a set,2.03,1.90–2.80,2.0–2.1,2,P,yes,0,0
+684,45706,Tennis,Single,Sportsbet,Francisco Com ML v Gustavo,1.72,1.78 and below,1.7–1.8,2,W,,3.44,1.44
+685,45706,Tennis,Double,Sportsbet,Nuno Borges ML v Otto V; Raphael Coll ML v Maxen B,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+686,45706,Horse,Single,Sportsbet,Newcastle R5 Zounaka 3,2.1,1.90–2.80,2.0–2.1,1.75,P,yes,0,0
+687,45706,Horse,Single,Sportsbet,Queanbeyan R6 Pretty 3,3,2.80+,2.5 and above,1,W,yes,3,2
+688,45706,Soccer,Multiple,Sportsbet,Monaco ML/Draw; O 1.5 cards; 1H U 4.5 goals,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+689,45706,Tennis,Single,Ladbrokes,Zizou Bergs ML v Roberto Bau,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+690,45707,Tennis,Double,Ladbrokes,Alexis G ML; Valentin V ML,1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+691,45707,Horse,Single,Sportsbet,Warwick farm R5 cosmicland 10,6,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+693,45707,Soccer,Double,Ladbrokes,PSG -1; Liverpoll O 0.5 goals,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+694,45707,Horse,Single,PointsBet,Belmont R4 Summer 7,1.7,1.78 and below,1.7 and below,2,W,,3.4,1.4
+695,45707,Horse,Single,PointsBet,Ipwich R7 Pele 6,2.25,1.90–2.80,2.2–2.3,1.75,W,yes,3.9375,2.1875
+696,45708,NBA,Multiple,Ladbrokes,Mark W 25+ pra; Lamelo B 25+ pra; Miles Bridges 10+ pts,1.74,1.78 and below,1.7–1.8,2.25,P,yes,0,0
+697,45708,Horse,Single,Sportsbet,Kangaroo Island R5 Vexatious 5,1.8,1.78–1.83,1.7–1.8,2,W,yes,3.6,1.6
+698,45708,Horse,Single,Sportsbet,Pakenham R1 Vinrock R1,1.95,1.90–2.80,1.9–2.0,1.75,W,yes,3.4125,1.6625
+699,45708,Horse,Single,Sportsbet,Pakenham R2 Coronation 5,2.9,2.80+,2.5 and above,1,L,yes,0,-1
+700,45708,Horse,Single,PointsBet,Geraldton R7 On the M 2,1.72,1.78 and below,1.7–1.8,2.25,W,yes,3.87,1.62
+701,45708,Horse,Single,PointsBet,Pakenham R5 Red Feather 10 fiex place,2.25,1.90–2.80,2.2–2.3,1.75,W,,3.9375,2.1875
+702,45708,Horse,Single,Sportsbet,Pakenham R5 Red geathers 10 fw,9,2.80+,2.5 and above,0.25,L,,0,-0.25
+704,45709,NBA,Single,Ladbrokes,Nikola Jokic U 27.5 pts,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+705,45709,NBA,Multiple,Sportsbet,Cavs ML; Nic Claxton 4+ rb; Jarrett A U 15.5 pts,1.77,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+706,45709,NBA,Single,Dabble,Jeremy Sochan O 6.5 rb,1.95,1.90–2.80,1.9–2.0,1.8,L,,0,-1.8
+707,45709,NBA,Single,Bet365,Jeremy Sochan 13+ rb,15,2.80+,2.5 and above,0.2,L,,0,-0.2
+708,45709,NBA,Single,Dabble,Keldon Johnson O 9.5 pts,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+709,45709,NBA,Single,Dabble,Bennedict Math U16.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+710,45709,NBA,Single,Dabble,Kelly Ou U 12.5 pts,1.75,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+711,45709,NBA,Single,Dabble,Trae Young U 27.5 PRA,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+712,45709,NBA,Single,Dabble,Onyeka Okongwu U 9.5 rb,2,1.90–2.80,1.9–2.0,2,W,,4,2
+713,45709,Horse,Single,PointsBet,Mackay R7 Fortress 6,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+714,45709,Horse,Single,Sportsbet,Launceston R3 Geegee 10,5,2.80+,2.5 and above,0.5,W,yes,2.5,2
+715,45709,Horse,Single,PointsBet,Mt Baker R7 Pennies 8,2.7,1.90–2.80,2.5 and above,1,L,yes,0,-1
+716,45709,Tennis,Single,Ladbrokes,Andrey Rub -0.5,1.73,1.78 and below,1.7–1.8,2,W,,3.46,1.46
+717,45709,Horse,Single,Sportsbet,Moone Velly R6 Charming 4,9.5,2.80+,2.5 and above,0.25,L,,0,-0.25
+718,45709,Horse,Single,Sportsbet,Moon valley R6 Fearless W 5,7,2.80+,2.5 and above,0.3,L,,0,-0.3
+719,45710,NBA,Single,Dabble,Desmond Bane U 19.5,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+720,45710,NBA,Single,Dabble,Karl Anthony T U 25.5 pts,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+721,45710,NBA,Multiple,Sportsbet,"Cade Cunningham 15+ pts; Chris paul U 7,5 asst; Jalen D O 6.5 pts",2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+722,45710,NBA,Multiple,Ladbrokes,Anthony Ed U 5.5 asst; Alperen S 10+ pts; 6+ rb,1.92,1.90–2.80,1.9–2.0,2,W,yes,3.84,1.84
+723,45710,NBA,Single,Others,Jeremy sochan U 10.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+724,45710,Horse,Single,Sportsbet,Caulfield R7 Mr Brightside 1,1.9,1.83–1.90,1.8–1.9,2,W,yes,3.8,1.8
+725,45710,NBA,Single,Others,Giannis Ante U 27.5 pts,2.05,1.90–2.80,2.0–2.1,2,W,,4.1,2.1
+726,45710,Horse,Single,Sportsbet,Rosehill R5 Makarena 1,1.75,1.78 and below,1.7–1.8,2.25,L,yes,0,-2.25
+727,45710,NBA,Double,Dabble,Scottie Barnes U 21.5 pts; Paolo Banchero U 38.5 pra,2.82,2.80+,2.5 and above,1,W,,2.82,1.82
+728,45710,NBA,Single,Dabble,Kevin Porter Jr O 11.5 pts,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+729,45710,Horse,Single,Sportsbet,Caulfield R2 Winnase 9,3.4,2.80+,2.5 and above,0.75,W,yes,2.55,1.8
+730,45710,Horse,Single,Sportsbet,Caulfield R3 Shanwah 4,3.5,2.80+,2.5 and above,0.75,W,yes,2.625,1.875
+731,45710,Horse,Single,Sportsbet,Caulfield R6 Grinzinger 2,3.2,2.80+,2.5 and above,1,W,yes,3.2,2.2
+732,45710,Horse,Single,Sportsbet,Rosehill R6 Bel Merci 10,2.9,2.80+,2.5 and above,1,L,yes,0,-1
+733,45710,Horse,Single,Sportsbet,Rosehill R2 Our Anch 11,3.2,2.80+,2.5 and above,1,W,yes,3.2,2.2
+734,45710,Horse,Single,Sportsbet,Caulfield R8 Tempted 15,7.5,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+735,45710,Horse,Single,Sportsbet,Rosehill R8 Linebacker 3,4.6,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+736,45710,Soccer,Multiple,PointsBet,Leverkusen ML; Brighton ML/D; Barcelona ML,1.72,1.78 and below,1.7–1.8,2,W,,3.44,1.44
+737,45710,Horse,Single,PointsBet,Ascot R6 Essentric 6,1.72,1.78 and below,1.7–1.8,2.25,W,,3.87,1.62
+738,45711,NBA,Single,Dabble,Killian Hayes O 5.5 asst,2.05,1.90–2.80,2.0–2.1,1.8,W,,3.69,1.89
+739,45711,NBA,Single,Dabble,Aaron gordon O 20.5 PRA,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+740,45711,NBA,Single,ANY,Isaiah Collier  U 8.5 asst,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+741,45711,Horse,Single,PointsBet,Pinjarra R1 Silent A 3,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+742,45711,Horse,Single,Sportsbet,Pinjarra R3 Take the field 3,3.6,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+743,45711,Horse,Single,PointsBet,Pinjarra R4 Fyola 11,2.35,1.90–2.80,2.3–2.4,1.5,W,yes,3.525,2.025
+744,45711,Soccer,Multiple,Bet365,Nice ML; Athletic bilbao ML; Liverpool O 0.5 goals,1.78,1.78 and below,1.7–1.8,2.5,W,,4.45,1.95
+745,45712,NBA,Single,Dabble,Anthony Edwards U 28.5 pts,1.8,1.78–1.83,1.7–1.8,2.5,L,,0,-2.5
+746,45712,NBA,Single,Ladbrokes,Jimmy Buttler O 32.5 PRA,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+747,45712,NBA,Single,ANY,Derrick Jones O 11.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+748,45712,NBA,Single,Others,Scott Barnes U 21.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+749,45712,NBA,Single,ANY,Vince Williams O 3.5 rb,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+750,45712,NBA,Single,Dabble,Cole Anthony O 22.5 PRA,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+751,45712,NBA,Single,Dabble,Onyeka Okongwu U 25.5 pra,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+752,45712,Horse,Single,PointsBet,Albury R2 Sargeant 4,1.7,1.78 and below,1.7 and below,2.25,P,yes,0,0
+753,45712,Horse,Single,Sportsbet,Albury R4 Unow 4,1.75,1.78 and below,1.7–1.8,2,P,yes,0,0
+754,45712,Tennis,Multiple,Dabble,AsRoma ML;Zizou berg ml;andrej martin ml,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+755,45713,NBA,Single,ANY,Piston ML,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+756,45713,NBA,Single,Ladbrokes,Andrew Nem O 4.5 asst,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+757,45713,NBA,Single,Dabble,Nic Ckaxton O 21.5 Pts rb,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+758,45713,NBA,Single,Dabble,Trae Young U 28.5 pts,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+759,45713,NBA,Multiple,Dabble,Richaun Holmes 2+ asst; Donovan Clingan 12+ rb; Guerschon Y 2+ threes,18.7,2.80+,2.5 and above,0.2,L,,0,-0.2
+760,45713,NBA,Double,Dabble,Richaun Holmes 1+ asst; Killian Hayes 4+ asst,1.89,1.83–1.90,1.8–1.9,2,W,,3.78,1.78
+761,45713,Soccer,Single,ANY,Chelsea/Southampton both team score,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+762,45714,NBA,Single,Ladbrokes,Zion W O 4.5 asst,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+763,45714,NBA,Single,Dabble,Fred Van V O 16.5 pts rb,1.85,1.83–1.90,1.8–1.9,2,P,,0,0
+764,45714,NBA,Single,Dabble,Brandin Pod O 5.5 rb,1.72,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+765,45714,Horse,Multiple,Sportsbet,Sandown R1 8;Launceston R2 12; Launceston R7 13; Doomben R8 1,8.72,2.80+,2.5 and above,0.3,L,,0,-0.3
+766,45714,NBA,Single,ANY,Kyle Kuz U 9.5 rb asst,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+767,45714,NBA,Multiple,Sportsbet,Grizzles; Celtics; Magic ML,2,1.90–2.80,1.9–2.0,2,W,,4,2
+768,45714,NBA,Single,Others,P Banchero U 23.5 pts,1.85,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+769,45714,Tennis,Double,ANY,Frances Tiafoe ML; Francisco Cerundolo ML,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+770,45714,Tennis,Single,Sportsbet,Nishesh Basava ML,2.1,1.90–2.80,2.0–2.1,1.75,L,,0,-1.75
+771,45715,NBA,Single,Ladbrokes,RJ Barett O 4.5 asst,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+772,45715,NBA,Multiple,Ladbrokes,Jordan Clarkson 15+ pts; DeMar DeRo 10+ pts; Domantas Sab 10+ rb; Malik Monk 4+ asst,1.74,1.78 and below,1.7–1.8,2.25,L,yes,0,-2.25
+773,45715,NBA,Multiple,Sportsbet,Cade Cunningham U 12.5 asst; Jayson Tatum 4+ rb; Cade cunningham 20+ pts; Jayson tatum 25+ pts,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+774,45715,NBA,Single,Dabble,Corey Kispert U 15.5 pra,1.95,1.90–2.80,1.9–2.0,1.75,L,,0,-1.75
+775,45715,NBA,Single,Others,J Middleton U 23.5 PRA,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+776,45715,NBA,Single,Dabble,Marcus Sasser O 4.5 pts,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+777,45715,NBA,Single,Dabble,Shai G U 30.5 pts,1.85,1.83–1.90,1.8–1.9,2.5,W,,4.625,2.125
+778,45715,NBA,Single,Bet365,Trae Young U 26.5 pts,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+779,45715,Horse,Single,Sportsbet,Pakenham R6 Exceli 8,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+780,45715,NBA,Single,Bet365,Keegan Murray O 17.5 PRA,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+781,45715,Horse,Single,Sportsbet,Pakenham R1 Week 10,6.5,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+782,45715,Horse,Single,Sportsbet,Pakenham R4 Heaven 10,2.1,1.90–2.80,2.0–2.1,1.75,W,yes,3.675,1.925
+783,45715,Horse,Single,Sportsbet,Bunbury R4 Return 11,1.8,1.78–1.83,1.7–1.8,2,L,yes,0,-2
+784,45715,Soccer,Single,Bet365,West ham ML,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+785,45715,Horse,Single,Sportsbet,Pakenham R5 Savead 10,4,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+786,45715,Horse,Single,Sportsbet,Pakenham R7 Kyle 4,2.1,1.90–2.80,2.0–2.1,1.75,L,yes,0,-1.75
+787,45715,Horse,Single,Sportsbet,Pakenham R9 Appointed 7,2.1,1.90–2.80,2.0–2.1,2,P,yes,0,0
+788,45716,NBA,Double,Bet365,Moses Moody U 1.5 asst; Paolo Ban 5+ rb,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+789,45716,NBA,Multiple,Ladbrokes,Giannis A 10+ rb; 20+ pta; Nikola J 15+ pts; Nichael P 4+ rb,1.82,1.78–1.83,1.8–1.9,2,W,yes,3.64,1.64
+790,45716,NBA,Multiple,Dabble,Lamelo B 4+ threesl CJ Nc 3+ thressl Rui H 2+ thress; AJ Green 2+ threes;,9.01,2.80+,2.5 and above,0.25,L,,0,-0.25
+791,45716,NBA,Single,Ladbrokes,Nick Smith Jr U 19.5 pra,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+792,45716,NBA,Single,Bet365,Magic ML,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+793,45716,NBA,Single,Bet365,Grayson Allen O 5.5 asst rb,1.74,1.78 and below,1.7–1.8,2,L,,0,-2
+794,45716,NBA,Single,Sportsbet,Jaden McD U 15.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+795,45716,Horse,Single,Sportsbet,Goulburn R7 Ghost 3,2.05,1.90–2.80,2.0–2.1,1.75,P,yes,0,0
+796,45716,Horse,Single,Sportsbet,Port Lin r8 Isupect 8,5.5,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+797,45716,Horse,Single,PointsBet,Moone Valley R5 Rich 1,3.5,2.80+,2.5 and above,0.75,W,yes,2.625,1.875
+798,45716,Horse,Single,Sportsbet,Moone V R7 Extra 5,4.8,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+799,45716,Horse,Single,PointsBet,Sunshine Coast R8 King 1,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+800,45717,NBA,Single,PointsBet,tyrese Hali U 19.5 pts,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+801,45717,NBA,Single,Dabble,Dean Wade 5+ asst rb,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+802,45717,NBA,Double,Sportsbet,Tyus Jones O 6.5 asst; Nick Rich 6+ rb,1.79,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+803,45717,NBA,Single,ANY,Josh Giddey U 17.5 pts,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+804,45717,NBA,Double,Sportsbet,Donovan Mit 8+ rb; Kelly Oly 10+ rb,43.96,2.80+,2.5 and above,0.1,L,,0,-0.1
+805,45717,NBA,Multiple,Ladbrokes,Clippers ML; Ivica Z 8+ rb; Clipper +11.5,1.71,1.78 and below,1.7–1.8,2.5,P,yes,0,0
+806,45717,NBA,Single,Bet365,Terrence Shan O 17.5 pts rb,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+807,45717,NBA,Single,Bet365,Trae young U 38.5 pra,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+808,45717,NBA,Single,Ladbrokes,Anfernee Sim U21.5 pts,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+809,45717,NBA,Single,Bet365,Precious Anchi U 9.5 pts asst,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+810,45717,NBA,Single,Bet365,JAlen Smith O 14.5 pts rb,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+811,45717,Horse,Single,Sportsbet,Flemington R1 Chergui 2,7,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+812,45717,Horse,Single,Sportsbet,Randwick R1 Catch 11,7.5,2.80+,2.5 and above,0.3,W,yes,2.25,1.95
+813,45717,Horse,Single,Sportsbet,Flemington R2 Revel 2,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+814,45717,Horse,Single,Sportsbet,Randwick R2 She W 13,7,2.80+,2.5 and above,0.3,P,yes,0,0
+815,45717,Horse,Single,Sportsbet,Ipswich R2 Cuddles 1,1.7,1.78 and below,1.7 and below,2,W,yes,3.4,1.4
+816,45717,Horse,Single,PointsBet,Morphettville R2 Bogues 2,1.72,1.78 and below,1.7–1.8,2,P,yes,0,0
+817,45717,Horse,Single,Sportsbet,Randwick R3 Les Vam 5,3.5,2.80+,2.5 and above,0.75,P,yes,0,0
+818,45717,Horse,Single,Sportsbet,Flemington R4 Top cal 10,4,2.80+,2.5 and above,0.75,P,yes,0,0
+819,45717,Horse,Single,Sportsbet,Randwick R4 Comedy 4,5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+820,45717,Horse,Single,Sportsbet,flemington R5 Scillato 7,3.3,2.80+,2.5 and above,1,W,yes,3.3,2.3
+821,45717,Horse,Single,Sportsbet,Randwick R5 Memo 2,5.5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+822,45717,Horse,Single,Sportsbet,Flemington R6 Enxuto 11,4.5,2.80+,2.5 and above,0.5,W,yes,2.25,1.75
+823,45717,Horse,Single,Sportsbet,Randwick R6 Amelia 1,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+824,45717,Horse,Single,Sportsbet,Flemington R7 Place Du 10,3.9,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+825,45717,Horse,Single,Sportsbet,Randwick R7 Lady Of 2,9,2.80+,2.5 and above,0.25,P,yes,0,0
+826,45717,Horse,Single,PointsBet,Randwick R7 More Terr 8,51,2.80+,2.5 and above,0.1,L,,0,-0.1
+827,45717,Horse,Single,Sportsbet,Flemington R8 Sepals 12,3.5,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+828,45717,Horse,Single,PointsBet,Randwick R8 Via Sis 8,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+829,45717,Horse,Single,Bet365,Amelia's Jewel (15march Coolmore classic) win and each way,7.5,2.80+,2.5 and above,0.75,L,,0,-0.75
+830,45717,Soccer,Double,Bet365,Crystal Palace ML; PSG ML,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+831,45718,NBA,Single,Ladbrokes,Marcus Smart U 17.5 pra,1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+832,45718,NBA,Double,Ladbrokes,Keon Johnson O 2.5 asst; Jalen Duren O 2.5 asst,2.9,2.80+,2.5 and above,1,L,,0,-1
+833,45718,NBA,Single,Dabble,Alperen Sengun O 4.5 asst,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+834,45718,NBA,Single,Bet365,Santi Aldama U 28.5 pra,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+835,45718,NBA,Single,Dabble,Kyrie Irving U 5.5 asst,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+836,45718,NBA,Single,Dabble,Quinten Post U 19.5 pra,1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+837,45718,Rugby,Multiple,Bet365,Penrith Panthers ML; Neither team score 35 pts; Shark U 30.5 pts,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+838,45718,Rugby,Multiple,Sportsbet,paul alamoti/Sam st scire a try; tie lindsay vs Oregon; U 57.5 pts,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+839,45719,NBA,Single,Bet365,Christian Braun U 2.5 asst,1.8,1.78–1.83,1.7–1.8,2.5,L,,0,-2.5
+840,45719,NBA,Single,Bet365,Jalen Smith O 12.5 pts rb,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+841,45719,NBA,Single,Dabble,Josh Giddey U 18.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+842,45719,NBA,Single,Bet365,Josh Hart 1+ thress,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+843,45719,NBA,Multiple,Sportsbet,Jalen William O 4.5 asst; Shai G 20+ pts; Thunder ML,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+844,45719,NBA,Single,Bet365,Brice Sensabaugh U 4.5 rb,1.71,1.78 and below,1.7–1.8,2.25,W,,3.8475,1.5975
+845,45719,NBA,Single,Dabble,Devin booker O 36.5 pra,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+846,45719,NBA,Single,ANY,Clippers ML,1.79,1.78–1.83,1.7–1.8,2,L,,0,-2
+847,45719,Horse,Single,Sportsbet,Cairns R5 Saturday 5,1.9,1.83–1.90,1.8–1.9,2,P,yes,0,0
+848,45719,Soccer,Single,Dabble,Nottingham Forrest ML,1.7,1.78 and below,1.7 and below,2.25,L,,0,-2.25
+849,45720,NBA,Multiple,Bet365,Donovan Clingan 7+ rb; Anfernee S 15+ pts; Deni Avdji 10+ pts,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+850,45720,NBA,Single,Bet365,Blazers ML,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+851,45720,NBA,Single,Dabble,Nick Smith Jr U 18.5 pra,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+852,45720,NBA,Single,Sportsbet,Jimmy Butler U 18.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+853,45720,NBA,Single,Ladbrokes,Bub Carrington rb asst U 9.5,1.72,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+854,45720,NBA,Double,PointsBet,Duncan Robinson U 3.5asst; Tyler Herro 4+ asst,1.73,1.78 and below,1.7–1.8,2.25,W,,3.8925,1.6425
+855,45720,NBA,Single,Bet365,Jaren Jackson O 24.5 pts,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+856,45720,NBA,Single,Ladbrokes,Reed Sheppard O 9.5 pts,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+857,45720,NBA,Single,Bet365,Jonas Valan 3+ asst,2.05,1.90–2.80,2.0–2.1,1.5,W,,3.075,1.575
+858,45720,NBA,Single,Bet365,Jonas Valan 5+ asst,7,2.80+,2.5 and above,0.3,L,,0,-0.3
+859,45720,NBA,Single,Bet365,Jonas Valan 7+ asst,21,2.80+,2.5 and above,0.2,L,,0,-0.2
+860,45720,NBA,Multiple,Sportsbet,Piston ML; Jalen Duren 2+ asst; 66+ rb; Isaiah Coll U 10.5 asst,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+861,45720,Soccer,Single,ANY,PSV ML.draw,2,1.90–2.80,1.9–2.0,1.85,L,,0,-1.85
+862,45721,NBA,Single,Bet365,Andrew Nem O16.5 pts asst,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+863,45721,NBA,Single,Bet365,Trendon Wat U 2.5 asst,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+866,45721,NBA,Double,Dabble,Josh Hart 20+ asst rb; Bismack Biyombo 2+ asst,12.38,2.80+,2.5 and above,0.2,L,,0,-0.2
+867,45721,NBA,Multiple,Sportsbet,Cavs ML; Darius Garland 6+ asst; 10+ pts; Zach Collins 4+ rb,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+868,45721,NBA,Single,Others,Josh Hart U 16.5 pts,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+869,45721,NBA,Multiple,Sportsbet,Bucks ML; Cavs -4.5; Timberwolves ML,2.01,1.90–2.80,2.0–2.1,2,W,,4.02,2.02
+870,45721,NBA,Single,Bet365,Jaden McD U 14.5 pts,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+871,45721,Horse,Single,PointsBet,Oakbank R1 Discre 3,1.7,1.78 and below,1.7 and below,2.5,L,,0,-2.5
+872,45721,NBA,Single,Dabble,Clippers ML,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+873,45721,Horse,Single,Sportsbet,Warwick farm R2 Polym 1,1.8,1.78–1.83,1.7–1.8,2,P,yes,0,0
+874,45721,Horse,Single,PointsBet,Launceston R3 Hurricance 1,5,2.80+,2.5 and above,0.5,W,yes,2.5,2
+875,45721,Soccer,Single,Bet365,Liverpool ML,2.7,1.90–2.80,2.5 and above,1,W,,2.7,1.7
+876,45721,NBA,Double,Dabble,Jonas Valan 25+ pra; Bucks ML,1.76,1.78 and below,1.7–1.8,2.5,W,,4.4,1.9
+877,45722,NBA,Single,Bet365,Corey Kispert O 12.5 pts,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+878,45722,NBA,Single,Ladbrokes,Isaiah Collier O 25.5 pra,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+879,45722,NBA,Single,Dabble,Brice Sensa U 4.5 rb,1.95,1.90–2.80,1.9–2.0,2,W,,3.9,1.9
+880,45722,NBA,Single,Dabble,Neemis Queta O 11.5 pts rb,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+881,45722,NBA,Single,Others,AJ Green 2+ thress,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+882,45722,NBA,Single,Dabble,Desmond Bane U 23.5 pts,1.82,1.78–1.83,1.8–1.9,2.25,W,,4.095,1.845
+883,45722,NBA,Single,Dabble,Ivica Zubac U 19.5 pts,1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+884,45722,AFL,Multiple,Sportsbet,Brisbane ML; JessesAr/Reece/Selw scores a try; Ties for Naufafu v Payne; U 61.5 pts,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+885,45723,NBA,Double,Dabble,Celtics ML; Jabari Smith 20+ PRA,1.83,1.78–1.83,1.8–1.9,2.25,W,,4.1175,1.8675
+886,45723,NBA,Single,Bet365,Kentavious Cald U 2.5 rb,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+887,45723,NBA,Single,Bet365,Stephen Curry U 26.5 pts,1.74,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+888,45723,NBA,Multiple,Ladbrokes,Jimmy Butler 15+ pts; Nicolas Clax 4+ rb; BRandin Pod 2+ asst,1.72,1.78 and below,1.7–1.8,2.25,P,yes,0,0
+889,45723,NBA,Single,ANY,Quentin Grimes U 4.5 asst,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+890,45723,NBA,Single,Ladbrokes,Austin Reaves U 19.5 pts,1.78,1.78 and below,1.7–1.8,2,W,,3.56,1.56
+891,45723,AFL,Multiple,Ladbrokes,Tom Pap anytime goal kicker; Justin Mci 15+ disposals; Chad Warner 15+ disposal,1.78,1.78 and below,1.7–1.8,2.25,W,yes,4.005,1.755
+892,45723,AFL,Multiple,Sportsbet,Will Hay AT goal scored; Nick Blakey 15+ disposal; JAck Scrim 15+ disposal,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+893,45723,Rugby,Multiple,Ladbrokes,Wests Tiger/Knight No fro game go to golden pts; O 41.5 pts; O 35.5 pts,1.76,1.78 and below,1.7–1.8,2,L,yes,0,-2
+894,45723,Rugby,Double,Sportsbet,Greg Marz/Bradm/JAmes Sc score a try; Knights -2.5,2,1.90–2.80,1.9–2.0,2,L,yes,0,-2
+895,45723,Rugby,Multiple,Ladbrokes,Tyroe M AT scorer; Isaiah /Tyrone M 1+ tries; Hamisa/Jamay/Tyrone 1+ treies,1.9,1.83–1.90,1.8–1.9,2,W,yes,3.8,1.8
+896,45723,Rugby,Double,Sportsbet,South Sydney rabbit ML; U 63.5 pts,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+897,45724,NBA,Single,Dabble,Zach Edey O 8.5 pts,1.78,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+898,45724,NBA,Single,Bet365,JaKobe Walter O 13.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+899,45724,NBA,Multiple,Ladbrokes,KEegan M 4+ rb; DeAaron F 15+ pts; 4+asst; DeMar D 15+ pts; Chris P 4+ asst,1.72,1.78 and below,1.7–1.8,2.25,W,yes,3.87,1.62
+900,45724,NBA,Single,Bet365,Pelle Larsson O 9.5 pra,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+901,45724,Horse,Single,Sportsbet,Flemington R1 Gallant 2,2.35,1.90–2.80,2.3–2.4,1.25,P,yes,0,0
+902,45724,Horse,Single,Sportsbet,Randwick R1 Rush A 4,4.6,2.80+,2.5 and above,0.75,P,yes,0,0
+903,45724,Horse,Single,Sportsbet,Randwick R2 Yoshin 4,2.6,1.90–2.80,2.5 and above,1,L,yes,0,-1
+904,45724,Horse,Single,Sportsbet,Flemington R3 Wolf 10,3.7,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+905,45724,Horse,Single,Sportsbet,Flemington R3 Veloce 4,14,2.80+,2.5 and above,0.25,L,,0,-0.25
+906,45724,Horse,Single,Sportsbet,Randwick R3 ?Tempted 3,3.7,2.80+,2.5 and above,0.75,W,yes,2.775,2.025
+907,45724,Horse,Single,Sportsbet,Flemington R4 Is it me 10,2.5,1.90–2.80,2.4–2.5,1.2,W,yes,3,1.8
+908,45724,Horse,Single,Sportsbet,Randwick R4 Wodeon 5,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+909,45724,NBA,Single,ANY,Grayson A U 8.5 pts,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+910,45724,Horse,Single,Sportsbet,Flemington R5 Ohope 9,13,2.80+,2.5 and above,0.25,L,yes,0,-0.25
+911,45724,Horse,Single,Sportsbet,Flemington R5 Sunlit 16,10,2.80+,2.5 and above,0.25,L,,0,-0.25
+912,45724,NBA,Single,Ladbrokes,Bogdan Bogda U 13.5 pts,1.88,1.83–1.90,1.8–1.9,2.25,W,,4.23,1.98
+913,45724,Horse,Single,Sportsbet,Randwick R5 Its a knock 7,3.2,2.80+,2.5 and above,1,P,yes,0,0
+914,45724,Horse,Single,Sportsbet,Flemington R6 Middle Earth 3,4.8,2.80+,2.5 and above,0.75,W,yes,3.6,2.85
+915,45724,Horse,Single,Sportsbet,Randwick R6 I am me 9,3.1,2.80+,2.5 and above,1,P,yes,0,0
+916,45724,Tennis,Single,Sportsbet,Yosuke Watanuki ML,7.5,2.80+,2.5 and above,0.5,W,,3.75,3.25
+917,45724,Horse,Single,Sportsbet,Flemington R7 Another Wil 4,2.7,1.90–2.80,2.5 and above,1,L,yes,0,-1
+918,45724,Horse,Single,Sportsbet,Randwick R7 Aeliana 9,5.5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+919,45724,Horse,Single,Sportsbet,Flemington R8 Cilacap 6,7.5,2.80+,2.5 and above,0.35,L,yes,0,-0.35
+920,45724,Horse,Single,Sportsbet,Flemington R8 Sneaky 5,11,2.80+,2.5 and above,0.25,L,,0,-0.25
+921,45724,Rugby,Double,Sportsbet,St george +8.5; Christian/Math/Valent score a try/pts U 57.5,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+922,45724,Rugby,Multiple,Ladbrokes,St G/Bulldogs no to golden pts; 2nd half is the highest scoring; 1+ tries,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+923,45724,Rugby,Multiple,Sportsbet,Eagles ML; Lehi/Jason scorea try; pts U 63.5,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+924,45724,Rugby,Multiple,Ladbrokes,No golden pts; 2nd half highest scoreing ; tries 1+,1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+925,45724,Soccer,Double,Bet365,Crystal P ML; Bayern M ML,1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+926,45725,NBA,Single,Bet365,Jalen Green U 22.5 pts,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+927,45725,NBA,Single,Dabble,Obi Top O 7.5 pts,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+928,45725,NBA,Single,Ladbrokes,Kyshawn G U 11.5 pts,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+929,45725,NBA,Double,Dabble,Giannis Ante U6.5 asst; 20+ pts,1.89,1.83–1.90,1.8–1.9,2,W,,3.78,1.78
+930,45725,NBA,Multiple,Sportsbet,Jayson Tatum 4+ rb; Luka Doincic 4+ rb; Celtics -6.5,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+931,45725,AFL,Multiple,Sportsbet,Lachie W 25+ dis; toby G AT goal; Josh K 20+ dis; Josh Dai 20+ dis,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+932,45725,AFL,Multiple,Ladbrokes,Lachie A; Scott Pen; Harry Himme; Jack Crisp; 15+ disposal; Nick Dai 20+ dis,1.75,1.78 and below,1.7–1.8,2.25,W,yes,3.9375,1.6875
+933,45725,Rugby,Multiple,Sportsbet,Will War AT scorer; Melbourn Storm ML; Parramatta Eels U 21.5 pts,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+934,45725,Rugby,Multiple,Ladbrokes,Storm ML; Storm -1.5; Xacier Coastes AT try scorer,1.74,1.78 and below,1.7–1.8,2,W,yes,3.48,1.48
+935,45725,Soccer,Multiple,Bet365,Chelsea ML; Real Betis ML; Real madrid draw/ML,1.78,1.78 and below,1.7–1.8,2.5,W,,4.45,1.95
+936,45726,NBA,Single,Ladbrokes,Brice Sensabaugh Over 14.5 Points,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+937,45726,NBA,Single,ANY,Dennis Schroder Under 4.5 Assists,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+938,45726,NBA,Single,Dabble,DeMar DeRozan Under 28.5 Points + Rebounds,1.88,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+939,45726,NBA,Single,ANY,Jaden McDaniels Under 23.5 Points Rebounds & Assists O/U (23.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+940,45726,Horse,Single,Sportsbet,Morphettville R6 Gala Queen 9,3.5,2.80+,2.5 and above,0.75,W,yes,2.625,1.875
+941,45726,Horse,Single,Sportsbet,Morphettville R5 Elphinstone 3,2.7,1.90–2.80,2.5 and above,1,W,yes,2.7,1.7
+942,45726,Horse,Single,Sportsbet,Morphettville R3 Super Alana 7,2.2,1.90–2.80,2.1–2.2,1.5,L,yes,0,-1.5
+943,45726,Horse,Single,Sportsbet,Morphettville R4 Ginger Sweet 9,4,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+944,45727,Soccer,Single,ANY,Draw or Udinese Double Chance,2.1,1.90–2.80,2.0–2.1,1.75,W,,3.675,1.925
+945,45727,NBA,Single,ANY,Coby White Under 31.5 Points + Rebounds + Assists O/U (31.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+946,45727,NBA,Single,Dabble,Devin Booker Under 40.5 Points + Rebounds + Assists O/U (40.5),1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+947,45727,NBA,Single,PointsBet,Miles Bridges Under 35.5 Points + Rebounds + Assists O/U (35.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+948,45727,NBA,Single,Dabble,Davion Mitchell Over 6.5 Points O/U (6.5),1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+949,45727,NBA,Single,Sportsbet,LaMelo Ball Over 11.5 Points + Rebounds O/U (11.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+950,45727,NBA,Single,Ladbrokes,Payton Pritchard Over 26.5 Points Rebounds & Assist,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+951,45727,NBA,Single,Ladbrokes,Kevin Huerter Under 18.5 Points Rebounds & Assists O/U (18.5),1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+952,45727,NBA,Single,Ladbrokes,Luka Doncic Over 31.5 Points,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+953,45727,NBA,Single,Dabble,Alperen Sengun Under 37.5 Points + Rebounds + Assists O/U (37.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+954,45727,NBA,Single,Ladbrokes,Orlando Robinson Over 8.5 Points,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+955,45727,NBA,Single,Ladbrokes,Chet Holmgren Over 6.5 Rebounds,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+956,45727,NBA,Single,Ladbrokes,Jay Huff Over 14.5 Points + Rebounds,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+957,45727,Horse,Single,Sportsbet,Gouldburn R2 Obvious 1,1.9,1.83–1.90,1.8–1.9,2,L,yes,0,-2
+958,45727,Soccer,Double,Bet365,Barcelona ML; Inter Milan ML,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+959,45728,Soccer,Single,ANY,Draw or Club Brugge Double Chance,2.1,1.90–2.80,2.0–2.1,1.5,L,,0,-1.5
+960,45728,NBA,Double,Ladbrokes,Darius Garland Over 25.5 Points;,1.88,1.83–1.90,1.8–1.9,2.25,W,,4.23,1.98
+961,45728,NBA,Single,Dabble,James Harden Under 25.5 Points O/U (25.5),1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+962,45728,Horse,Single,Sportsbet,Wyong R4 Ella Hazel 9,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+963,45728,NBA,Multiple,Ladbrokes,Kyle Kuzma To Have 4+ Rebounds; Tyrese Haliburton To Have 4+ Assists; Damian Lillard To Have 4+ Assists; Pascal Siakam To Score 10+ Points; Giannis Antetokounmpo To Have 6+ Rebounds; Giannis Antetokounmpo To Score 20+ Points,1.7,1.78 and below,1.7 and below,2.25,P,yes,0,0
+964,45729,NBA,Single,Ladbrokes,Vit Krejci Under 8.5 Points + Assists O/U (8.5),1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+965,45729,NBA,Single,Ladbrokes,Stephon Castle Under 30.5 Points Rebounds & Assists O/U (30.5),1.8,1.78–1.83,1.7–1.8,2.5,W,,4.5,2
+966,45729,NBA,Multiple,Dabble,Jrue Holiday To Have 10+ Points + Rebounds + Assists; Cason Wallace To Have 2+ Assists; Isaiah Hartenstein To Have 6+ Rebounds,1.91,1.90–2.80,1.9–2.0,2,L,,0,-2
+967,45729,NBA,Single,Bet365,Amir Coffey Over 8.5 Points O/U (8.5),1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+968,45729,NBA,Multiple,Sportsbet,Bogdan Bog 10+ pts; Bam Ade U 24.5 pts; Kel W 4+ rb; Ivica Zub 6+ ; Davion M 2+ asst,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+969,45729,Rugby,Double,Sportsbet,Newcastle Knights v Dolphins Head to Head; Greg Marzhew/Bradman Best/James Schiller To Score A Try,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+970,45729,NBA,Single,Ladbrokes,Chet Holmgren Under 27.5 Points Rebounds & Assists O/U (27.5),1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+971,45729,NBA,Multiple,Ladbrokes,Julius Ran 15+ pts; 4+ rb; Nikola Jokic 6+ asst; Mikje Con 2+ asst,1.72,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+972,45729,AFL,Multiple,Sportsbet,Tim Taranto To Get 20 or More Disposals; Jack Ross To Get 15 or More Disposals; Nick Vlastuin To Get 15 or More Disposals; Jacob Hopper To Get 20 or More Disposals; Carlton Head to Head,2.06,1.90–2.80,2.0–2.1,2,P,yes,0,0
+973,45729,NBA,Single,Dabble,Orlando Robinson Under 19.5 Points + Rebounds + Assists O/U (19.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+974,45729,Horse,Single,Sportsbet,Wagga R5 Miss Mikki Isle 1,2.15,1.90–2.80,2.1–2.2,1.75,P,yes,0,0
+975,45729,AFL,Multiple,Ladbrokes,George Hewett To Have 20+ Disposals; Harry McKay To Kick 2+ Goals; Adam Saad To Have 15+ Disposals; Patrick Cripps To Have 20+ Disposals; Jacob Hopper To Have 15+ Disposals,1.78,1.78 and below,1.7–1.8,2.25,P,yes,0,0
+976,45730,NBA,Multiple,Sportsbet,Jalen D 12+ rb; Cade cunningham 15+ pts; Piston ML,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+977,45730,NBA,Single,Ladbrokes,Patrick Williams Over 2.5 Rebounds O/U (2.5),1.72,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+978,45730,Horse,Single,PointsBet,Kembla Grange R4 Lyles 3,1.7,1.78 and below,1.7 and below,2.25,W,,3.825,1.575
+979,45730,Horse,Single,Sportsbet,Cranbourne R5 Show Of Gold 4,2.8,1.90–2.80,2.5 and above,2.25,P,yes,0,0
+980,45730,NBA,Double,Bet365,LA Lakers vs MIL Bucks Match Result Will Be MIL To Win; Kyle Kuzma To Have 10+ Points,1.74,1.78 and below,1.7–1.8,2,L,,0,-2
+981,45730,Rugby,Double,Ladbrokes,Penrith Panthers vs Sydney Roosters To Win Both Halves; Brian To’o Anytime Try Scorer,1.77,1.78 and below,1.7–1.8,2,P,yes,0,0
+982,45730,AFL,Multiple,Sportsbet,Casey Mc lean AT scorer; Panthers ML; Both teamscoer less than 20,2,1.90–2.80,1.9–2.0,2,L,yes,0,-2
+983,45730,Rugby,Multiple,Ladbrokes,Tom Trb AT scorer; Manly Sea Eagles To Win Either Half; No Game To Go To Golden Point,1.81,1.78–1.83,1.8–1.9,2,P,yes,0,0
+984,45730,Rugby,Multiple,Sportsbet,Jason Saab Anytime Try Scorer; No Teams To Score 30; New Zealand Warriors Pick Your Own Line (+31.5),2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+985,45730,AFL,Multiple,Ladbrokes,Karl Amon To Have 15+ Disposals; Jordan Ridley To Have 15+ Disposals; Dylan Shiel To Have 15+ Disposals; Conor Nash To Have 15+ Disposals; Hawthorn Match Betting,1.8,1.78–1.83,1.7–1.8,2,P,yes,0,0
+986,45730,AFL,Multiple,Sportsbet,Jack Scrimshaw To Get 15 or More Disposals; Andrew McGrath To Get 15 or More Disposals; Dyson Heppell To Get 15 or More Disposals; Nick Martin To Get 20 or More Disposals,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+987,45731,NBA,Single,Bet365,Pacers -6.5,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+988,45731,NBA,Single,Dabble,Donte DiVincenzo Under 20.5 Points + Rebounds + Assists O/U (20.5),1.82,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+989,45731,NBA,Single,Ladbrokes,Jared Butler Over 7.5 Assists O/U (7.5),1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+990,45731,NBA,Multiple,Sportsbet,Jrue Holiday To Score 10+ Points; Al Horford To Record 4+ Rebounds; Bam Adebayo Over 12.5 Alt Points,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+991,45731,NBA,Single,Dabble,Max Strus Under 3.5 Assists O/U (3.5),1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+992,45731,NBA,Multiple,Ladbrokes,Devin Vassell To Score 15+ Points; LaMelo Ball To Score 15+ Points; Miles Bridges To Have 4+ Rebounds; Mark Williams To Score 10+ Points,1.82,1.78–1.83,1.8–1.9,2,W,yes,3.64,1.64
+993,45731,Horse,Single,Sportsbet,Caulfield R1 Mostly Cloudy 2,2.7,1.90–2.80,2.5 and above,1,P,yes,0,0
+994,45731,NBA,Single,Dabble,Collin Sexton Over 26.5 Points + Rebounds + Assists O/U (26.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+995,45731,NBA,Single,Ladbrokes,Orlando Robinson Over 8.5 Points O/U (8.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+996,45731,AFL,Multiple,Sportsbet,Sydney Swans vs Brisbane Lions Kai Lohmann Anytime Goal Scorer; Nick Blakey To Get 15 or More Disposals; Lachie McInerney To Get 15 or More Disposals; Oliver Florent To Get 15 or More Disposals,2.05,1.90–2.80,2.0–2.1,2,P,,0,0
+997,45731,AFL,Multiple,Sportsbet,Geelong cats ML; Josh Treacy AT scorer; Max H 20+ disposal,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+998,45731,AFL,Single,ANY,8 legs AFL 15/3/25,6.17,2.80+,2.5 and above,0.4,P,,0,0
+999,45731,Horse,Single,Sportsbet,Caulfield R2 Regal Vow 1,2.6,1.90–2.80,2.5 and above,1.2,P,yes,0,0
+1000,45731,Horse,Single,Sportsbet,Rosehill R2 Unlimited 4,11,2.80+,2.5 and above,0.25,L,yes,0,-0.25
+1001,45731,Rugby,Multiple,Sportsbet,St George Illawarra Dragons vs South Sydney Rabbitohs Christian Tuipulotu/Matthew Feagai A Player To Score A Try; No Teams To Score 30; St George Illawarra Dragons Pick Your Own Line (+2.5),2,1.90–2.80,1.9–2.0,2,P,,0,0
+1002,45731,Horse,Single,Sportsbet,Caulfield R3 Miss Aria 2,2.7,1.90–2.80,2.5 and above,1,L,yes,0,-1
+1003,45731,Rugby,Double,Sportsbet,North Queensland Cowboys vs Cronulla Sharks Under 63.5 Total Match Points; Cronulla Sharks Pick Your Own Line (-4.5),2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+1004,45731,Horse,Single,ANY,Caulfield R4 In Her Stride 10,6.5,2.80+,2.5 and above,0.4,L,,0,-0.4
+1005,45731,Horse,Single,Sportsbet,Rosehill R4 Dream Side 9,15,2.80+,2.5 and above,0.2,L,,0,-0.2
+1006,45731,Horse,Single,Sportsbet,Rosehill R4 Strada Varenna 5,3.2,2.80+,2.5 and above,1,L,yes,0,-1
+1007,45731,Horse,Single,Sportsbet,Rosehill R3 Skyhook 4,3.2,2.80+,2.5 and above,0.75,W,yes,2.4,1.65
+1008,45731,Horse,Single,Sportsbet,Caulfield R4 Documentary 11,3.3,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1009,45731,AFL,Multiple,Sportsbet,Western Bulldogs vs North Melbourne Tom Liberatore To Get 20 or More Disposals; Harry Sheezel To Get 25 or More Disposals; Jasmine Garner Anytime Goal Scorer,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1010,45731,AFL,Multiple,Sportsbet,Collingwood vs Port Adelaide Harry Perryman To Get 15 or More Disposals; Scott Pendlebury To Get 15 or More Disposals; Jack Crisp To Get 15 or More Disposals; Dan McStay To Get 15 or More Disposals; Mitch Georgiades Anytime Goal Scorer,2.05,1.90–2.80,2.0–2.1,2,P,,0,0
+1011,45731,Horse,Single,Sportsbet,Rosehill R5 Lindermann 1,1.8,1.78–1.83,1.7–1.8,2.75,P,yes,0,0
+1012,45731,Horse,Single,Sportsbet,Caulfield R5 Bit Of Shoosh 6,3.5,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1013,45731,Horse,Single,Sportsbet,Rosehill R7 Pisanelle 7,3,2.80+,2.5 and above,1,P,yes,0,0
+1014,45731,Horse,Single,Sportsbet,Rosehill R6 Lazzura 9,3.6,2.80+,2.5 and above,0.75,W,yes,2.7,1.95
+1015,45731,Horse,Single,Sportsbet,Caulfield R6 Zardozi 6,2.15,1.90–2.80,2.1–2.2,1.75,P,yes,0,0
+1016,45731,Rugby,Multiple,Sportsbet,St George Illawarra Dragons vs South Sydney Rabbitohs St George Illawarra Dragons Pick Your Own Line (-2.5); No Both Teams To Score 30; Tie (Includes 0-0 Tries) Most Tries 10 - Erne Guler vs Davvy Moale,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+1017,45731,Horse,Single,PointsBet,Ascot R2 Hymns 4,1.8,1.78–1.83,1.7–1.8,2,P,yes,0,0
+1018,45731,Horse,Single,Sportsbet,Rosehill R9 Ducasse 11,3.6,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1019,45731,AFL,Multiple,Sportsbet,Brisbane ML; Selwyn C AT scorer; Total pts U 71.5,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1020,45731,Soccer,Double,Bet365,Bayern M ML; Manaco ML,1.84,1.83–1.90,1.8–1.9,2,L,,0,-2
+1021,45732,NBA,Single,Ladbrokes,Jalen Wells Over 9.5 Points O/U (9.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+1022,45732,NBA,Single,Dabble,Jonathan Kuminga Under 18.5 Points + Rebounds O/U (18.5),1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+1023,45732,NBA,Single,Ladbrokes,Giannis Antetokounmpo Under 31.5 Points O/U (31.5),1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1024,45732,AFL,Multiple,Sportsbet,West Coast Eagles vs Gold Coast Suns Ben Long Anytime Goal Scorer; Jake Waterman Anytime Goal Scorer; Tim Kelly To Get 20 or More Disposals; Harley Reid To Get 20 or More Disposals,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1025,45732,NBA,Single,Ladbrokes,Karl-Anthony Towns Over 11.5 Rebounds O/U (11.5),1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+1026,45732,Rugby,Double,Sportsbet,Parramatta Eels vs Wests Tigers No Teams To Score 30; Wests Tigers (-3.0),2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1027,45732,Rugby,Multiple,Sportsbet,Canterbury Bulldogs vs Gold Coast Titans Canterbury Bulldogs Head to Head; Tie (Includes 0-0 Tries) Most Tries 8 - Max King vs Moaeki Fotuaika; Under 57.5 Alternative Total Match Points,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1028,45732,AFL,Multiple,Sportsbet,Melbourne vs GWS GIANTS Toby Greene Anytime Goal Scorer; Lachie Whitfield To Get 25 or More Disposals; Josh Kelly To Get 20 or More Disposals; Ed Langdon To Get 15 or More Disposals; Harry Himmelberg To Get 15 or More Disposals,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+1029,45732,AFL,Multiple,Sportsbet,Adelaide Crows vs St Kilda Rory Laird To Get 20 or More Disposals; Mitch Hinge To Get 15 or More Disposals; Adelaide Crows Head to Head; Zak Jones To Get 15 or More Disposals,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1030,45732,AFL,Multiple,Sportsbet,Clayton Oliver Most Disposals;West Coast Eagles vs Gold Coast Suns Lachie Anderson Most Disposals GWS GIANTS; Jake Waterman Most Goals GWS GIANTS,532.27,2.80+,2.5 and above,0.1,L,yes,0,-0.1
+1031,45732,Soccer,Double,Bet365,Napoli ML; Fulham draw ML,1.81,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+1032,45733,NBA,Single,ANY,Giannis Antetokounmpo Under 29.5 Points O/U (29.5),1.95,1.90–2.80,1.9–2.0,2.75,W,,5.3625,2.6125
+1033,45733,NBA,Multiple,ANY,Oklahoma City Thunder at Milwaukee Bucks Isaiah Hartenstein To Record 10+ Rebounds; Brook Lopez To Score 15+ Points; Giannis Antetokounmpo To Record 14+ Rebounds,10.28,2.80+,2.5 and above,0.25,L,,0,-0.25
+1034,45733,NBA,Multiple,ANY,Oklahoma City Thunder at Milwaukee Bucks Chet Holmgren To Score 15+ Points; Shai Gilgeous-Alexander To Score 20+ Points; Giannis Antetokounmpo To Record 8+ Rebounds,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1035,45733,NBA,Single,Ladbrokes,James Harden Under 22.5 Points O/U (22.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1036,45734,NBA,Multiple,Sportsbet,Miami Heat at New York Knicks Mikal Bridges To Record 4+ Assists; Karl-Anthony Towns To Record 8+ Rebounds; Ke’el Ware To Record 4+ Rebounds,2.05,1.90–2.80,2.0–2.1,2,L,yes,0,-2
+1037,45734,NBA,Single,Dabble,Tobias Harris Over 14.5 Points O/U (14.5),1.78,1.78 and below,1.7–1.8,2,L,,0,-2
+1038,45734,NBA,Single,Ladbrokes,Miles McBride Under 13.5 Points O/U (13.5),1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+1039,45734,NBA,Single,Dabble,Jalen Pickett Over 3.5 Assists O/U (3.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1040,45734,NBA,Single,Dabble,Jared Butler Under 6.5 Assists O/U (6.5),1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+1041,45734,NBA,Single,Ladbrokes,Jordan Clarkson Under 26.5 Points + Rebounds + Assists O/U (26.5),1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+1042,45734,NBA,Single,ANY,Julius Randle Over 11.5 Rebounds + Assists O/U (11.5),1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+1043,45734,NBA,Single,Dabble,Hunter Tyson Over 10.5 Points + Rebounds + Assists O/U (10.5),1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+1044,45734,NBA,Single,Ladbrokes,A.J. Johnson Over 14.5 Points + Rebounds + Assists O/U (14.5),1.98,1.90–2.80,1.9–2.0,2.5,W,,4.95,2.45
+1045,45734,Horse,Single,ANY,Hawkesbury R6 De Bello 8 (Win),3.6,2.80+,2.5 and above,0.75,W,yes,2.7,1.95
+1046,45734,NBA,Single,Ladbrokes,Aaron Gordon Under 17.5 Points O/U (17.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+1047,45734,NBA,Single,Dabble,Dalton Knecht Over 9.5 Points O/U (9.5),1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+1048,45735,Horse,Single,ANY,Ascot R4 Redback Flyer 3 (Win),4.4,2.80+,2.5 and above,0.75,P,yes,0,0
+1049,45735,Horse,Single,Bet365,Ascot R4 Redback Flyer 3 (Place),1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1050,45735,NBA,Single,Ladbrokes,Jimmy Butler Under 34.5 Points + Rebounds + Assists O/U (34.5),1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1051,45735,NBA,Single,Dabble,AJ Green Over 6.5 Points + Rebounds O/U (6.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1052,45735,NBA,Single,Ladbrokes,Bogdan Bogdanovic Under 11.5 Points + Rebounds O/U (11.5),1.83,1.78–1.83,1.8–1.9,2.25,L,,0,-2.25
+1053,45735,NBA,Single,PointsBet,Norman Powell U 21.5 pra,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+1054,45736,NBA,Single,Others,Jaquez Jr Over 17.5 Points + Rebounds + Assists O/U (17.5),1.8,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+1055,45736,NBA,Single,Ladbrokes,A.J. Johnson Over 10.5 Points O/U (10.5),1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1056,45736,NBA,Single,Dabble,Duop Reath Over 6.5 Points O/U (6.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1057,45736,NBA,Single,Ladbrokes,Jaylin Williams Over 25.5 Points + Rebounds + Assists O/U (25.5),1.96,1.90–2.80,1.9–2.0,2,W,,3.92,1.92
+1058,45736,NBA,Single,Ladbrokes,Jared Butler Under 24.5 Points + Rebounds + Assists O/U (24.5),1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+1059,45736,NBA,Multiple,Ladbrokes,Julius Randle To Have 4+ Assists; Yves Missi To Have 4+ Rebounds; Julius Randle To Score 10+ Points,1.72,1.78 and below,1.7–1.8,2.5,P,yes,0,0
+1060,45736,NBA,Multiple,Sportsbet,Philadelphia 76ers at Oklahoma City Thunder Kenrich Williams Over 5.5 Alt Points; Guerschon Yabusele Over 4.5 Alt Rebounds; Quentin Grimes To Record 2+ Assists,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1061,45736,NBA,Single,Ladbrokes,Anfernee Simons Under 31.5 Points + Rebounds + Assists O/U (31.5),1.78,1.78 and below,1.7–1.8,2,W,,3.56,1.56
+1062,45736,NBA,Single,Dabble,Evan Mobley Over 17.5 Points O/U (17.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1063,45736,NBA,Single,PointsBet,Josh Giddey Under 17.5 Points O/U (17.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1064,45736,NBA,Single,Dabble,Aaron Gordon Under 31.5 Points + Rebounds + Assists O/U (31.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1065,45736,NBA,Single,Dabble,Christian Braun Over 23.5 Points + Rebounds + Assists O/U (23.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1066,45736,AFL,Multiple,Ladbrokes,Will Day To Have 15+ Disposals; Karl Amon To Have 15+ Disposals; Jesse Motlop Anytime Goal Scorer,1.84,1.83–1.90,1.8–1.9,2.25,W,yes,4.14,1.89
+1067,45736,Rugby,Multiple,Ladbrokes,2nd Half Highest Scoring Half; No Game To Go To Golden Point; Penrith Panthers To Score 1+ Tries,1.87,1.83–1.90,1.8–1.9,2,W,yes,3.74,1.74
+1068,45736,AFL,Double,PointsBet,Jack Ginnivan Anytime Goal Scorer; Patrick Cripps To Record 4+ Tackles,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+1069,45736,AFL,Multiple,Sportsbet,Adam Saad To Get 15 or More Disposals; Sam Docherty To Get 20 or More Disposals; Sam Walsh To Get 20 or More Disposals; Carlton Pick Your Own Line (-29.5),2,1.90–2.80,1.9–2.0,2.5,L,yes,0,-2.5
+1070,45736,Rugby,Multiple,Sportsbet,Melbourne Storm vs Penrith Panthers Melbourne Storm Pick Your Own Line (-5.5); Under 60.5 Total Match Points; Xavier Coates/Jahrome Hughes/Grant Anderson To Score A Try,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1071,45737,NBA,Single,Ladbrokes,Nikola Vucevic Under 21.5 Points + Assists O/U (21.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1072,45737,NBA,Single,Dabble,Myles Turner To Have 2+ Blocks,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1073,45737,NBA,Double,Bet365,Tre Jones Double; Shake Milton To Have 7+ Assists,23.75,2.80+,2.5 and above,0.2,L,,0,-0.2
+1074,45737,NBA,Single,Dabble,Precious Achiuwa Over 12.5 Points + Rebounds + Assists O/U (12.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1075,45737,NBA,Double,Bet365,Noah Clowney To Have 3+ Rebounds; Nicolas Claxton To Have 5+ Rebounds,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+1076,45737,NBA,Single,Dabble,Nick Smith Jr. Under 15.5 Points + Rebounds + Assists O/U (15.5),1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+1077,45737,NBA,Single,ANY,Andrew Nembhard Over 17.5 Points + Assists O/U (17.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1078,45737,NBA,Multiple,Ladbrokes,DeMar DeRozan To Score 15+ Points; Kevin Huerter To Score 10+ Points; Tre Jones To Have 4+ Assists; Nikola Vucevic To Have 6+ Rebounds,1.81,1.78–1.83,1.8–1.9,2,W,yes,3.62,1.62
+1079,45737,NBA,Single,Dabble,Ochai Agbaji Over 10.5 Points + Rebounds O/U (10.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1080,45737,NBA,Single,Ladbrokes,Jamison Battle Under 14.5 Points + Rebounds O/U (14.5),1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1081,45737,AFL,Multiple,Sportsbet,Ed Rich 20+ dis; Bailey D 20+ dis; Matthew K 15+ dis; Tim Mem AT scorer; Jack Crips 15+ dis,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+1082,45737,Rugby,Multiple,Ladbrokes,Daniel Tupou Anytime Try Scorer; No Game To Go To Golden Point; Daniel Tupou/Dominic Young/Roger Tuivasa-Sheck To Have 1+ Tries Combined,1.8,1.78–1.83,1.7–1.8,2,L,yes,0,-2
+1083,45737,Rugby,Multiple,Sportsbet,Roger Tuivasa-Sheck Anytime Try Scorer; No Teams To Score 30; Under 36.5 Alternative 1st Half Total Points,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1084,45737,AFL,Multiple,Ladbrokes,Nick Daicos To Have 20+ Disposals; Tom Liberatore To Have 20+ Disposals; Collingwood Match Betting; Aaron Naughton Anytime Goal Scorer,1.81,1.78–1.83,1.8–1.9,2,P,yes,0,0
+1085,45737,NBA,Multiple,Bet365,Jonas Valanciunas To Score 10+ Points; Jonas Valanciunas To Record 10+ Rebounds; Coby White To Score 15+ Points,2,1.90–2.80,1.9–2.0,2,L,yes,0,-2
+1086,45737,Rugby,Multiple,Bet365,Nth Queensland Cowboys Over 10.5 Alternative Total Match Points; Brisbane Broncos Pick Your Own Line (-8.5); Under 81.5 Alternative Total Match Points,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1087,45738,NBA,Single,Ladbrokes,Lonnie Walker Over 11.5 Points O/U (11.5),1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+1088,45738,NBA,Single,Ladbrokes,Miles Bridges Under 23.5 Points O/U (23.5),1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+1089,45738,NBA,Multiple,Ladbrokes,Jalen Duren To Score 10+ Points; Cade Cunningham To Score 15+ Points; Dennis Schröder To Have 2+ Assists; Cade Cunningham To Have 6+ Assists; Naji Marshall To Score 10+ Points,1.8,1.78–1.83,1.7–1.8,2.25,W,yes,4.05,1.8
+1090,45738,Horse,Single,Sportsbet,Moonee Valley R2 6. Pure Passion ,4.8,2.80+,2.5 and above,0.75,P,yes,0,0
+1091,45738,NBA,Single,ANY,AJ Johnson Under 16.5 Points + Assists + Rebounds O/U (16.5),1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+1092,45738,NBA,Single,Ladbrokes,Alex Caruso Under 13.5 Points + Rebounds + Assists O/U (13.5),1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1093,45738,Horse,Single,ANY,Moonee Valley R1 7. Bur Dubai,2.8,1.90–2.80,2.5 and above,1,W,,2.8,1.8
+1094,45738,Horse,Single,ANY,Rosehill R1 9. It’s A Wonder ,4.8,2.80+,2.5 and above,0.5,L,,0,-0.5
+1095,45738,AFL,Multiple,Sportsbet,Esseden v ADE: Andrew McGrath To Get 15 or More Disposals; Mason Redman To Get 15 or More Disposals; Nic Martin To Get 20 or More Disposals; Lachlan Sholl To Get 15 or More Disposals,1.74,1.78 and below,1.7–1.8,2.5,W,,4.35,1.85
+1096,45738,AFL,Multiple,ANY,Port Adelaide/Richmond Joe R; Rhyan M score a goal; StKilda/Geelong Oliver H;Jack H score a goal; Essendon/Adelaide Nate C; Darcy F score a goal,3.91,2.80+,2.5 and above,0.75,L,,0,-0.75
+1097,45738,Horse,Single,Sportsbet,Moonee Valley R3 5. Pivot City (Win or Place),8,2.80+,2.5 and above,0.3,L,,0,-0.3
+1098,45738,Horse,Single,Sportsbet,Moonee Valley R4 13. Sun God (Win or Place),5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+1099,45738,AFL,Single,ANY,Riley Thilthorpe To Kick 2+ Goals,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1100,45738,NBA,Single,ANY,D. Avdija Over 34.5 Points + Assists + Rebounds O/U (34.5),2,1.90–2.80,1.9–2.0,2,W,,4,2
+1101,45738,Rugby,Single,Bet365,Hamiso Tabuai-Fidow To Score A Try,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1102,45738,Horse,Single,Sportsbet,Rosehill R2 14. Brigidine Gal 3 (Win or Place),7.5,2.80+,2.5 and above,0.3,P,yes,0,0
+1103,45738,Horse,Single,Sportsbet,Rosehill R3 1. Athabascan 6 (Win or Place),6,2.80+,2.5 and above,0.5,P,yes,0,0
+1104,45738,Rugby,Multiple,Sportsbet,Cronulla Sharks vs South Sydney Rabbitohs Cronulla Sharks Head to Head; Sam Stonestreet Anytime Tryscorer; No Teams To Score 30,1.75,1.78 and below,1.7–1.8,2,P,yes,0,0
+1105,45738,AFL,Multiple,Ladbrokes,Essedon vs ADE: Rory Laird To Have 20+ Disposals; Zach Merrett To Have 20+ Disposals; Jye Caldwell To Have 20+ Disposals; Dylan Shiel To Have 15+ Disposals; Sam Durham To Have 15+ Disposals,1.81,1.78–1.83,1.8–1.9,2.25,W,yes,4.0725,1.8225
+1106,45738,Horse,Single,Sportsbet,Rosehill R4 3. Autumn Glow 3 (Win or Place),1.9,1.83–1.90,1.8–1.9,2,W,yes,3.8,1.8
+1107,45738,Horse,Single,Sportsbet,Moonee Valley R3 13 top Cali,2.5,1.90–2.80,2.4–2.5,1.25,L,yes,0,-1.25
+1108,45738,Rugby,Multiple,Bet365,Sharks v Rabbit: Isaiah Tass To Score a Try; Herbie Farnworth To Score a Try; Phillip Sami To Score a Try,18.52,2.80+,2.5 and above,0.2,L,,0,-0.2
+1109,45738,Horse,Single,Sportsbet,Moonee Valley R5 6. Basilinna 2 (Win or Place),11,2.80+,2.5 and above,0.25,W,yes,2.75,2.5
+1110,45738,Horse,Single,Sportsbet,Rosehill R4 6. Ikasara 7 (Win or Place),12,2.80+,2.5 and above,0.3,L,,0,-0.3
+1111,45738,Rugby,Multiple,Bet365,Kayal (shark/rabbit); Jack B (dolphins/tigers); Keono (Titans/Knights) score a try,10.74,2.80+,2.5 and above,0.25,L,,0,-0.25
+1112,45738,Horse,Single,Sportsbet,Moonee valley r6 3 opening add,5.5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+1113,45738,Horse,Single,Sportsbet,Rosehill R6 3 Swift,5.5,2.80+,2.5 and above,0.5,P,yes,0,0
+1114,45738,Horse,Single,Sportsbet,Moonee Valley R7 1 Too Darn ,2.35,1.90–2.80,2.3–2.4,1.5,P,yes,0,0
+1115,45738,AFL,Multiple,Ladbrokes,PA v RichJacob Hopper 20+dis; Jayden S; Nick Vlas 15+dis; Willie Ro AT scorer (P Ade v Rich),1.79,1.78–1.83,1.7–1.8,2.25,L,,0,-2.25
+1116,45738,AFL,Double,PointsBet,PAvRich Mitch Geo 2+goals; Tim Taranto 20+ dis,1.74,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1117,45738,AFL,Multiple,PointsBet,PAvRich Thomas D 15+ dis; PA ML; Ollie W 20+ dis,1.78,1.78 and below,1.7–1.8,2,W,,3.56,1.56
+1118,45738,Horse,Single,Sportsbet,Rosehill R8 Tempted 13,5,2.80+,2.5 and above,0.75,P,yes,0,0
+1119,45738,Rugby,Double,Ladbrokes,Dolphin v tiger: Dolphins Ml; No golden pointl Hamiso T/Jamayn I/Jeral S 1+ tries,1.81,1.78–1.83,1.8–1.9,2,L,yes,0,-2
+1120,45738,AFL,Multiple,Sportsbet,Geelong cats ML; Nasiah 20+ dis; Oliver H AT scoirer,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+1121,45738,Rugby,Single,Bet365,Gold coast titans to score three unanswered tries NO,1.7,1.78 and below,1.7 and below,2.5,L,,0,-2.5
+1122,45738,Rugby,Single,Dabble,StKilda v Geelong: Lance Coll score 2+ goals,7.5,2.80+,2.5 and above,0.3,W,,2.25,1.95
+1123,45738,Rugby,Single,Dabble,StKilda v Geelong: Lance Coll score 3+ goals,34,2.80+,2.5 and above,0.15,L,,0,-0.15
+1124,45739,Horse,Single,Bet365,Treasurethe Moment (Win and Each Way),1.8,1.78–1.83,1.7–1.8,2.75,W,,4.95,2.2
+1125,45739,AFL,Double,Bet365,Colby McKercher To Record 25+ Disposals - No Disposal Specials; Jack Viney To Record 15+ Disposals,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+1126,45739,AFL,Single,Others,Daniel Turner To Score 2+ Goals - North Melbourne Kangaroos vs Melbourne Demons,2.69,1.90–2.80,2.5 and above,1,L,,0,-1
+1127,45739,AFL,Single,Others,Daniel Turner To Score 3+ Goals - North Melbourne Kangaroos vs Melbourne Demons,6.75,2.80+,2.5 and above,0.3,L,,0,-0.3
+1128,45739,NBA,Single,ANY,Terance Mann Under 3.5 Rebounds O/U (3.5),1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+1129,45739,AFL,Multiple,Ladbrokes,Jarrod Berry To Have 15+ Disposals; Jeremy McGovern To Have 15+ Disposals; Lachie Neale To Have 20+ Disposals; Josh Dunkley To Have 20+ Disposals; Tim Kelly To Have 15+ Disposals,1.78,1.78 and below,1.7–1.8,2.25,W,yes,4.005,1.755
+1130,45739,AFL,Single,Dabble,Liam Baker Under 20.5 Disposals O/U (20.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1131,45739,AFL,Single,PointsBet,Riley Bice To Get 25+ Disposals,7,2.80+,2.5 and above,0.3,L,,0,-0.3
+1132,45739,Rugby,Double,Bet365,Stephen Crichton To Score a Try; Jason Saab To Score a Try,4.46,2.80+,2.5 and above,0.6,L,,0,-0.6
+1133,45739,Rugby,Double,Sportsbet,Marcello Montoya Anytime Tryscorer; No Both Teams to Score 30,1.74,1.78 and below,1.7–1.8,2,L,,0,-2
+1134,45739,NBA,Single,Ladbrokes,Jason Hayes Over 7.5 Points O/U (7.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+1135,45739,AFL,Double,Sportsbet,Lachie Neale Most Disposals Group 1; Harry Sheezel Most Disposals Group 1,6.44,2.80+,2.5 and above,0.3,W,,1.932,1.632
+1136,45739,NBA,Multiple,ANY,Giannis Antetokounmpo To Record 10+ Rebounds; DeMar DeRozan To Score 15+ Points; Keegan Murray To Record 4+ Rebounds,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+1137,45739,AFL,Double,PointsBet,James Rowbottom to record 6+ tackles; Riley Bice 15+ dis,1.73,1.78 and below,1.7–1.8,2.2,L,,0,-2.2
+1138,45739,AFL,Single,Sportsbet,North Melbourne (+14.5) - North Melbourne vs Melbourne,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1139,45739,AFL,Single,Bet365,Harry Sheezel To Score 2 or More Goals - North Melbourne vs Melbourne,5.5,2.80+,2.5 and above,0.35,L,,0,-0.35
+1140,45739,AFL,Single,Bet365,Harry Sheezel Anytime Goalscorer - North Melbourne vs Melbourne,1.95,1.90–2.80,1.9–2.0,2,L,,0,-2
+1141,45739,Rugby,Single,Bet365,Manly Sea Eagles to Score Three Unanswered Tries - No Home Team to Score Three Unanswered Tries,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1142,45739,Horse,Single,ANY,Pinjarra R1 4. Point Of Luck 9 (Win or Place),3.1,2.80+,2.5 and above,1,P,yes,0,0
+1143,45740,NBA,Single,Dabble,Shai Gil Over 33.5 pts,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1144,45740,AFL,Double,Others,Carlton v Bulldog: Lucas Camp 15+dis; Ess v PAde: Nic Martin 20+ dis,1.79,1.78–1.83,1.7–1.8,2.3,P,,0,0
+1145,45740,AFL,Single,Others,Lucas Camp 20+ dis carlton,4.2,2.80+,2.5 and above,0.5,P,,0,0
+1146,45740,AFL,Single,Others,Lucas Camp 25+ dis carlton,18,2.80+,2.5 and above,0.2,P,,0,0
+1147,45740,AFL,Multiple,PointsBet,Daniel R 20+ dis; Marcus W 15+ dis; James Sic 15+ dis,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+1148,45740,AFL,Single,Ladbrokes,Lance Coll AT scorer,1.73,1.78 and below,1.7–1.8,2,W,,3.46,1.46
+1149,45740,AFL,Single,Ladbrokes,Lance Coll 2+ kick goal,4.6,2.80+,2.5 and above,0.5,W,,2.3,1.8
+1150,45740,AFL,Single,ANY,Stephon Con 3+ goals,29,2.80+,2.5 and above,0.2,L,,0,-0.2
+1151,45740,AFL,Single,ANY,Stephon Con 2+ goals,8,2.80+,2.5 and above,0.3,L,,0,-0.3
+1152,45741,NBA,Single,ANY,Trendon Watford Over 3.5 Assists O/U (3.5),1.74,1.78 and below,1.7–1.8,2,W,,3.48,1.48
+1153,45741,NBA,Single,Others,Anthony Davis To Have 4+ Assists - Brooklyn Nets vs Dallas Mavericks,2.8,1.90–2.80,2.5 and above,1,L,,0,-1
+1154,45741,NBA,Single,Bet365,Austin Reaves Under 28.5 Points + Assists + Rebounds O/U (28.5),1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1155,45741,NBA,Single,Ladbrokes,Ricky Council IV Over 16.5 Points O/U (16.5),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1156,45741,Tennis,Single,ANY,Alex De Minaur To Win vs Joao Fonseca,1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1157,45741,NBA,Single,Sportsbet,Tyrese Haliburton Over 26.5 Points + Assists O/U (26.5),1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1158,45741,NBA,Double,PointsBet,AJ Johnson Under 3.5 Rebounds; Immanuel Quickley To Score 10+ Points,1.73,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1159,45741,NBA,Double,Dabble,Max Christie To Score 15+ Points - Dallas Mavericks vs Brooklyn Nets; Kyle Kuzma To Have 4+ Assists - Milwaukee Bucks vs Phoenix Suns,20.4,2.80+,2.5 and above,0.2,L,,0,-0.2
+1160,45741,NBA,Single,Ladbrokes,Nick Richards Under 18.5 Points + Rebounds O/U (18.5),1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1161,45741,NBA,Single,Dabble,Guerschon Yabusele Under 23.5 Points + Rebounds + Assists O/U (23.5),1.95,1.90–2.80,1.9–2.0,2,W,,3.9,1.9
+1162,45741,NBA,Multiple,Bet365,Guerschon Yabusele Under 13.5 Points; Guerschon Yabusele Under 2.5 Assists; Guerschon Yabusele Under 7.5 Rebounds; Guerschon Yabusele Under 1.5 Turnovers - PHI 76ers vs NO Pelicans,7,2.80+,2.5 and above,0.3,L,,0,-0.3
+1163,45741,NBA,Single,Others,Jose Alvarado Over 17.5 Points + Rebounds + Assists O/U (17.5) - Philadelphia 76ers vs New Orleans Pelicans,1.96,1.90–2.80,1.9–2.0,2.5,W,,4.9,2.4
+1164,45741,NBA,Single,Sportsbet,Kristaps Porzingis Under 19.5 Points O/U (19.5) - Boston Celtics vs Sacramento Kings,1.74,1.78 and below,1.7–1.8,2,W,,3.48,1.48
+1165,45742,NBA,Single,PointsBet,Zach Edey Over 6.5 Rebounds O/U (6.5) - Memphis Grizzlies vs Utah Jazz,1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+1166,45742,NBA,Single,Sportsbet,Orlando Magic (-3.5) - Orlando Magic at Charlotte Hornets,1.81,1.78–1.83,1.8–1.9,2,W,,3.62,1.62
+1167,45742,NBA,Double,PointsBet,Walker Kessler To Get 1+ Three Pointers; Walker Kessler To Get 8+ Rebounds - Memphis Grizzlies vs Utah Jazz,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+1168,45742,NBA,Single,ANY,Gary Payton II Under 9.5 Points O/U (9.5),1.98,1.90–2.80,1.9–2.0,2,W,,3.96,1.96
+1169,45742,NBA,Multiple,Sportsbet,Chet Holmgren To Record 4+ Rebounds; Domantas Sabonis Under 21.5 Points; Shai Gilgeous-Alexander To Score 20+ Points; Domantas Sabonis Over 8.5 Rebounds - Oklahoma City Thunder at Sacramento Kings,1.77,1.78 and below,1.7–1.8,2.25,W,,3.9825,1.7325
+1170,45742,NBA,Multiple,ANY,Trae Young Under 11.5 Assists; Onyeka Okongwu To Record 6+ Rebounds; Alperen Sengun To Record 6+ Rebounds; Tari Eason Over 6.5 Points - Atlanta Hawks at Houston Rockets,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1171,45742,NBA,Single,Sportsbet,Jordan Poole 3+ Made Threes - Washington Wizards vs Philadelphia 76ers,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+1172,45742,Horse,Single,ANY,Randwick-Kensington R3 6. Monte Veebee 1 (Win or Place),2.35,1.90–2.80,2.3–2.4,1.25,P,yes,0,0
+1173,45742,NBA,Double,Sportsbet,Jordan Poole 4+ Made Threes; Alexandre Sarr 2+ Made Threes - Washington Wizards vs Philadelphia 76ers,8.9,2.80+,2.5 and above,0.25,W,,2.225,1.975
+1174,45742,NBA,Single,Sportsbet,Alexandre Sarr 2+ Made Threes - Washington Wizards vs Philadelphia 76ers,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1175,45742,Horse,Single,PointsBet,Canberra R2 7. Noctua 1 (Win),1.75,1.78 and below,1.7–1.8,2.25,W,yes,3.9375,1.6875
+1176,45742,NBA,Multiple,Bet365,Donovan Clingan Under 12.5 Points; Evan Mobley 15+ Points; Darius Garland 15+ Points; Evan Mobley 5+ Rebounds; Shadeon Sharpe 10+ Points - CLE Cavaliers vs POR Trail Blazers,1.76,1.78 and below,1.7–1.8,2,L,,0,-2
+1177,45743,NBA,Single,Dabble,Josh Hart Over 21.5 Points + Rebounds O/U (21.5) - Los Angeles Clippers vs New York Knicks,1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1178,45743,NBA,Single,Others,"James, LeBron Over 39.5 Points, Rebounds & Assists O/U (39.5) - Indiana Pacers vs Los Angeles Lakers",1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+1179,45743,AFL,Single,ANY,Connor Rozee Under 30.5 Disposals O/U (30.5) - Essendon vs Port Adelaide,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1180,45743,NBA,Single,Ladbrokes,"Kevin Porter Jr. Over 22.5 Points, Rebounds & Assists O/U (22.5) ",1.78,1.78 and below,1.7–1.8,2.5,W,,4.45,1.95
+1181,45743,NBA,Single,Dabble,Ivica Zubac Under 16.5 Points O/U (16.5) - Los Angeles Clippers vs New York Knicks,1.82,1.78–1.83,1.8–1.9,2,L,,0,-2
+1182,45743,Rugby,Multiple,Ladbrokes,Penrith Panthers Match Betting; Brian To'o (Penrith Panthers) Anytime Try Scorer; No The Game Go To Golden Point - South Sydney Rabbitohs vs Penrith Panthers,1.82,1.78–1.83,1.8–1.9,2,L,yes,0,-2
+1183,45743,Rugby,Multiple,Sportsbet,Paul Alamoti Anytime Tryscorer; No Teams to Score 30; Under 65.5 Total Match Points - South Sydney Rabbitohs vs Penrith Panthers,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1184,45743,AFL,Multiple,Ladbrokes,Jordan Ridley (Essendon) To Have 15+ Disposals; Andrew McGrath (Essendon) To Have 15+ Disposals; Mason Redman (Essendon) To Have 15+ Disposals; Sam Durham (Essendon) To Have 15+ Disposals; Kane Farrell (Port Adelaide) To Have 15+ Disposals - Essendon vs Port Adelaide,1.7,1.78 and below,1.7 and below,2,P,yes,0,0
+1185,45743,AFL,Multiple,Sportsbet,Dylan Shiel To Get 15 or More Disposals; Ben Hobbs To Get 15 or More Disposals; Nic Martin To Get 20 or More Disposals; Nick Bryan To Get 10 or More Disposals - Essendon vs Port Adelaide,2,1.90–2.80,1.9–2.0,2,W,yes,4,2
+1186,45744,Horse,Single,ANY,Warrnambool R2 6. Treasured Crown 2 (Win or Place),2.05,1.90–2.80,2.0–2.1,1.75,W,,3.5875,1.8375
+1187,45744,NBA,Single,Dabble,Aaron Nesmith Under 17.5 Points + Rebounds O/U (17.5),1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+1188,45744,AFL,Single,Ladbrokes,Bailey Dale Under 28.5 Disposals O/U (28.5),1.78,1.78 and below,1.7–1.8,2.75,W,,4.895,2.145
+1189,45744,Horse,Single,ANY,Warrnambool R1 4. Loft 6 (Win or Place),2.2,1.90–2.80,2.1–2.2,1.75,W,,3.85,2.1
+1190,45744,NBA,Multiple,Ladbrokes,Domantas Sabonis (Sacramento Kings) To Have 8+ Rebounds; Toumani Camara (Portland Trail Blazers) To Score 10+ Points; Deni Avdija (Portland Trail Blazers) To Score 10+ Points; Malik Monk (Sacramento Kings) To Score 10+ Points - Sacramento Kings vs Portland Trail Blazers,1.76,1.78 and below,1.7–1.8,2,L,,0,-2
+1191,45744,AFL,Single,Sportsbet,Joel Freijah Over 21.5 Disposals O/U (21.5) - Carlton vs Western Bulldogs,1.81,1.78–1.83,1.8–1.9,2,L,,0,-2
+1192,45744,NBA,Single,Ladbrokes,"Davion Mitchell Under 18.5 Points, Rebounds & Assists O/U (18.5)",1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1193,45744,NBA,Single,Ladbrokes,"Alexandre Sarr Under 29.5 Points, Rebounds & Assists O/U (29.5)",1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1194,45744,NBA,Double,PointsBet,Walker Kessler Over 0.5 Player 3-Pointers Made; Walker Kessler To Get 6+ Rebounds - Houston Rockets vs Utah Jazz,2.78,1.90–2.80,2.5 and above,1,L,,0,-1
+1195,45744,NBA,Single,Dabble,Darius Garland Under 25.5 Points + Rebounds O/U (25.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1196,45744,Rugby,Double,Bet365,Tony Francis To Score a Try - Sydney Roosters vs Gold Coast Titans; Kotoni Staggs To Score a Try - Dolphins vs Brisbane Broncos,6.09,2.80+,2.5 and above,0.3,L,,0,-0.3
+1197,45744,Rugby,Double,Bet365,Brian Kelly To Score a Try - Sydney Roosters vs Gold Coast Titans; Gehamat Shibasaki To Score a Try - Dolphins vs Brisbane Broncos,10.54,2.80+,2.5 and above,0.2,L,,0,-0.2
+1198,45744,Rugby,Multiple,Ladbrokes,Reece Walsh (Brisbane Broncos) Anytime Try Scorer; Jesse Arthars/Reece Walsh/Selwyn Cobbo To Have 1+ Tries (Trio); No Will The Game Go To Golden Point - Dolphins vs Brisbane Broncos,1.72,1.78 and below,1.7–1.8,2,L,yes,0,-2
+1199,45744,Rugby,Multiple,Sportsbet,No Teams to Score 30; Sydney Roosters Head to Head; Dominic Young/Daniel Tupou Player A or Player B to Score a Try - Sydney Roosters vs Gold Coast Titans,1.74,1.78 and below,1.7–1.8,2,L,,0,-2
+1200,45745,AFL,Single,ANY,Christian Petracca Under 26.5 Disposals O/U (26.5),1.82,1.78–1.83,1.8–1.9,2,W,,3.64,1.64
+1201,45745,NBA,Double,Bet365,Delon Wright 3+ Assists; Karl-Anthony Towns 10+ Rebounds - New York Knicks vs Milwaukee Bucks,1.74,1.78 and below,1.7–1.8,2,W,,3.48,1.48
+1202,45745,AFL,Single,Ladbrokes,John Noble Over 19.5 Disposals O/U (19.5),1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1203,45745,NBA,Single,Dabble,Jimmy Butler Under 30.5 Points + Rebounds + Assists O/U (30.5),1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+1204,45745,AFL,Multiple,Ladbrokes,Sam Flanders (Gold Coast Suns) To Have 25+ Disposals; Touk Miller (Gold Coast Suns) To Have 20+ Disposals; Noah Anderson (Gold Coast Suns) To Have 20+ Disposals - Melbourne vs Gold Coast Suns,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+1205,45745,NBA,Single,Ladbrokes,"Tyler Kolek Under 15.5 Points, Rebounds & Assists O/U (15.5)",1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1206,45745,NBA,Single,PointsBet,Jakobe Walter Over 14.5 Points + Rebounds O/U (14.5),1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+1207,45745,NBA,Single,ANY,Anthony Edwards Over 9.5 Rebounds + Assists O/U (9.5),1.92,1.90–2.80,1.9–2.0,2,L,,0,-2
+1208,45745,AFL,Multiple,Sportsbet,Conor Nash To Get 15 or More Disposals; Harrison Himmelberg To Get 15 or More Disposals; Lachie Ash To Get 15 or More Disposals; Mabior Chol Anytime Goal Scorer - Hawthorn vs GWS Giants,1.79,1.78–1.83,1.7–1.8,2,L,,0,-2
+1209,45745,Rugby,Single,Bet365,Melbourne Storm to Score Three Unanswered Tries - No Unanswered Tries - St George/Illawarra Dragons vs Melbourne Storm,1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+1210,45745,AFL,Multiple,ANY,Ben Long To Score a Goal; Jacob Van Rooyen To Score a Goal - Melbourne vs Gold Coast; Mitch Owens To Score a Goal; Tom J. Lynch To Score a Goal - St Kilda vs Richmond; Kai Lohmann To Score a Goal; Tyson Stengle To Score a Goal - Brisbane vs Geelong; Nick Watson To Score a Goal; Toby Greene To Score a Goal - Hawthorn vs Western Sydney,7.14,2.80+,2.5 and above,0.35,L,,0,-0.35
+1211,45745,Horse,Single,ANY,Flemington R1 1. A Little Deep 7 (Win or Place),5,2.80+,2.5 and above,0.5,W,yes,2.5,2
+1212,45745,Horse,Single,ANY,Flemington R5 11. Hellsing 6 (Win or Place),2.9,2.80+,2.5 and above,1,L,yes,0,-1
+1213,45745,Rugby,Multiple,Bet365,Eliesa Katoa To Score a Try - St George/Illawarra Dragons vs Melbourne Storm; Xavier Savage To Score a Try - North Queensland Cowboys vs Canberra Raiders; Sam Stonestreet To Score a Try - Cronulla Sharks vs Canterbury Bulldogs,9.19,2.80+,2.5 and above,0.25,L,,0,-0.25
+1214,45745,Horse,Single,ANY,Flemington R2 7. Polish Playgirl 6 (Win or Place),3.9,2.80+,2.5 and above,0.75,P,yes,0,0
+1215,45745,AFL,Multiple,Ladbrokes,Jayden Short (Richmond) To Have 15+ Disposals; Jacob Hopper (Richmond) To Have 15+ Disposals; Nick Vlastuin (Richmond) To Have 15+ Disposals; Nasiah Wanganeen-Milera (St Kilda) To Have 20+ Disposals; Callum Wilkie (St Kilda) To Have 15+ Disposals - Richmond vs St Kilda,1.81,1.78–1.83,1.8–1.9,2,L,yes,0,-2
+1216,45745,AFL,Single,Sportsbet,Kari Amon Under 22.5 Disposals O/U (22.5) - Hawthorn vs GWS Giants,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1217,45745,NBA,Double,Dabble,Nikola Jokic Under 31.5 Points O/U (31.5); Brice Sensabaugh To Score 10+ Points - Utah Jazz vs Denver Nuggets,3,2.80+,2.5 and above,1,W,,3,2
+1218,45745,Horse,Single,PointsBet,Avoca R4 5. Kiss My Rock 9 (Win),1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1219,45745,AFL,Single,Others,Nasiah Wanganeen-Milera (St Kilda) To Kick 2+ Goals - St Kilda vs Richmond,15,2.80+,2.5 and above,0.2,L,,0,-0.2
+1220,45745,AFL,Multiple,PointsBet,Jack Macrae To Get 25+ Disposals; Cooper Sharman Anytime Goalscorer; Marcus Windhager To Get 15+ Disposals - St Kilda vs Richmond,1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+1221,45745,AFL,Single,Others,Nasiah Wanganeen-Milera (St Kilda) To Kick a Goal - St Kilda vs Richmond,4,2.80+,2.5 and above,0.5,L,,0,-0.5
+1222,45745,Horse,Single,ANY,Flemington R6 1. Oscar's Fortune 9 (Win or Place),7,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+1223,45745,Horse,Single,ANY,Flemington R4 1. Ndola 3 (Win or Place),3.5,2.80+,2.5 and above,0.75,P,yes,0,0
+1224,45745,Horse,Single,ANY,Flemington R7 6. Alabama Lass 4 (Win or Place),3,2.80+,2.5 and above,1,W,yes,3,2
+1225,45745,Horse,Single,Ladbrokes,Flemington R7 15. Vestas,8.75,2.80+,2.5 and above,0.3,L,,0,-0.3
+1226,45745,Horse,Single,Sportsbet,"Morphettville R6 7, longer route",3.5,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1227,45745,Horse,Single,Sportsbet,Flemington R8 6. pride of jenni,3.7,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1228,45745,Horse,Single,PointsBet,Flemington R9 3. Deakin,1.82,1.78–1.83,1.8–1.9,2.25,W,yes,4.095,1.845
+1229,45745,Horse,Single,Ladbrokes,"Flemington R9 9, Berskhire",7.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+1230,45745,Horse,Single,Ladbrokes,Flemginton R10 14. Prinzerro,3.7,2.80+,2.5 and above,0.75,L,,0,-0.75
+1231,45745,Horse,Single,Sportsbet,Flemington R10 8.Wallenda,6.5,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+1232,45745,AFL,Single,Ladbrokes,BrisLion/GeeCat Dayne Zorko U 27.5 dis,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+1233,45745,AFL,Double,Sportsbet,Hawkthorn: Jai NEwcombe; Brislion:Lachie Neale Most dis group 1,12.32,2.80+,2.5 and above,0.2,L,,0,-0.2
+1234,45746,AFL,Double,PointsBet,Andrew Brayshaw To Get 25+ Disposals; Caleb Serong To Get 25+ Disposals - West Coast vs Fremantle,1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+1235,45746,AFL,Double,PointsBet,Rory Laird To Kick 2+ Goals; Rory Laird Anytime Goalscorer - Adelaide vs North Melbourne,24.15,2.80+,2.5 and above,0.25,L,,0,-0.25
+1236,45746,AFL,Single,Others, Fremantle -25.5 West Coast vs Fremantle,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1237,45746,AFL,Single,Others,Rory Laird To Kick a Goal - Adelaide vs North Melbourne,4,2.80+,2.5 and above,0.75,L,,0,-0.75
+1238,45746,NBA,Single,Ladbrokes,PJ Washington Under 6.5 Rebounds O/U (6.5),1.73,1.78 and below,1.7–1.8,2,L,,0,-2
+1239,45746,AFL,Single,ANY,Caleb Daniel Under 27.5 Disposals O/U (27.5),1.88,1.83–1.90,1.8–1.9,2.75,L,,0,-2.75
+1240,45746,NBA,Single,ANY,Aaron Nesmith Over 18.5 Points + Assists + Rebounds O/U (18.5) - IND Pacers vs OKC Thunder,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+1241,45746,NBA,Single,Dabble,Alec Burks Over 12.5 Points + Rebounds O/U (12.5),1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+1242,45746,NBA,Single,Others,S. Castle Under 4.5 Assists O/U (4.5) - San Antonio vs Boston,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1243,45746,AFL,Multiple,Ladbrokes,Bailey Scott Under 19.5 Disposals; Harry Sheezel To Have 20+ Disposals; Lachlan Sholl To Have 15+ Disposals - Adelaide Crows vs North Melbourne,2.1,1.90–2.80,2.0–2.1,2.25,P,yes,0,0
+1244,45746,AFL,Single,PointsBet,Jaeger O'Meara To Get 35+ Disposals - West Coast vs Fremantle,21,2.80+,2.5 and above,0.2,P,,0,0
+1245,45746,AFL,Double,Sportsbet,Matt Crouch Most Disposals Group 1; Murphy Reid To Score 2 or More Goals - Adelaide Crows vs North Melbourne,10.39,2.80+,2.5 and above,0.2,L,,0,-0.2
+1246,45746,AFL,Single,PointsBet,Jaeger O'Meara To Get 30+ Disposals - West Coast vs Fremantle,21,2.80+,2.5 and above,0.2,P,,0,0
+1247,45746,Rugby,Double,Bet365,Haumole Olakau'atu To Score a Try - Manly Sea Eagles vs Parramatta Eels; Ali Leiataua To Score a Try - Wests Tigers vs New Zealand Warriors,7.42,2.80+,2.5 and above,0.3,L,,0,-0.3
+1248,45746,Rugby,Multiple,Ladbrokes,Manly Sea Eagles Match Betting; Lehi Hopoate (Manly Sea Eagles) Anytime Try Scorer; No Will The Game Go To Golden Point - Manly Sea Eagles vs Parramatta Eels,1.84,1.83–1.90,1.8–1.9,2,W,yes,3.68,1.68
+1249,45746,Horse,Single,ANY,Sale R4 8. Scintillante 3 (Win or Place),1.75,1.78 and below,1.7–1.8,2,W,yes,3.5,1.5
+1250,45746,Rugby,Double,Bet365,Daly Cherry-Evans To Score a Try - Manly Sea Eagles vs Parramatta Eels; Jahream Bula To Score a Try - Wests Tigers vs New Zealand Warriors,10.8,2.80+,2.5 and above,0.2,L,,0,-0.2
+1251,45746,AFL,Single,Sportsbet,Docker: Isaiah Dud AT scorer,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1252,45746,AFL,Single,Sportsbet,Isaiah Dud 2+ goals,5.5,2.80+,2.5 and above,0.3,W,,1.65,1.35
+1253,45746,AFL,Single,Sportsbet,Isaiah Dud 3+ goals,21,2.80+,2.5 and above,0.15,L,,0,-0.15
+1254,45746,AFL,Single,Sportsbet,Isaiah Dud 4+ goasl,81,2.80+,2.5 and above,0.1,L,,0,-0.1
+1255,45747,NBA,Single,PointsBet,Dyson Daniels Over 10.5 Assists + Rebounds O/U (10.5) - Atlanta Hawks vs Milwaukee Bucks,1.74,1.78 and below,1.7–1.8,2,W,,3.48,1.48
+1256,45747,Horse,Single,ANY,Yarra Valley R3 8. Suances 6 (Win),1.75,1.78 and below,1.7–1.8,2,W,yes,3.5,1.5
+1257,45747,NBA,Single,Others,J Sochan Over 22.5 Points + Rebounds + Assists O/U (22.5) - San Antonio vs Golden State,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1258,45747,NBA,Single,Dabble,Jamal Shead Under 15.5 Points + Rebounds O/U (15.5) - Toronto Raptors vs Philadelphia 76ers,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+1259,45747,NBA,Single,Others,Antonio Reeves 2+ Made Threes - Charlotte Hornets vs New Orleans Pelicans,1.88,1.83–1.90,1.8–1.9,2.25,W,,4.23,1.98
+1260,45747,NBA,Double,Bet365,Giannis Antetokounmpo To Record a Triple Double - Atlanta Hawks vs Milwaukee Bucks; Antonio Reeves 3+ Made Threes - Charlotte Hornets vs New Orleans Pelicans,17.05,2.80+,2.5 and above,0.2,L,,0,-0.2
+1261,45747,NBA,Single,Dabble,Moussa Diabate Over 15.5 Points + Rebounds + Assists O/U (15.5) - Charlotte Hornets vs New Orleans Pelicans,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1262,45747,AFL,Single,Bet365,Ted Clohesy To Score a Goal - Geelong vs Melbourne,2,1.90–2.80,1.9–2.0,1.75,L,,0,-1.75
+1263,45747,AFL,Single,Bet365,Ted Clohesy To Score Two or More Goals - Geelong vs Melbourne,5.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+1264,45747,AFL,Single,Bet365,Ted Clohesy To Score Three or More Goals - Geelong vs Melbourne,21,2.80+,2.5 and above,0.15,L,,0,-0.15
+1265,45747,AFL,Single,Bet365,Ted Clohesy To Score Four or More Goals - Geelong vs Melbourne,100,2.80+,2.5 and above,0.05,L,,0,-0.05
+1266,45747,AFL,Single,Sportsbet,Jordan De Goey To Get 20 or More Disposals - Collingwood vs Carlton,3.2,2.80+,2.5 and above,1,L,,0,-1
+1267,45747,AFL,Single,Sportsbet,Jordan De Goey To Get 25 or More Disposals - Collingwood vs Carlton,11.5,2.80+,2.5 and above,0.25,L,,0,-0.25
+1275,45747,AFL,Single,Dabble,Sam Flanders AT scorer,2,1.90–2.80,1.9–2.0,1.75,L,,0,-1.75
+1276,45747,AFL,Single,Dabble,Sam Flanders 2+ goals,6.5,2.80+,2.5 and above,0.35,L,,0,-0.35
+1277,45747,AFL,Single,Dabble,Sam Flanders 3+ goals,31,2.80+,2.5 and above,0.15,L,,0,-0.15
+1278,45748,NBA,Single,Ladbrokes,Scotty Pippen Jr. Under 8.5 Points O/U (8.5),1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+1279,45748,NBA,Single,Ladbrokes,Johnny Juzang Over 11.5 Points O/U (11.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+1280,45748,NBA,Single,PointsBet,Anthony Davis Under 36.5 Points + Rebounds + Assists O/U (36.5),1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+1281,45748,NBA,Single,Sportsbet,Thomas Bryant Over 6.5 Rebounds O/U (6.5),1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1282,45748,NBA,Single,Ladbrokes,Domantas Sabonis Over 35.5 Points + Rebounds + Assists O/U (36.5),1.88,1.83–1.90,1.8–1.9,2.25,W,,4.23,1.98
+1283,45748,NBA,Single,Dabble,Kyle Anderson Under 15.5 Points + Rebounds + Assists O/U (15.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1284,45748,NBA,Double,PointsBet,Payton Pritchard Over 2.5 Player 3-Pointers Made; Jayson Tatum To Score 20+ Points - Boston Celtics @ Memphis Grizzlies,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1285,45748,AFL,Multiple,PointsBet,Jordan De Goey Anytime Goalscorer; Sam Walsh To Get 20+ Disposals; Nick Daicos To Get 20+ Disposals - Collingwood v Carlton,1.7,1.78 and below,1.7 and below,2.5,W,,4.25,1.75
+1286,45748,Soccer,Double,PointsBet,Bowen To Have 1 Or More Shots On Target; Bowen To Have 1 Or More Shots - Wolves v West Ham,1.71,1.78 and below,1.7–1.8,2.25,W,,3.8475,1.5975
+1287,45748,NBA,Single,Ladbrokes,Jalen Green Undfer 22.5 Points O/U (22.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+1288,45748,NBA,Single,Ladbrokes,Miles Bridges Under 32.5 Points + Rebounds + Assists O/U (32.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1289,45749,NBA,Single,PointsBet,Matas Buzelis Over 6.5 Assists + Rebounds O/U (6.5) - Toronto Raptors @ Chicago Bulls,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1290,45749,NBA,Single,ANY,Patrick Williams Over 12.5 Points + Rebounds O/U (12.5) - Toronto Raptors @ Chicago Bulls,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1291,45749,NBA,Multiple,Sportsbet,Rudy Gobert Over 7.5 Points; Julius Randle To Score 15+ Points; Julius Randle To Record 4+ Rebounds; Nikola Jokic To Record 6+ Rebounds; Rudy Gobert To Record 6+ Rebounds - Minnesota Timberwolves @ Denver Nuggets,1.77,1.78 and below,1.7–1.8,2.5,W,,4.425,1.925
+1292,45749,NBA,Single,Ladbrokes,Devin Booker Under 12.5 Rebounds + Assists O/U (12.5) - Milwaukee Bucks @ Phoenix Suns,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1293,45749,NBA,Multiple,Sportsbet,Atlanta Hawks Match Betting; Deni Avdija To Record 4+ Rebounds; Chimezie Okongwu To Record 6+ Rebounds; Trae Young To Record 6+ Assists - Portland Trail Blazers @ Atlanta Hawks,1.77,1.78 and below,1.7–1.8,2,W,,3.54,1.54
+1294,45749,Horse,Single,PointsBet,Warwick Farm R2 1. Engine Room 8 (Win),1.75,1.78 and below,1.7–1.8,2,W,,3.5,1.5
+1295,45749,Soccer,Double,Bet365,Ipswich Over 0.5 Team Total Goals; Liam Delap 1+ Shots - Bournemouth v Ipswich,1.75,1.78 and below,1.7–1.8,2.25,W,,3.9375,1.6875
+1296,45749,Soccer,Multiple,Bet365,Newcastle Full Time Result; Crystal Palace Full Time Result - Newcastle v Brentford; Crystal Palace v Southampton,2.71,1.90–2.80,2.5 and above,1,L,,0,-1
+1297,45749,Horse,Single,Bet365,Ascot R2 8. Magali Magic 4 (Win or Place),4.4,2.80+,2.5 and above,0.75,P,yes,0,0
+1298,45750,NBA,Single,Others,Russell Westbrook Under 39.5 Points + Rebounds + Assists O/U (39.5) - Denver Nuggets v San Antonio Spurs,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+1299,45750,NBA,Multiple,Ladbrokes,Naji Marshall (Dallas Mavericks) To Score 10+ Points; Onyeka Okongwu (Atlanta Hawks) To Have 6+ Rebounds; Anthony Davis (Dallas Mavericks) To Have 6+ Rebounds; Dyson Daniels (Atlanta Hawks) To Have 4+ Rebounds - Dallas Mavericks vs Atlanta Hawks,1.79,1.78–1.83,1.7–1.8,2.25,P,yes,0,0
+1300,45750,AFL,Multiple,Sportsbet,Darcy Cameron To Get 15 or More Disposals; Jack Crisp To Get 15 or More Disposals; Blake Acres To Get 15 or More Disposals; Josh Daicos To Get 20 or More Disposals - Collingwood v Carlton,2,1.90–2.80,1.9–2.0,2.25,W,yes,4.5,2.25
+1301,45750,NBA,Single,Ladbrokes,Pascal Siakam Over 19.5 Points O/U (19.5),1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1302,45750,NBA,Multiple,Bet365,Houston Rockets To Win; Alperen Sengun 5+ Rebounds; Dillon Brooks 3+ Rebounds - Utah Jazz @ Houston Rockets,1.74,1.78 and below,1.7–1.8,2,L,,0,-2
+1303,45750,NBA,Single,Bet365,Luke Kornet Under 19.5 Points + Assists + Rebounds O/U (19.5) - Miami Heat @ Boston Celtics,1.86,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+1304,45750,NBA,Single,Sportsbet,Miami Heat (+5.5) Handicap Betting - Miami Heat at Boston Celtics,1.73,1.78 and below,1.7–1.8,2.25,W,,3.8925,1.6425
+1305,45750,Rugby,Double,Sportsbet,Sebastian Kris Anytime Tryscorer; Maewene Hiroti Anytime Tryscorer - Canberra Raiders v Cronulla Sharks,9.6,2.80+,2.5 and above,0.2,W,,1.92,1.72
+1306,45750,Rugby,Multiple,Ladbrokes,No Will The Game Go To Golden Point; 1+ Tries Cronulla Sharks; 2nd Half Highest Scoring Half - Canberra Raiders v Cronulla Sharks,1.86,1.83–1.90,1.8–1.9,2,P,yes,0,0
+1307,45750,Horse,Single,Sportsbet,Pinjarra Scarpside R2 10. Lucky I Am 11 (Win),1.8,1.78–1.83,1.7–1.8,2,P,yes,0,0
+1308,45750,Rugby,Multiple,Sportsbet,No team score 30; O 30 total pts; U36.5 1st half total; Shark ML,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1309,45750,AFL,Multiple,Ladbrokes,Adam Saad (Carlton) To Have 15+ Disposals; Sam Walsh (Carlton) To Have 20+ Disposals; George Hewett (Carlton) To Have 20+ Disposals; Bobby Hill (Collingwood) Player Goals - Anytime Goal Kicker - Collingwood v Carlton,1.78,1.78 and below,1.7–1.8,2.25,P,yes,0,0
+1310,45751,NBA,Single,Dabble,Zach Edey O 20.5 pra,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1311,45751,NBA,Single,Dabble,Orlando Robinson O 19.5 pra,1.92,1.90–2.80,1.9–2.0,2,W,,3.84,1.84
+1312,45751,NBA,Single,Ladbrokes,Brandon Pod U 13.5 pts,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+1313,45751,Horse,Single,PointsBet,Cranbourne R1 5. /New york,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1314,45751,Horse,Single,PointsBet,Launceston R1 Lady fern 5,1.8,1.78–1.83,1.7–1.8,2,L,,0,-2
+1315,45751,Horse,Single,PointsBet,Launceston R3 2 the mountain,4.8,2.80+,2.5 and above,0.5,L,,0,-0.5
+1316,45751,AFL,Multiple,Ladbrokes,"Geelong: Bailey S, Tom ste, Lawson Hum 15+ dis;; Mel: Clayton O 20 dis, Jack V 15, Ed Lang 15 dis ",1.75,1.78 and below,1.7–1.8,2.75,W,yes,4.8125,2.0625
+1317,45751,AFL,Double,Sportsbet,Shaun Mannag AT scorerl Christian PEt 20+ dis; Max Hol 20+ dis,2.05,1.90–2.80,2.0–2.1,2,P,yes,0,0
+1318,45751,Rugby,Multiple,Ladbrokes,Casey McLe AT scorer; Panters ML; Game no golden pts,1.81,1.78–1.83,1.8–1.9,2,P,yes,0,0
+1319,45751,Rugby,Double,Bet365,Izack Tago (panther/Cowboys); Keaon Kolo (Rabbit/Roosters) score a try,9.36,2.80+,2.5 and above,0.25,L,,0,-0.25
+1320,45751,Rugby,Double,Sportsbet,Isaiah Papa (panthers/cowboys); Angus Cric (rabbit.Roosters),22.8,2.80+,2.5 and above,0.1,L,,0,-0.1
+1321,45752,NBA,Single,Bet365,Jaxson Hayes Over 7.5 Points O/U (7.5) - New Orleans Pelicans @ Los Angeles Lakers,1.8,1.78–1.83,1.7–1.8,2.5,L,,0,-2.5
+1322,45752,NBA,Single,Others,Deni Avdija Over 20+ Points + Rebounds + Assists - Chicago v Portland,1.85,1.83–1.90,1.8–1.9,2,W,,3.7,1.7
+1323,45752,NBA,Single,Ladbrokes,Oso Ighodaro Under 13.5 Points + Rebounds O/U (13.5),1.88,1.83–1.90,1.8–1.9,2.25,L,,0,-2.25
+1324,45752,NBA,Single,Dabble,Jaxson Hayes To Have 6+ 1st Quarter Points - New Orleans Pelicans @ Los Angeles Lakers,6.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+1325,45752,NBA,Single,Ladbrokes,Dennis Schröder Over 22.5 Points + Assists O/U (22.5),1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+1326,45752,Horse,Single,ANY,Caulfield R2 3. Prancing Spirit 13 (Win or Place),5,2.80+,2.5 and above,0.5,P,yes,0,0
+1327,45752,NBA,Double,Sportsbet,Shai Gilgeous-Alexander Under 7.5 Assists; Jalen Green Under 24.5 Points - Oklahoma City Thunder at Houston Rockets,1.77,1.78 and below,1.7–1.8,2,L,,0,-2
+1328,45752,NBA,Single,Ladbrokes,Kristaps Porzingis Under 19.5 Points O/U (19.5) ,1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+1329,45752,Horse,Single,Ladbrokes,Randwick R1 King of Pop2,3.8,2.80+,2.5 and above,0.75,P,yes,0,0
+1330,45752,Horse,Single,ANY,Randwick R2 14. Exclusive Artist 5 (Win or Place),11,2.80+,2.5 and above,0.25,L,,0,-0.25
+1331,45752,Horse,Single,ANY,Randwick R2 9. Polymnia 8 (Win or Place),2.8,1.90–2.80,2.5 and above,1,P,yes,0,0
+1332,45752,NBA,Single,Bet365,Daniel Gafford U 20.5 pra,1.86,1.83–1.90,1.8–1.9,2,L,,0,-2
+1333,45752,AFL,Single,ANY,John Noble Over 21.5 Disposals O/U (21.5) - Gold Coast Suns v Adelaide Crows,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+1334,45752,NBA,Single,Bet365,Gui Santos Under 8.5 Points + Assists + Rebounds O/U (8.5) - Denver Nuggets @ Golden State Warriors,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1335,45752,AFL,Multiple,Ladbrokes,James Peatling (Adelaide Crows) To Have 20+ Disposals; Rory Laird (Adelaide Crows) To Have 20+ Disposals; Lachlan Murphy (Adelaide Crows) To Have 15+ Disposals - Gold Coast Suns v Adelaide Crows,1.72,1.78 and below,1.7–1.8,2,L,yes,0,-2
+1336,45752,NBA,Single,Bet365,Aaron Gordon Over 22.5 Points + Assists + Rebounds O/U (22.5) - Denver Nuggets @ Golden State Warriors,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+1337,45752,AFL,Single,Bet365,Lachlan Murphy To Score a Goals - Gold Coast v Adelaide,2.25,1.90–2.80,2.2–2.3,1.5,L,,0,-1.5
+1338,45752,AFL,Single,Bet365,Lachlan Murphy To Score Two or More Goals - Gold Coast v Adelaide,10,2.80+,2.5 and above,0.25,L,,0,-0.25
+1339,45752,AFL,Single,ANY,Gold coast suns vs ADE crows: Noah Anderson U 30.5 dis,1.86,1.83–1.90,1.8–1.9,2,W,,3.72,1.72
+1340,45752,AFL,Single,PointsBet,Lachlan Murphy To Kick 3+ Goals - Gold Coast v Adelaide,51,2.80+,2.5 and above,0.1,L,,0,-0.1
+1341,45752,AFL,Single,ANY,Dayne Zorko Over 28.5 Disposals O/U (28.5) - Richmond v Brisbane Lions,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1342,45752,AFL,Double,PointsBet,Dayne Zorko To Get 35+ Disposals; Josh Dunkley To Get 15+ Disposals - Richmond v Brisbane Lions,7.15,2.80+,2.5 and above,0.35,L,,0,-0.35
+1343,45752,Horse,Single,Sportsbet,Randwick R4 1. Evaporate 4 (Win or Place),2.8,1.90–2.80,2.5 and above,1,W,yes,2.8,1.8
+1344,45752,Horse,Single,Sportsbet,Caulfield R5 2. Statuario 4 (Win or Place),1.85,1.83–1.90,1.8–1.9,2,W,yes,3.7,1.7
+1345,45752,Horse,Single,Sportsbet,Randwick R3 7. Waltham 2 (Win or Place),8,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+1346,45752,Horse,Single,Sportsbet,Caulfield R4 2. Hughes 18 (Win or Place),4.6,2.80+,2.5 and above,0.75,W,yes,3.45,2.7
+1347,45752,Horse,Single,PointsBet,Morphe Race 3 Motorace 4,1.82,1.78–1.83,1.8–1.9,2,P,yes,0,0
+1348,45752,AFL,Single,Ladbrokes,Will McLachlan (Brisbane Lions) To Kick 2+ Goals - Richmond v Brisbane Lions,2.85,2.80+,2.5 and above,1,L,,0,-1
+1349,45752,Rugby,Single,Bet365,St George/Illawarra Dragons Unanswered Tries - No - Parramatta Eels v St George/Illawarra Dragons,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1350,45752,AFL,Single,PointsBet,Will McLachlan To Get 15+ Disposals - Richmond v Brisbane Lions,5.5,2.80+,2.5 and above,0.4,L,,0,-0.4
+1351,45752,Rugby,Single,Bet365,Zac Lomax (Parramatta Eels) Anytime Tryscorer - Parramatta Eels v St George/Illawarra Dragons,3,2.80+,2.5 and above,1,L,,0,-1
+1352,45752,Horse,Single,Sportsbet,Randwick R5 14. Intervarsity 5 (Win or Place),6,2.80+,2.5 and above,0.4,L,yes,0,-0.4
+1353,45752,Horse,Single,Sportsbet,Morphettville R4 3. Sissianable 4 (Win or Place),1.75,1.78 and below,1.7–1.8,2,P,yes,0,0
+1354,45752,Rugby,Multiple,Bet365,Christian Tuipulotu To Score a Try - Parramatta Eels v St George/Illawarra Dragons; Hamiso Tabuai-Fidow To Score a Try - Gold Coast Titans v Dolphins; Selwyn Cobbo To Score a Try - Brisbane Broncos v Wests Tigers,5.5,2.80+,2.5 and above,0.4,L,,0,-0.4
+1355,45752,Rugby,Single,Bet365,Gold Coast Titans Unanswered Tries - No - Gold Coast Titans v Dolphins,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1356,45752,Horse,Single,ANY,Randwick R7 7. Jollester 4 (Win or Place),3.7,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1357,45752,Horse,Single,ANY,Randwick R6 3. Vinrock 1 (Win or Place),3.9,2.80+,2.5 and above,0.75,W,yes,2.925,2.175
+1358,45752,AFL,Single,Ladbrokes,Nick Blakey Under 22.5 Disposals O/U (22.5) - North Melbourne v Sydney Swans,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1359,45752,Horse,Single,ANY,Randwick R9 18. Aeliana 2 (Win or Place),2.4,1.90–2.80,2.3–2.4,1.5,W,yes,3.6,2.1
+1360,45752,Horse,Single,Sportsbet,Randwick R8 1. Another Wil 18 (Win or Place),7.5,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+1361,45752,Horse,Single,Ladbrokes,Randwick R8 20. Linebacker 4 (Win or Place),7.5,2.80+,2.5 and above,0.3,L,,0,-0.3
+1362,45752,Horse,Single,Sportsbet,Ranwick R10 Lilac 3,5,2.80+,2.5 and above,0.5,L,yes,0,-0.5
+1363,45752,Soccer,Double,Bet365,Under 2 goalfor Arsenal; Total over 0 goals,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1364,45752,Soccer,Multiple,Bet365,Aston villa; Wesham draw or ML; Wolve draw or ML,4.31,2.80+,2.5 and above,0.75,W,,3.2325,2.4825
+1365,45753,AFL,Double,Bet365,Ollie Wines No 30+ Disposals; Nasiah Wanganeen-Milera To Record 20 Disposals - Port Adelaide v St Kilda,1.76,1.78 and below,1.7–1.8,2.25,W,,3.96,1.71
+1366,45753,AFL,Single,PointsBet,Lachie Whitfield Under 30.5 Disposals O/U (30.5) - GWS Giants v WCE,1.87,1.83–1.90,1.8–1.9,2,L,,0,-2
+1367,45753,NBA,Single,Dabble,Donte DiVincenzo Over 10.5 Points O/U (10.5),1.78,1.78 and below,1.7–1.8,2,W,,3.56,1.56
+1368,45753,AFL,Single,Sportsbet,Connor Rozee Under 25.5 Disposals O/U (25.5) - Port Adelaide v St Kilda,1.9,1.83–1.90,1.8–1.9,2,W,,3.8,1.8
+1369,45753,NBA,Single,PointsBet,Luke Kennard Over 11.5 Points + Rebounds + Assists O/U (11.5) - Memphis Grizzlies @ Detroit Pistons,1.83,1.78–1.83,1.8–1.9,2.25,W,,4.1175,1.8675
+1370,45753,AFL,Double,Bet365,Tom Liberatore No 30+ Disposals; Bailey Dale To Record 20 Disposals - Fremantle v Western Bulldogs,1.7,1.78 and below,1.7 and below,2.25,L,,0,-2.25
+1371,45753,Rugby,Single,Bet365,Melbourne Storm Unanswered Tries - No - Manly Sea Eagles v Melbourne Storm,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1372,45753,NBA,Double,Bet365,Dereck Lively II 3+ Points in the 1st Quarter; Dereck Lively II 3+ Rebounds in the 1st Quarter - Dallas Mavericks @ LA Clippers,15,2.80+,2.5 and above,0.2,L,,0,-0.2
+1373,45753,Rugby,Multiple,Ladbrokes,Marcalo Montoya (Canterbury Bulldogs) Anytime Tryscorer; No Will The Game Go To Golden Point; 1+ Tries Newcastle Knights - Canterbury Bulldogs v Newcastle Knights,1.7,1.78 and below,1.7 and below,2.25,L,yes,0,-2.25
+1374,45753,AFL,Double,Bet365,Fremantle Match Result 3 Way; Jordan Clark To Record 15 Disposals - Fremantle v Western Bulldogs,1.72,1.78 and below,1.7–1.8,2.75,W,,4.73,1.98
+1375,45753,AFL,Multiple,Ladbrokes,Harry Himmelberg (GWS Giants) To Have 15+ Disposals; Josh Kelly (GWS Giants) To Have 20+ Disposals; Lachie Ash (GWS Giants) To Have 15+ Disposals; Jack Graham (West Coast Eagles) To Have 15+ Disposals - GWS Giants v West Coast Eagles,1.77,1.78 and below,1.7–1.8,2.25,W,yes,3.9825,1.7325
+1376,45753,Rugby,Double,Bet365,Ellesa Katoa To Score a Try - Manly Sea Eagles v Melbourne Storm; Bronson Xerri To Score a Try - Canterbury Bulldogs v Newcastle Knights,7.54,2.80+,2.5 and above,0.3,L,,0,-0.3
+1377,45753,AFL,Multiple,Sportsbet,Harley Reid To Get or More Disposals; Toby Greene Anytime Goal Scorer; Finn Callaghan To Get 20 or More Disposals - GWS Giants v West Coast Eagles,1.79,1.78–1.83,1.7–1.8,2,W,,3.58,1.58
+1378,45753,NBA,Multiple,Ladbrokes,Dereck Lively 4+ rb; Norman Powel 10+ pts; Anthony Davis 6+ rb,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1379,45754,NBA,Single,Dabble,Spurs (+4.5) Handicap Betting,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1380,45754,NBA,Single,Dabble,Jaylen Brown To Have 7+ 1st Quarter Points,1.85,1.83–1.90,1.8–1.9,1.75,W,,3.2375,1.4875
+1381,45754,NBA,Single,Sportsbet,Shaedon Sharpe Over 5.5 RB O/U (5.5),1.88,1.83–1.90,1.8–1.9,2,W,,3.76,1.76
+1382,45754,NBA,Single,Dabble,Evan Mobley Over 26.5 Points + Rebounds O/U (26.5),1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1383,45754,NBA,Single,Ladbrokes,Payton Watson Under 9.5 Points O/U (9.5),1.87,1.83–1.90,1.8–1.9,2,W,,3.74,1.74
+1384,45754,Soccer,Single,Bet365,Liverpool Full Time Result - Fulham v Liverpool,1.85,1.83–1.90,1.8–1.9,2,L,,0,-2
+1385,45754,NBA,Single,Ladbrokes,Al Horford Under 22.5 Points + Rebounds + Assists O/U (22.5),1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1386,45754,NBA,Single,Dabble,Jaylen Brown To Have 10+ 1st Quarter Points,3.4,2.80+,2.5 and above,0.75,L,,0,-0.75
+1387,45754,Horse,Single,Sportsbet,Dubbo R7Quick Sharp (7) Win,2.1,1.90–2.80,2.0–2.1,2,P,yes,0,0
+1388,45754,NBA,Single,Bet365,Alperen Sengun Over 13.5 Assists + Rebounds O/U (13.5) - Houston Rockets @ Golden State Warriors,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1389,45754,Soccer,Multiple,Bet365,Newcastle Full Time Result; Alexander Isak 1+ Shots; Joelinton 1+ Shots - Leicester v Newcastle,1.72,1.78 and below,1.7–1.8,2.5,W,,4.3,1.8
+1390,45754,NBA,Single,TAB,Buddy Hield Under 11.5 Points + Rebounds + Assists O/U (11.5) - NBA Golden State v Houston,1.9,1.83–1.90,1.8–1.9,2,L,,0,-2
+1391,45754,AFL,Double,Sportsbet,Shai Bolton To Get 15 or More Disposals; Fremantle Head to Head - Richmond v Fremantle,1.7,1.78 and below,1.7 and below,2.5,,,0,0
+1392,45754,AFL,Single,Dabble,Sydney Swans (+13.5) Handicap Betting - Collingwood Magpies v Sydney Swans,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+1393,45754,NBA,Multiple,Sportsbet,AJ Johnson Over 7.5 Points; Alexandre Sarr Over 9.5 Points; Jaylen Brown To Score 15+ Points; Boston Celtics Match Betting - Washington Wizards v Boston Celtics,1.76,1.78 and below,1.7–1.8,2,W,,3.52,1.52
+1394,45755,AFL,Single,PointsBet,Hayden Young To Kick 2+ Goals - Richmond v Fremantle,4.75,2.80+,2.5 and above,0.5,,,0,0
+1395,45755,Soccer,Single,Dabble,Real Madrid Draw Double Chance,1.72,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+1396,45755,AFL,Double,PointsBet,Tim Taranto To Get 15+ Disposals; Hayden Young Anytime Goalscorer - Richmond v Fremantle,1.75,1.78 and below,1.7–1.8,2,,,0,0
+1397,45755,NBA,Single,Bet365,Royce O'Neale Under 8.5 Assists + Rebounds O/U (8.5) - Golden State Warriors @ Phoenix Suns,1.8,1.78–1.83,1.7–1.8,2.25,W,,4.05,1.8
+1398,45755,NBA,Single,Dabble,Cade Cunningham Under 38.5 Points + Rebounds + Assists O/U (38.5),1.88,1.83–1.90,1.8–1.9,2,L,,0,-2
+1399,45755,Tennis,Single,Dabble,Fabian Marozsan Match Winner - Gael Monfils v Fabian Marozsan,1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1400,45755,NBA,Double,Bet365,Kyle Anderson 5+ Rebounds; Kyle Anderson 5+ Points - Philadelphia 76ers @ Miami Heat,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+1401,45756,NBA,Single,Bet365,Jevon Carter Over 14.5 Points + Rebounds O/U (14.5) - Chicago Bulls @ Cleveland Cavaliers,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1402,45756,NBA,Single,Bet365,Cole Anthony Under 14.5 Points + Assists + Rebounds O/U (14.5) - Atlanta Hawks @ Orlando Magic,2,1.90–2.80,1.9–2.0,2,W,,4,2
+1403,45756,NBA,Single,Dabble,Bennedict Mathurin Under 14.5 Points O/U (14.5),1.78,1.78 and below,1.7–1.8,2.5,L,,0,-2.5
+1404,45756,NBA,Double,Dabble,Reece Beekman To Score 15+ Points; Antonio Reeves To Score 5+ Points - New Orleans Pelicans @ Brooklyn Nets,18,2.80+,2.5 and above,0.2,L,,0,-0.2
+1405,45756,NBA,Double,Dabble,Antonio Reeves To Score 10+ Points; Reece Beekman To Score 5+ Points - New Orleans Pelicans @ Brooklyn Nets,1.76,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1406,45756,NBA,Single,Ladbrokes,Mikal Bridges Under 7.5 Rebounds + Assists O/U (7.5),1.75,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1407,45756,NBA,Multiple,Bet365,Jaxson Hayes Under 10.5 Points; OKC Thunder To Win; Jalen Williams To Score 15+ Points - LA Lakers @ OKC Thunder,1.74,1.78 and below,1.7–1.8,2.25,W,,3.915,1.665
+1408,45756,NBA,Multiple,Bet365,Domantas Sabonis 10+ Points; Domantas Sabonis 10+ Assists; Domantas Sabonis 10+ Rebounds - Denver Nuggets @ Sacramento Kings,10,2.80+,2.5 and above,0.2,L,,0,-0.2
+1409,45756,Horse,Single,PointsBet,Murray Bridge Race 4 12. Isla's Fury (1) Win,1.7,1.78 and below,1.7 and below,2.25,P,yes,0,0
+1410,45756,NBA,Single,Bet365,Anthony Edwards Over 31.5 Points + Assists O/U (31.5) - Minnesota Timberwolves @ Milwaukee Bucks,1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1411,45756,NBA,Multiple,Ladbrokes,Luka Doncic (Los Angeles Lakers) To Have 6+ Rebounds; Anthony Davis (Dallas Mavericks) To Have 6+ Rebounds; Luka Doncic (Los Angeles Lakers) To Score 25+ Points - Dallas Mavericks vs Los Angeles Lakers,1.72,1.78 and below,1.7–1.8,1.75,W,yes,3.01,1.26
+1412,45756,NBA,Single,Palmerbet,Ivica Zubac Over 31.5 Points + Rebounds + Assists O/U (31.5) - San Antonio Spurs @ Los Angeles Clippers,1.8,1.78–1.83,1.7–1.8,2.5,W,,4.5,2
+1413,45756,NBA,Single,TAB,Luka Doncic Under 27.5 Points O/U (27.5) - Oklahoma City Thunder @ LA Lakers,1.8,1.78–1.83,1.7–1.8,2,W,yes,3.6,1.6
+1414,45756,NBA,Double,Bet365,Domantas Sabonis 5+ Assists; Domantas Sabonis 10+ Rebounds - Denver Nuggets @ Sacramento Kings,1.8,1.78–1.83,1.7–1.8,2.5,L,,0,-2.5
+1415,45756,AFL,Double,Sportsbet,Blake Acres To Get 15 or More Disposals; Carlton (-26.5) - Carlton v West Coast Eagles,1.72,1.78 and below,1.7–1.8,1.75,,,0,0
+1416,45756,Horse,Single,ANY,Pinjarra Scarpside Race 5 12. True Blue Bondi (12) Win,2.1,1.90–2.80,2.0–2.1,1.75,W,yes,3.675,1.925
+1417,45757,AFL,Multiple,Ladbrokes,Mitch Hinge (Adelaide Crows) To Have 15+ Disposals; Mitch Knevitt (Geelong Cats) To Have 15+ Disposals; Rory Laird (Adelaide Crows) To Have 20+ Disposals - Adelaide Crows v Geelong Cats,1.72,1.78 and below,1.7–1.8,2.5,P,yes,0,0
+1418,45757,NBA,Single,ANY,Jusuf Nurkic Over 9.5 Rebounds O/U (9.5),1.98,1.90–2.80,1.9–2.0,2,L,,0,-2
+1419,45757,NBA,Single,ANY,Kawhi Leonard Over 5.5 Rebounds O/U (5.5),1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1420,45757,AFL,Double,Sportsbet,Lawson Humphries Under 21.5 Disposals; Geelong (+59.5) - Adelaide Crows v Geelong Cats,2.05,1.90–2.80,2.0–2.1,2,W,yes,4.1,2.1
+1421,45757,NBA,Single,ANY,Shaedon Sharpe Over 4.5 Assists O/U (4.5) - Portland Trail Blazers @ Utah Jazz,2.25,1.90–2.80,2.2–2.3,2,W,,4.5,2.5
+1422,45757,Horse,Single,Sportsbet,Narrog R5 1. Oscar Charlie (8) Win,2.05,1.90–2.80,2.0–2.1,1.75,W,yes,3.5875,1.8375
+1423,45757,NBA,Multiple,Ladbrokes,Nikola Jokic (Denver Nuggets) To Score 25+ Points; Domantas Sabonis (Sacramento Kings) To Score 10+ Points; DeMar DeRozan (Sacramento Kings) To Score 15+ Points; Michael Porter Jr. (Denver Nuggets) To Have 4+ Rebounds - Sacramento Kings vs Denver Nuggets,1.72,1.78 and below,1.7–1.8,2.25,P,yes,0,0
+1424,45757,Horse,Single,PointsBet,Narrog R7 5. Chery's Shout (3) Win,1.65,1.78 and below,1.7 and below,2.25,W,,3.7125,1.4625
+1425,45757,Rugby,Multiple,Sportsbet,Paul Alamoti Anytime Tryscorer; No Will The Game Go To Golden Point; Under 6.5 1st Half Tries - Dolphins v Penrith Panthers,2,1.90–2.80,1.9–2.0,2,P,yes,0,0
+1426,45757,Horse,Single,PointsBet,Pakenham R4 4. Factcheck (2) Win,3,2.80+,2.5 and above,1,P,yes,0,0
+1427,45757,Horse,Single,Sportsbet,Pakenham R3 7.Amanoah,2,1.90–2.80,1.9–2.0,1.75,P,yes,0,0
+1428,45757,AFL,Double,Bet365,Shannon Neale To Score a Goal; Max Holmes To Record 30+ Disposals - No - Adelaide v Geelong,1.75,1.78 and below,1.7–1.8,2,L,,0,-2
+1429,45757,Rugby,Double,Bet365,Jamayne Isaako To Score a Try; Match Handicap: Dolphins (+32.5) - Dolphins v Penrith Panthers,2.25,1.90–2.80,2.2–2.3,1.75,P,yes,0,0
+1430,45758,NBA,Single,Ladbrokes,Brook Lopez U 17.5 pts rb,1.83,1.78–1.83,1.8–1.9,2,W,,3.66,1.66
+1431,45758,NBA,Multiple,Ladbrokes,Timberwolves ML; Jaren JAck 10+ pts; Mike Conley 2+ asst,1.83,1.78–1.83,1.8–1.9,2,W,yes,3.66,1.66
+1432,45758,AFL,Multiple,Ladbrokes,Matt Roberts; Jack Crisp; Chad Warner; NickBlakey 15+ dis; Isaac Heeney 20+ dis,1.84,1.83–1.90,1.8–1.9,2.5,W,yes,4.6,2.1
+1433,45758,Rugby,Multiple,Ladbrokes,St George -3.5; no golden pts; 1+ tries gold coast titans,1.75,1.78 and below,1.7–1.8,2,W,yes,3.5,1.5
+1434,45758,Rugby,Double,Sportsbet,Beau Fermor AT score(titans); Bronco: Gehamat Shiba,9.14,2.80+,2.5 and above,0.2,L,,0,-0.2
+1435,45758,Rugby,Single,Ladbrokes,David Fifita (Gold coast) ATscrore,3.7,2.80+,2.5 and above,0.7,L,,0,-0.7
+1436,45758,Rugby,Double,Sportsbet,Lachlan S(Collingwood) AT score; Tom Hanily 2+ goals,6.8,2.80+,2.5 and above,0.3,W,,2.04,1.74
+1437,45758,Rugby,Double,Unibet,Roberts Mathew 25+ dis; Daicos Josh 20+ dis,1,1.78 and below,1.7 and below,2.75,L,,0,-2.75
+1438,45759,Horse,Single,Sportsbet,Randwick R1 4. Michelangelo (2) Win,3.1,2.80+,2.5 and above,1,L,yes,0,-1
+1439,45759,NBA,Multiple,Bet365,Jamal Shead To Have 7+ Assists; Anthony Davis To Have 5+ Rebounds; Anthony Davis To Score 10+ Points - TOR Raptors @ DAL Mavericks,1.71,1.78 and below,1.7–1.8,2.25,L,,0,-2.25
+1440,45759,NBA,Single,Ladbrokes,Russell Westbrook Under 10.5 Points O/U (10.5),1.83,1.78–1.83,1.8–1.9,2,L,,0,-2
+1441,45759,NBA,Single,TAB,Bg Bgdnovic Under 12.5 Points O/U (12.5) - Sacramento @ LA Clippers,1.8,1.78–1.83,1.7–1.8,2,W,,3.6,1.6
+1442,45759,NBA,Single,Dabble,Kenrich Williams Over 11.5 Points O/U (11.5) - OKC Thunder @ Utah Jazz,1.78,1.78 and below,1.7–1.8,2,W,,3.56,1.56
+1443,45759,AFL,Multiple,Sportsbet,Tristan Xerri To Get 15 or More Disposals; Sam Flanders To Get 20 or More Disposals; Caleb Daniel To Get 20 or More Disposals - North Melb v Gold Coast Suns,1.79,1.78–1.83,1.7–1.8,2,L,,0,-2
+1444,45759,NBA,Multiple,Bet365,Anthony Davis Double Double - Yes - TOR Raptors @ DAL Mavericks; Nikola Jokic Triple Double - Yes - MEM Grizzlies @ DEN Nuggets; Jaylin Williams Double Double - Yes - OKC Thunder @ Utah Jazz,6.17,2.80+,2.5 and above,0.3,W,,1.851,1.551
+1445,45759,AFL,Double,PointsBet,Jake Melksham Anytime Goalscorer; Jordan Ridley To Get 15+ Disposals - Melbourne v Essendon,1.74,1.78 and below,1.7–1.8,2,,,0,0
+1446,45759,Horse,Single,Sportsbet,Bendigo R1 3. Inevitable Award (7) Win,5,2.80+,2.5 and above,0.5,P,yes,0,0
+1447,45759,AFL,Multiple,Sportsbet,Ben King Most Goals Gr1 - North Melbourne v Gold Coast Suns; Charlie Curnow Most Goals Gr1 - Carlton v West Coast Eagles; Lachie Neale Most Disposals Gr1 - Western Bulldogs v Brisbane Lions; Clayton Oliver Most Disposals Gr1 - Melbourne v Essendon,34.85,2.80+,2.5 and above,0.1,L,,0,-0.1
+1448,45759,Horse,Single,Sportsbet,Bendigo R2 9. Algadon Storm (8) Win or Place,6.5,2.80+,2.5 and above,0.4,L,,0,-0.4
+1449,45759,NBA,Single,Dabble,Reed Sheppard Over 4.5 Assists O/U (4.5),1.78,1.78 and below,1.7–1.8,2.25,W,,4.005,1.755
+1450,45759,AFL,Multiple,Ladbrokes,Mason Redman (Essendon) To Have 15+ Disposals; Ed Langdon (Melbourne) To Have 15+ Disposals; Dylan Shiel (Essendon) To Have 15+ Disposals; Sam Durham (Essendon) To Have 15+ Disposals; Nic Martin (Essendon) To Have 15+ Disposals; Christian Petracca (Melbourne) To Have 15+ Disposals - Melbourne v Essendon,1.71,1.78 and below,1.7–1.8,2.5,,yes,0,0
+1451,45759,Horse,Single,Sportsbet,Bendigo R2 3. Killiana (10) Win,2.35,1.90–2.80,2.3–2.4,1.5,W,yes,3.525,2.025
+1452,45759,AFL,Multiple,Sportsbet,James O'Donnell Anytime Goalscorer; Bailey Dale To Get 20 or More Disposals; Josh Dunkley To Get 20 or More Disposals - Western Bulldogs v Brisbane Lions,2.05,1.90–2.80,2.0–2.1,2,,yes,0,0
+1453,45759,Horse,Single,Sportsbet,Randwick R3 2. Lord of Biscay (4) Win,2.9,2.80+,2.5 and above,1,P,yes,0,0
+1454,45759,AFL,Multiple,Ladbrokes,Liam Baker (West Coast Eagles) To Have 20+ Disposals; George Hewett (Carlton) To Have 20+ Disposals; Sam Walsh (Carlton) To Have 20+ Disposals; Patrick Cripps (Carlton) To Have 20+ Disposals - Carlton v West Coast Eagles,1.81,1.78–1.83,1.8–1.9,2,W,,3.62,1.62
+1455,45759,Horse,Single,Sportsbet,Randwick R4 2. Tempted (12) Win,3.1,2.80+,2.5 and above,1,W,yes,3.1,2.1
+1456,45759,Horse,Single,Sportsbet,Bendigo R3 14. Groundrush (7) Win,8,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+1457,45759,Horse,Single,PointsBet,Morphettville R1 2. Amizetta (1) Win,1.7,1.78 and below,1.7 and below,2.25,P,yes,0,0
+1458,45759,Horse,Single,Sportsbet,Bendigo R4 11. Freight Train (7) Win,2.8,1.90–2.80,2.5 and above,1,L,yes,0,-1
+1459,45759,Rugby,Multiple,Ladbrokes,Cronulla Sharks Line (-2.5); No Will The Game Go To Golden Point; Cronulla Sharks Line (+14.5) - Cronulla Sharks v Manly Sea Eagles,1.73,1.78 and below,1.7–1.8,2.25,W,yes,3.8925,1.6425
+1460,45759,Rugby,Multiple,Bet365,Haumole Olakau’atu To Score a Try - Cronulla Sharks v Manly Sea Eagles; Jye Gray To Score a Try - South Sydney Rabbitohs v North Queensland Cowboys; Xavier Savage To Score a Try - Parramatta Eels v Canberra Raiders,14.69,2.80+,2.5 and above,0.2,,,0,0
+1461,45759,AFL,Multiple,PointsBet,Lachie Neale To Get 35+ Disposals; James O’Donnell To Kick 2+ Goals; Josh Dunkley To Get 20 or More Disposals; Will McLachlan To Kick 2+ Goals - Western Bulldogs v Brisbane Lions,32.6,2.80+,2.5 and above,0.1,,,0,0
+1462,45759,AFL,Double,PointsBet,Will McLachlan Anytime Goalscorer; Bailey Dale To Get 15 or More Disposals - Western Bulldogs v Brisbane Lions,1.78,1.78 and below,1.7–1.8,2,,,0,0
+1463,45759,Horse,Single,Sportsbet,Bendigo R5 5. Manolo Bling (8) Win,3.3,2.80+,2.5 and above,1,W,yes,3.3,2.3
+1464,45759,Horse,Single,Sportsbet,Bendigo R6 3. Tatsumaki (11) Win,1.7,1.78 and below,1.7 and below,2.25,L,yes,0,-2.25
+1465,45759,Horse,Single,Sportsbet,Randwick R6 1. Leica Lucy (1) Win,4.2,2.80+,2.5 and above,0.75,L,yes,0,-0.75
+1466,45759,Rugby,Single,Bet365,Unanswered Tries - No - Canberra Raiders v Parramatta Eels,1.8,1.78–1.83,1.7–1.8,2,,,0,0
+1467,45759,AFL,Single,ANY,Ed Richards Under 24.5 Disposals O/U (24.5) - Western Bulldogs v Brisbane Lions,1.91,1.90–2.80,1.9–2.0,2,,,0,0
+1468,45759,Horse,Single,Sportsbet,Randwick R8 7. Buckaroo (3) Win,13,2.80+,2.5 and above,0.25,,,0,0
+1469,45759,Horse,Single,Sportsbet,Randwick R7 4. Circle of Fire (22) Win,13,2.80+,2.5 and above,0.2,L,,0,-0.2
+1470,45759,Horse,Single,Sportsbet,Randwick R7 8. Alaiance (15) Win,3.3,2.80+,2.5 and above,1,L,yes,0,-1
+1471,45759,Horse,Single,Sportsbet,Randwick R8 2. Rousham Park (12) Win,9,2.80+,2.5 and above,0.3,L,yes,0,-0.3
+1472,45759,Horse,Single,Sportsbet,Bendigo R7 2. Extratwo (4) Win,6,2.80+,2.5 and above,0.4,P,yes,0,0
+1473,45759,Horse,Single,Sportsbet,Randwick R9 2. Stefi Mag 2nd u win,6.5,2.80+,2.5 and above,1,W,yes,6.5,5.5
+1474,45759,AFL,Single,Bet365,Western Bulldogs -24.5,1.89,1.83–1.90,1.8–1.9,2,,,0,0
+1475,45759,AFL,Single,Bet365,Western bulldogs -44.5,4.75,2.80+,2.5 and above,0.4,,,0,0
