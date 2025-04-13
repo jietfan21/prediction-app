@@ -93,11 +93,12 @@
     </p>
 
     <p><strong>Confidence Level:</strong></p>
-    <p>
-      <span class="pill {% if confidence_level == 'High' %}green{% elif confidence_level == 'Medium' %}yellow{% else %}red{% endif %}">
-        {{ confidence_level }} ({{ confidence_percent }}%)
-      </span>
-    </p>
+   <p>
+  <span class="pill {% if confidence_level == 'High' %}green{% elif confidence_level == 'Medium' %}yellow{% else %}red{% endif %}">
+    {{ confidence_level }}
+  </span>
+</p>
+
     <meter 
       value="{{ confidence_percent }}" 
       min="0" 
