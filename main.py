@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import pandas as pd
 import os
 import math
+import statistics
 import scipy.stats as stats
 
 app = Flask(__name__)
@@ -76,20 +77,19 @@ def index():
         win_rate = round((total_wins / (total_wins + total_losses)) * 100, 2) if (total_wins + total_losses) > 0 else 0
         profit_per_bet = round(total_profit / total_bets, 2) if total_bets > 0 else 0.0
 
-        # ✅ New: Statistical confidence level calculation
+        # ✅ Confidence Level Calculation (One-Tailed)
         margin_of_error = 0.1
-        if total_bets > 0:
-            p_hat = total_wins / total_bets
-            q_hat = 1 - p_hat
-            std_dev = math.sqrt((p_hat * q_hat) / total_bets)
+        filtered_profits = df['Profit/Loss'].dropna().tolist()
+        n = len(filtered_profits)
 
-            if std_dev > 0:
-                z_score = margin_of_error / std_dev
-                confidence_percent = round(stats.norm.cdf(z_score) * 100 * 2 - 100, 2)
-            else:
-                confidence_percent = 0.0
+        if n >= 2:
+            sd = statistics.stdev(filtered_profits)
+            z_score = (margin_of_error * math.sqrt(n)) / sd if sd > 0 else 0
+            confidence_percent = round(stats.norm.cdf(z_score) * 100, 2)  # ONE-TAILED
         else:
-            confidence_percent = 0.0
+            sd = 0
+            z_score = 0
+            confidence_percent = 0
 
         if confidence_percent < 50:
             confidence_level = "Low"
@@ -106,6 +106,7 @@ def index():
             profit_per_bet=profit_per_bet,
             confidence_level=confidence_level,
             confidence_percent=confidence_percent,
+            z_score=round(z_score, 2),
             wins=total_wins,
             losses=total_losses,
             pushes=total_pushes,
