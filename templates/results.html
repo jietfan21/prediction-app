@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prediction Results</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 8px;
+      font-size: 1.15rem;
+      max-width: 100%;
+      margin: auto;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      margin-bottom: 16px;
+    }
+
+    .highlight-box {
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      padding: 12px;
+      margin-bottom: 20px;
+      display: inline-block;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+
+    .highlight-box p {
+      margin: 8px 0;
+    }
+
+    .green { background-color: #d4edda; color: #155724; }
+    .yellow { background-color: #fff3cd; color: #856404; }
+    .red { background-color: #f8d7da; color: #721c24; }
+
+    .pill {
+      padding: 4px 8px;
+      border-radius: 6px;
+      display: inline-block;
+      font-weight: bold;
+    }
+
+    meter {
+      width: 80%;
+      height: 20px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+
+    p { margin: 8px 0; }
+
+    a {
+      display: inline-block;
+      margin-top: 18px;
+      font-size: 1rem;
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover { text-decoration: underline; }
+
+    .summary {
+      font-size: 0.95rem;
+      color: #666;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Results</h2>
+
+  <!-- Filter Summary -->
+  <div class="summary">
+    <p><strong>Filters:</strong>
+      {% if filters_applied and filters_applied|length > 0 %}
+        {{ filters_applied | join(', ') }}
+      {% else %}
+        <em>None selected — showing all data.</em>
+      {% endif %}
+    </p>
+  </div>
+
+  <!-- Highlight Section -->
+  <div class="highlight-box">
+    <p>
+      <strong>Profit per Bet:</strong>
+      <span class="pill {% if profit_per_bet > 0 %}green{% elif profit_per_bet < 0 %}red{% else %}yellow{% endif %}">
+        {{ profit_per_bet }} unit
+      </span>
+    </p>
+
+    <p><strong>Confidence Level:</strong></p>
+    <p>
+      <span class="pill {% if confidence_level == 'High' %}green{% elif confidence_level == 'Medium' %}yellow{% else %}red{% endif %}">
+        {{ confidence_level }} ({{ confidence_percent }}%)
+      </span>
+    </p>
+    <meter 
+      value="{{ confidence_percent }}" 
+      min="0" 
+      max="100" 
+      low="40" 
+      high="70" 
+      optimum="100">
+    </meter>
+  </div>
+
+  <!-- Breakdown -->
+  <p><strong>Wins:</strong> 🟩 {{ wins }} &nbsp;&nbsp;&nbsp;
+     <strong>Losses:</strong> 🟥 {{ losses }} &nbsp;&nbsp;&nbsp;
+     <strong>Pushes:</strong> 🟨 {{ pushes }}</p>
+
+  <p>
+    <strong>Total Profit:</strong>
+    <span class="pill {% if profit > 0 %}green{% elif profit < 0 %}red{% else %}yellow{% endif %}">
+      {{ profit }} unit
+    </span>
+  </p>
+
+  <p>
+    <strong>Win Rate:</strong>
+    <span class="pill {% if win_rate > 50 %}green{% elif win_rate < 50 %}red{% else %}yellow{% endif %}">
+      {{ win_rate }}%
+    </span>
+  </p>
+
+  <p><strong>Total Bets:</strong> {{ total_bets }}</p>
+
+  <a href="/">Back to Search</a>
+</body>
+</html>
