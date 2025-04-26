@@ -26,41 +26,41 @@ def index():
     stakes = sorted(df['Stake'].dropna().unique())
 
     if request.method == 'POST':
-        sport = request.form.get('sport', '').strip()
-        bet_type = request.form.get('type', '').strip()
-        platform = request.form.get('platform', '').strip()
+        sports_selected = request.form.getlist('sport[]')
+        types_selected = request.form.getlist('type[]')
+        platforms_selected = request.form.getlist('platform[]')
         odds = request.form.get('odds', '').strip()
-        wide_range = request.form.get('wide_range', '').strip()
-        narrow_range = request.form.get('narrow_range', '').strip()
-        stake = request.form.get('stake', '').strip()
+        wide_ranges_selected = request.form.getlist('wide_range[]')
+        narrow_ranges_selected = request.form.getlist('narrow_range[]')
+        stakes_selected = request.form.getlist('stake[]')
 
         filters_applied = [f"Bet Return: {'Yes' if file_choice == 'yes' else 'No'}"]
 
-        if sport:
-            df = df[df['Sport'].astype(str).str.lower() == sport.lower()]
-            filters_applied.append(f"Sport: {sport}")
-        if bet_type:
-            df = df[df['Type'].astype(str).str.lower() == bet_type.lower()]
-            filters_applied.append(f"Type: {bet_type}")
-        if platform:
-            df = df[df['Platform'].astype(str).str.lower() == platform.lower()]
-            filters_applied.append(f"Platform: {platform}")
+        if sports_selected:
+            df = df[df['Sport'].astype(str).str.lower().isin([s.lower() for s in sports_selected])]
+            filters_applied.append(f"Sports: {', '.join(sports_selected)}")
+        if types_selected:
+            df = df[df['Type'].astype(str).str.lower().isin([t.lower() for t in types_selected])]
+            filters_applied.append(f"Types: {', '.join(types_selected)}")
+        if platforms_selected:
+            df = df[df['Platform'].astype(str).str.lower().isin([p.lower() for p in platforms_selected])]
+            filters_applied.append(f"Platforms: {', '.join(platforms_selected)}")
         if odds:
             try:
                 df = df[df['Odd'].astype(float) == float(odds)]
                 filters_applied.append(f"Odds: {odds}")
             except:
                 pass
-        if wide_range:
-            df = df[df['Wide Odd Range'].astype(str).str.lower() == wide_range.lower()]
-            filters_applied.append(f"Wide Range: {wide_range}")
-        if narrow_range:
-            df = df[df['Narrow Odd Range'].astype(str).str.lower() == narrow_range.lower()]
-            filters_applied.append(f"Narrow Range: {narrow_range}")
-        if stake:
+        if wide_ranges_selected:
+            df = df[df['Wide Odd Range'].astype(str).str.lower().isin([w.lower() for w in wide_ranges_selected])]
+            filters_applied.append(f"Wide Range: {', '.join(wide_ranges_selected)}")
+        if narrow_ranges_selected:
+            df = df[df['Narrow Odd Range'].astype(str).str.lower().isin([n.lower() for n in narrow_ranges_selected])]
+            filters_applied.append(f"Narrow Range: {', '.join(narrow_ranges_selected)}")
+        if stakes_selected:
             try:
-                df = df[df['Stake'].astype(float) == float(stake)]
-                filters_applied.append(f"Stake: {stake}")
+                df = df[df['Stake'].astype(float).isin([float(s) for s in stakes_selected])]
+                filters_applied.append(f"Stake: {', '.join(stakes_selected)}")
             except:
                 pass
 
@@ -77,7 +77,7 @@ def index():
         win_rate = round((total_wins / (total_wins + total_losses)) * 100, 2) if (total_wins + total_losses) > 0 else 0
         profit_per_bet = round(total_profit / total_bets, 2) if total_bets > 0 else 0.0
 
-        # ✅ Confidence Level Calculation (One-Tailed)
+        # One-Tailed Confidence
         margin_of_error = 0.1
         filtered_profits = df['Profit/Loss'].dropna().tolist()
         n = len(filtered_profits)
@@ -85,7 +85,7 @@ def index():
         if n >= 2:
             sd = statistics.stdev(filtered_profits)
             z_score = (margin_of_error * math.sqrt(n)) / sd if sd > 0 else 0
-            confidence_percent = round(stats.norm.cdf(z_score) * 100, 2)  # ONE-TAILED
+            confidence_percent = round(stats.norm.cdf(z_score) * 100, 2)
         else:
             sd = 0
             z_score = 0
