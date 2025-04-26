@@ -1,123 +1,138 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Prediction Filter</title>
+  <title>Prediction Search</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: sans-serif;
       padding: 8px;
-      margin: 0 auto;
-      font-size: 0.8rem;
-      max-width: 100%;
-      box-sizing: border-box;
+      font-size: 1rem;
+      max-width: 480px;
+      margin: auto;
+      text-align: center;
     }
 
     h2 {
-      text-align: center;
-      margin: 0 0 12px 0;
-      font-size: 1rem;
+      font-size: 1.3rem;
+      margin-bottom: 16px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     label {
-      display: block;
-      margin-top: 6px;
+      margin-top: 8px;
       font-weight: bold;
-      font-size: 0.75rem;
+      font-size: 0.95rem;
     }
 
-    select, input {
+    select, input[type="text"] {
+      margin-top: 4px;
+      margin-bottom: 8px;
+      padding: 4px;
+      font-size: 0.95rem;
       width: 100%;
-      padding: 5px;
-      font-size: 0.75rem;
-      margin-top: 2px;
       box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    select[multiple] {
+      height: 80px; /* Smaller multi-select height */
     }
 
     button {
-      width: 100%;
-      margin-top: 12px;
-      padding: 6px;
-      font-size: 0.8rem;
-      background-color: #4CAF50;
+      margin-top: 16px;
+      padding: 8px 16px;
+      font-size: 1rem;
+      background-color: #007bff;
       color: white;
       border: none;
-      font-weight: bold;
+      border-radius: 6px;
       cursor: pointer;
+      width: 100%;
     }
 
     button:hover {
-      background-color: #45a049;
+      background-color: #0056b3;
+    }
+
+    @media (max-width: 480px) {
+      body {
+        font-size: 0.95rem;
+      }
+      select, input[type="text"] {
+        font-size: 0.9rem;
+        padding: 3px;
+      }
     }
   </style>
 </head>
 <body>
-  <h2>Search Historical Predictions</h2>
+  <h2>Prediction Filter</h2>
+
   <form method="POST">
 
-    <label>Sport:</label>
-    <select name="sport">
-      <option value="">-- Skip Filter --</option>
-      {% for item in sports %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="sport">Sport:</label>
+    <select name="sport[]" multiple>
+      {% for sport in sports %}
+        <option value="{{ sport }}">{{ sport }}</option>
       {% endfor %}
     </select>
 
-    <label>Type:</label>
-    <select name="type">
-      <option value="">-- Skip Filter --</option>
-      {% for item in types %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="type">Type:</label>
+    <select name="type[]" multiple>
+      {% for type in types %}
+        <option value="{{ type }}">{{ type }}</option>
       {% endfor %}
     </select>
 
-    <label>Platform:</label>
-    <select name="platform">
-      <option value="">-- Skip Filter --</option>
-      {% for item in platforms %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="platform">Platform:</label>
+    <select name="platform[]" multiple>
+      {% for platform in platforms %}
+        <option value="{{ platform }}">{{ platform }}</option>
       {% endfor %}
     </select>
 
-    <label>Odd:</label>
-    <select name="odds">
-      <option value="">-- Skip Filter --</option>
-      {% for item in odds %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="odds">Odds:</label>
+    <input type="text" name="odds" placeholder="Exact odds (optional)">
+
+    <label for="wide_range">Wide Odd Range:</label>
+    <select name="wide_range[]" multiple>
+      {% for wide_range in wide_ranges %}
+        <option value="{{ wide_range }}">{{ wide_range }}</option>
       {% endfor %}
     </select>
 
-    <label>Wide Odd Range:</label>
-    <select name="wide_range">
-      <option value="">-- Skip Filter --</option>
-      {% for item in wide_ranges %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="narrow_range">Narrow Odd Range:</label>
+    <select name="narrow_range[]" multiple>
+      {% for narrow_range in narrow_ranges %}
+        <option value="{{ narrow_range }}">{{ narrow_range }}</option>
       {% endfor %}
     </select>
 
-    <label>Narrow Odd Range:</label>
-    <select name="narrow_range">
-      <option value="">-- Skip Filter --</option>
-      {% for item in narrow_ranges %}
-        <option value="{{ item }}">{{ item }}</option>
+    <label for="stake">Stake:</label>
+    <select name="stake[]" multiple>
+      {% for stake in stakes %}
+        <option value="{{ stake }}">{{ stake }}</option>
       {% endfor %}
     </select>
 
-    <label>Stake:</label>
-    <select name="stake">
-      <option value="">-- Skip Filter --</option>
-      {% for item in stakes %}
-        <option value="{{ item }}">{{ item }}</option>
-      {% endfor %}
-    </select>
-
-    <label>Bet Return:</label>
+    <label for="bet_return">Bet Return:</label>
     <select name="bet_return">
-      <option value="no">No</option>
+      <option value="no" selected>No</option>
       <option value="yes">Yes</option>
     </select>
 
     <button type="submit">Search</button>
+
+    <!-- ✅ Add extra space after Search button -->
+    <div style="height: 80px;"></div>
+
   </form>
 </body>
 </html>
